@@ -1,0 +1,331 @@
+{
+    "error": false,
+    "response": {
+        "first_name": "Jawher",
+        "last_name": "Jabri",
+        "full_name": "Jawher Jabri",
+        "gender": "male",
+        "job_title": "AI Research Engineer @InstaDeep Ltd",
+        "linkedin": "https://www.linkedin.com/in/jawher-jabri-b640b0176",
+        "summary": null,
+        "premium": false,
+        "skills": "Machine Learning, Deep Learning, Natural Language Processing (NLP), Python (Programming Language), Databases, Problem Solving, AngularJS, Scrum, Spring Boot, Java",
+        "work_experience": [
+            {
+                "company": {
+                    "id": 15189276,
+                    "name": "InstaDeep",
+                    "logo": "https://media.licdn.com/dms/image/D4D0BAQFEQ8RstPHlLg/company-logo_400_400/0/1705589837941/instadeep_logo?e=1721865600&v=beta&t=8wNC0uYIYYCCqdsag84dm1sx1IxltnajRnfAuljP0jg",
+                    "url": "https://www.linkedin.com/company/instadeep/",
+                    "employees": {
+                        "start": 201,
+                        "end": 500
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 4,
+                        "day": null,
+                        "year": 2023
+                    },
+                    "end": {
+                        "month": null,
+                        "day": null,
+                        "year": null
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": "Tunis, Tunisia",
+                        "date": {
+                            "start": {
+                                "month": 10,
+                                "day": null,
+                                "year": 2023
+                            },
+                            "end": {
+                                "month": null,
+                                "day": null,
+                                "year": null
+                            }
+                        },
+                        "company": "InstaDeep",
+                        "description": null,
+                        "title": "AI Research Engineer ",
+                        "employment_type": "Full-time"
+                    },
+                    {
+                        "location": "Tunis, Tunisia",
+                        "date": {
+                            "start": {
+                                "month": 4,
+                                "day": null,
+                                "year": 2023
+                            },
+                            "end": {
+                                "month": 10,
+                                "day": null,
+                                "year": 2023
+                            }
+                        },
+                        "company": "InstaDeep",
+                        "description": null,
+                        "title": "AI Research Engineer Intern",
+                        "employment_type": "Internship"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": 521777,
+                    "name": "Safran",
+                    "logo": "https://media.licdn.com/dms/image/C4D0BAQF12gJLvR-O3Q/company-logo_400_400/0/1631345488529?e=1721865600&v=beta&t=6DWrOpBiA-Wtz_l5DEzzvKgt7Xdd31cqe7yQJtz6jFw",
+                    "url": "https://www.linkedin.com/company/safran/",
+                    "employees": {
+                        "start": 10001,
+                        "end": null
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 7,
+                        "day": null,
+                        "year": 2022
+                    },
+                    "end": {
+                        "month": 8,
+                        "day": null,
+                        "year": 2022
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": "Tunisia",
+                        "date": {
+                            "start": {
+                                "month": 7,
+                                "day": null,
+                                "year": 2022
+                            },
+                            "end": {
+                                "month": 8,
+                                "day": null,
+                                "year": 2022
+                            }
+                        },
+                        "company": "Safran",
+                        "description": "Creating and training Question answer (NLP) model that has PDF files as input.",
+                        "title": "Data Science Intern",
+                        "employment_type": "Internship"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": 2304529,
+                    "name": "Azur Systemes",
+                    "logo": "https://media.licdn.com/dms/image/C510BAQFp1fnSTf671w/company-logo_400_400/0/1631381424103?e=1721865600&v=beta&t=Qs2UM3Mulj_um1VmaPqe0GyPEUa3kD6AgZ0p9WzmyB8",
+                    "url": "https://www.linkedin.com/company/azur-systemes/",
+                    "employees": {
+                        "start": 11,
+                        "end": 50
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 2,
+                        "day": null,
+                        "year": 2021
+                    },
+                    "end": {
+                        "month": 6,
+                        "day": null,
+                        "year": 2021
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": null,
+                        "date": {
+                            "start": {
+                                "month": 2,
+                                "day": null,
+                                "year": 2021
+                            },
+                            "end": {
+                                "month": 6,
+                                "day": null,
+                                "year": 2021
+                            }
+                        },
+                        "company": "Azur Systemes",
+                        "description": "Website Developpement using Angular and Spring Boot.",
+                        "title": "Website Developer",
+                        "employment_type": "Internship"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": 965306,
+                    "name": "AIESEC in Lithuania",
+                    "logo": "https://media.licdn.com/dms/image/C4D0BAQGyPoBb2SQUXw/company-logo_400_400/0/1630536443059/aiesec_lithuania_logo?e=1721865600&v=beta&t=X5eQIn5n2gQ8_hBQUf14gRY-TRkZD2uHy9-b9EHhDPw",
+                    "url": "https://www.linkedin.com/company/aiesec-lithuania/",
+                    "employees": {
+                        "start": 51,
+                        "end": 200
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 8,
+                        "day": null,
+                        "year": 2020
+                    },
+                    "end": {
+                        "month": 1,
+                        "day": null,
+                        "year": 2021
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": null,
+                        "date": {
+                            "start": {
+                                "month": 8,
+                                "day": null,
+                                "year": 2020
+                            },
+                            "end": {
+                                "month": 1,
+                                "day": null,
+                                "year": 2021
+                            }
+                        },
+                        "company": "AIESEC in Lithuania",
+                        "description": null,
+                        "title": "Créateur de contenu",
+                        "employment_type": "Part-time"
+                    }
+                ]
+            }
+        ],
+        "education": [
+            {
+                "date": {
+                    "start": {
+                        "month": 9,
+                        "day": null,
+                        "year": 2021
+                    },
+                    "end": {
+                        "month": 10,
+                        "day": null,
+                        "year": 2023
+                    }
+                },
+                "school": {
+                    "name": "Université Paris Dauphine - PSL",
+                    "logo": "https://media.licdn.com/dms/image/C560BAQGsmP2rTINIHg/company-logo_400_400/0/1630595014555/universit_paris_dauphine_logo?e=1721865600&v=beta&t=W7i4ix8uyVjzGjIvixkbtMJLz1v8HRsaciIBCIYRakQ",
+                    "url": "https://www.linkedin.com/school/universite-paris-dauphine-psl/"
+                },
+                "degree_name": "Mastère Big data et intelligence artificielle",
+                "field_of_study": "Artificial Intelligence",
+                "grade": null
+            },
+            {
+                "date": {
+                    "start": {
+                        "month": null,
+                        "day": null,
+                        "year": 2018
+                    },
+                    "end": {
+                        "month": null,
+                        "day": null,
+                        "year": 2021
+                    }
+                },
+                "school": {
+                    "name": "Institut Supérieur de Gestion de Tunis",
+                    "logo": "https://media.licdn.com/dms/image/C510BAQHoET8X4pCh2w/company-logo_400_400/0/1631366559453?e=1721865600&v=beta&t=MnIcKPnmqWs8gGIjt059BBw-uhWcjdeBpUKSEfOln3g",
+                    "url": "https://www.linkedin.com/school/institutsup%C3%A9rieurdegestiondetunis/"
+                },
+                "degree_name": "Licence",
+                "field_of_study": "Informatique de gestion",
+                "grade": null
+            }
+        ],
+        "languages": {
+            "primary_locale": {
+                "country": "FR",
+                "language": "fr"
+            },
+            "supported_locales": [
+                {
+                    "country": "FR",
+                    "language": "fr"
+                }
+            ],
+            "profile_languages": [
+                {
+                    "name": "Anglais",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Arabe",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Français",
+                    "proficiency": "FULL_PROFESSIONAL"
+                }
+            ]
+        },
+        "current_job_year": 2023,
+        "current_job_month": 4,
+        "entity_urn": "ACoAACmpIXwBJttZ3yV_2znX18GvjeG01AGARbg",
+        "picture": "https://assets-prospeo.s3.us-east-2.amazonaws.com/lead_R75YJO1M37I4TM2DEICZ.jpg",
+        "email": {
+            "email": "j.jabri@instadeep.com",
+            "email_anon_id": "0omHXkL37fn6",
+            "email_status": "VALID",
+            "email_type": "professional"
+        },
+        "company": {
+            "name": "InstaDeep",
+            "is_catch_all": null,
+            "size": "201-500",
+            "logo": "https://assets-prospeo.s3.us-east-2.amazonaws.com/company_10IN5U2OWPPPCKSFQYJQ.jpg",
+            "linkedin": "https://www.linkedin.com/company/instadeep",
+            "website": "http://www.instadeep.com",
+            "domain": "instadeep.com",
+            "common_email_pattern": "{f}.{last}",
+            "industry": "Software Development",
+            "founded_in": 2014,
+            "description": "InstaDeep is a leading global technology company offering a range of AI solutions, ranging from optimized pattern-recognition, GPU-accelerated insights, to self-learning decision making systems.\n-Decision-making systems: Life and business are all about decisions. InstaDeep harnesses the power of reinforcement learning to create systems that can make decisions on their own, based on their own autonomous training. Many fields can benefit greatly from this technology, be it robotics, mobility, logistics, finance or healthcare.\n-GPU-accelerated insights: When you try to deploy AI in your business, compute power is key.\n A Multi-GPU setup can be messy and complicated. With Nvidia’s DGX-1 (one of the most \n powerful AI machines on the market), InstaDeep can help you achieve insane computing power to solve even the most intensive AI problems.\n-Optimized Deep Learning: Deep Learning delivers high-performance AI for pattern recognition yet is notoriously time-consuming to fine-tune. InstaDeep boosts this process to save you time and money on your computer vision, natural language processing or predictive analytics project.",
+            "total_emails": 140,
+            "location": {
+                "country": "United Kingdom",
+                "country_code": "GB",
+                "state": null,
+                "city": "London",
+                "timezone": "Europe/London",
+                "timezone_offset": "1.0",
+                "postal_code": null,
+                "address": "5 Merchant Square"
+            }
+        },
+        "location": {
+            "country": "Tunisia",
+            "country_code": "TN",
+            "state": "Zaghouan Governorate",
+            "city": null,
+            "timezone": "Africa/Tunis",
+            "timezone_offset": "1.0",
+            "postal_code": null,
+            "raw": "Zaghouan Governorate, Tunisia"
+        }
+    }
+}

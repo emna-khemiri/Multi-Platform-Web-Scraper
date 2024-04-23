@@ -1,0 +1,778 @@
+{
+    "connection": 2018,
+    "data": {
+        "urn": "ACoAACmpIXwBJttZ3yV_2znX18GvjeG01AGARbg",
+        "username": "jawher-jabri-b640b0176",
+        "firstName": "Jawher",
+        "lastName": "Jabri",
+        "isOpenToWork": false,
+        "isHiring": false,
+        "profilePicture": "https://media.licdn.com/dms/image/D4D03AQHgP5aQR3HdZQ/profile-displayphoto-shrink_800_800/0/1668268862704?e=1719446400&v=beta&t=AFBOYBsJ9gqgDtRnlbACnsBQ2vuGQyWCDywgbQ3NEvM",
+        "summary": "",
+        "headline": "AI Research Engineer @InstaDeep Ltd",
+        "geo": {
+            "country": "Tunisia",
+            "city": "Zaghouan Governorate",
+            "full": "Zaghouan Governorate, Tunisia"
+        },
+        "languages": [
+            {
+                "name": "Anglais",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Arabe",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Français",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ],
+        "educations": [
+            {
+                "start": {
+                    "year": 2021,
+                    "month": 9,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2023,
+                    "month": 10,
+                    "day": 0
+                },
+                "fieldOfStudy": "Artificial Intelligence",
+                "degree": "Mastère Big data et intelligence artificielle",
+                "grade": "",
+                "schoolName": "Université Paris Dauphine - PSL",
+                "description": "",
+                "activities": "",
+                "url": "https://www.linkedin.com/school/universite-paris-dauphine-psl/",
+                "schoolId": "15092700"
+            },
+            {
+                "start": {
+                    "year": 2018,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 0,
+                    "day": 0
+                },
+                "fieldOfStudy": "Informatique de gestion",
+                "degree": "Licence",
+                "grade": "",
+                "schoolName": "Institut Supérieur de Gestion de Tunis",
+                "description": "",
+                "activities": "",
+                "url": "https://www.linkedin.com/school/institutsup%C3%A9rieurdegestiondetunis/",
+                "schoolId": "11163068"
+            }
+        ],
+        "position": [
+            {
+                "companyName": "InstaDeep",
+                "companyUsername": "instadeep",
+                "companyURL": "https://www.linkedin.com/company/instadeep/",
+                "companyLogo": "https://media.licdn.com/dms/image/D4D0BAQFEQ8RstPHlLg/company-logo_400_400/0/1705589837941/instadeep_logo?e=1721865600&v=beta&t=8wNC0uYIYYCCqdsag84dm1sx1IxltnajRnfAuljP0jg",
+                "companyIndustry": "Computer Software",
+                "companyStaffCountRange": "201 - 500",
+                "title": "AI Research Engineer ",
+                "multiLocaleTitle": {
+                    "fr_FR": "AI Research Engineer "
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "InstaDeep"
+                },
+                "location": "Tunis, Tunisia",
+                "description": "",
+                "employmentType": "Full-time",
+                "start": {
+                    "year": 2023,
+                    "month": 10,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "InstaDeep Ltd",
+                "companyUsername": "instadeep",
+                "companyURL": "https://www.linkedin.com/company/instadeep/",
+                "companyLogo": "https://media.licdn.com/dms/image/D4D0BAQFEQ8RstPHlLg/company-logo_400_400/0/1705589837941/instadeep_logo?e=1721865600&v=beta&t=8wNC0uYIYYCCqdsag84dm1sx1IxltnajRnfAuljP0jg",
+                "companyIndustry": "Computer Software",
+                "companyStaffCountRange": "201 - 500",
+                "title": "AI Research Engineer Intern",
+                "multiLocaleTitle": {
+                    "fr_FR": "AI Research Engineer Intern"
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "InstaDeep Ltd"
+                },
+                "location": "Tunis, Tunisia",
+                "description": "",
+                "employmentType": "Internship",
+                "start": {
+                    "year": 2023,
+                    "month": 4,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2023,
+                    "month": 10,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Safran",
+                "companyUsername": "safran",
+                "companyURL": "https://www.linkedin.com/company/safran/",
+                "companyLogo": "https://media.licdn.com/dms/image/C4D0BAQF12gJLvR-O3Q/company-logo_400_400/0/1631345488529?e=1721865600&v=beta&t=6DWrOpBiA-Wtz_l5DEzzvKgt7Xdd31cqe7yQJtz6jFw",
+                "companyIndustry": "Aviation & Aerospace",
+                "companyStaffCountRange": "10001 - 0",
+                "title": "Data Science Intern",
+                "multiLocaleTitle": {
+                    "fr_FR": "Data Science Intern"
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "Safran"
+                },
+                "location": "Tunisia",
+                "description": "Creating and training Question answer (NLP) model that has PDF files as input.",
+                "employmentType": "Internship",
+                "start": {
+                    "year": 2022,
+                    "month": 7,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2022,
+                    "month": 8,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Azur Systemes",
+                "companyUsername": "azur-systemes",
+                "companyURL": "https://www.linkedin.com/company/azur-systemes/",
+                "companyLogo": "https://media.licdn.com/dms/image/C510BAQFp1fnSTf671w/company-logo_400_400/0/1631381424103?e=1721865600&v=beta&t=Qs2UM3Mulj_um1VmaPqe0GyPEUa3kD6AgZ0p9WzmyB8",
+                "companyIndustry": "Information Technology & Services",
+                "companyStaffCountRange": "11 - 50",
+                "title": "Website Developer",
+                "multiLocaleTitle": {
+                    "fr_FR": "Website Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "Azur Systemes"
+                },
+                "location": "",
+                "description": "Website Developpement using Angular and Spring Boot.",
+                "employmentType": "Internship",
+                "start": {
+                    "year": 2021,
+                    "month": 2,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 6,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "AIESEC in Lithuania",
+                "companyUsername": "aiesec-lithuania",
+                "companyURL": "https://www.linkedin.com/company/aiesec-lithuania/",
+                "companyLogo": "https://media.licdn.com/dms/image/C4D0BAQGyPoBb2SQUXw/company-logo_400_400/0/1630536443059/aiesec_lithuania_logo?e=1721865600&v=beta&t=X5eQIn5n2gQ8_hBQUf14gRY-TRkZD2uHy9-b9EHhDPw",
+                "companyIndustry": "Non-profit Organization Management",
+                "companyStaffCountRange": "51 - 200",
+                "title": "Créateur de contenu",
+                "multiLocaleTitle": {
+                    "fr_FR": "Créateur de contenu"
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "AIESEC in Lithuania"
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "Part-time",
+                "start": {
+                    "year": 2020,
+                    "month": 8,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 1,
+                    "day": 0
+                }
+            }
+        ],
+        "fullPositions": [
+            {
+                "companyName": "InstaDeep",
+                "companyUsername": "instadeep",
+                "companyURL": "https://www.linkedin.com/company/instadeep/",
+                "companyLogo": "https://media.licdn.com/dms/image/D4D0BAQFEQ8RstPHlLg/company-logo_400_400/0/1705589837941/instadeep_logo?e=1721865600&v=beta&t=8wNC0uYIYYCCqdsag84dm1sx1IxltnajRnfAuljP0jg",
+                "companyIndustry": "Computer Software",
+                "companyStaffCountRange": "201 - 500",
+                "title": "AI Research Engineer ",
+                "multiLocaleTitle": {
+                    "fr_FR": "AI Research Engineer "
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "InstaDeep"
+                },
+                "location": "Tunis, Tunisia",
+                "description": "",
+                "employmentType": "Full-time",
+                "start": {
+                    "year": 2023,
+                    "month": 10,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "InstaDeep Ltd",
+                "companyUsername": "instadeep",
+                "companyURL": "https://www.linkedin.com/company/instadeep/",
+                "companyLogo": "https://media.licdn.com/dms/image/D4D0BAQFEQ8RstPHlLg/company-logo_400_400/0/1705589837941/instadeep_logo?e=1721865600&v=beta&t=8wNC0uYIYYCCqdsag84dm1sx1IxltnajRnfAuljP0jg",
+                "companyIndustry": "Computer Software",
+                "companyStaffCountRange": "201 - 500",
+                "title": "AI Research Engineer Intern",
+                "multiLocaleTitle": {
+                    "fr_FR": "AI Research Engineer Intern"
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "InstaDeep Ltd"
+                },
+                "location": "Tunis, Tunisia",
+                "description": "",
+                "employmentType": "Internship",
+                "start": {
+                    "year": 2023,
+                    "month": 4,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2023,
+                    "month": 10,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Safran",
+                "companyUsername": "safran",
+                "companyURL": "https://www.linkedin.com/company/safran/",
+                "companyLogo": "https://media.licdn.com/dms/image/C4D0BAQF12gJLvR-O3Q/company-logo_400_400/0/1631345488529?e=1721865600&v=beta&t=6DWrOpBiA-Wtz_l5DEzzvKgt7Xdd31cqe7yQJtz6jFw",
+                "companyIndustry": "Aviation & Aerospace",
+                "companyStaffCountRange": "10001 - 0",
+                "title": "Data Science Intern",
+                "multiLocaleTitle": {
+                    "fr_FR": "Data Science Intern"
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "Safran"
+                },
+                "location": "Tunisia",
+                "description": "Creating and training Question answer (NLP) model that has PDF files as input.",
+                "employmentType": "Internship",
+                "start": {
+                    "year": 2022,
+                    "month": 7,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2022,
+                    "month": 8,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Azur Systemes",
+                "companyUsername": "azur-systemes",
+                "companyURL": "https://www.linkedin.com/company/azur-systemes/",
+                "companyLogo": "https://media.licdn.com/dms/image/C510BAQFp1fnSTf671w/company-logo_400_400/0/1631381424103?e=1721865600&v=beta&t=Qs2UM3Mulj_um1VmaPqe0GyPEUa3kD6AgZ0p9WzmyB8",
+                "companyIndustry": "Information Technology & Services",
+                "companyStaffCountRange": "11 - 50",
+                "title": "Website Developer",
+                "multiLocaleTitle": {
+                    "fr_FR": "Website Developer"
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "Azur Systemes"
+                },
+                "location": "",
+                "description": "Website Developpement using Angular and Spring Boot.",
+                "employmentType": "Internship",
+                "start": {
+                    "year": 2021,
+                    "month": 2,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 6,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "AIESEC in Lithuania",
+                "companyUsername": "aiesec-lithuania",
+                "companyURL": "https://www.linkedin.com/company/aiesec-lithuania/",
+                "companyLogo": "https://media.licdn.com/dms/image/C4D0BAQGyPoBb2SQUXw/company-logo_400_400/0/1630536443059/aiesec_lithuania_logo?e=1721865600&v=beta&t=X5eQIn5n2gQ8_hBQUf14gRY-TRkZD2uHy9-b9EHhDPw",
+                "companyIndustry": "Non-profit Organization Management",
+                "companyStaffCountRange": "51 - 200",
+                "title": "Créateur de contenu",
+                "multiLocaleTitle": {
+                    "fr_FR": "Créateur de contenu"
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "AIESEC in Lithuania"
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "Part-time",
+                "start": {
+                    "year": 2020,
+                    "month": 8,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 1,
+                    "day": 0
+                }
+            }
+        ],
+        "skills": [
+            {
+                "name": "Machine Learning",
+                "passedSkillAssessment": true,
+                "endorsementsCount": 2
+            },
+            {
+                "name": "Deep Learning",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Natural Language Processing (NLP)",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Python (Programming Language)",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Databases",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Problem Solving",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "AngularJS",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Scrum",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Spring Boot",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Java",
+                "passedSkillAssessment": false
+            }
+        ],
+        "givenRecommendation": null,
+        "givenRecommendationCount": 0,
+        "receivedRecommendation": null,
+        "receivedRecommendationCount": 0,
+        "courses": null,
+        "certifications": [
+            {
+                "name": "Machine Learning DevOps Engineer",
+                "start": {
+                    "year": 2023,
+                    "month": 12,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "authority": "Udacity",
+                "company": {
+                    "name": "Udacity",
+                    "universalName": "udacity",
+                    "logo": "https://media.licdn.com/dms/image/C560BAQHiNYfm0YHKrg/company-logo_200_200/0/1656621848677/udacity_logo?e=1721865600&v=beta&t=8ZjVddNdKxiCdWE0igkBjpsFRrKd-vSbVZMbr7TTevE",
+                    "staffCountRange": {},
+                    "headquarter": {}
+                },
+                "timePeriod": {
+                    "start": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    },
+                    "end": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    }
+                }
+            },
+            {
+                "name": "AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1",
+                "start": {
+                    "year": 2023,
+                    "month": 2,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "authority": "Amazon Web Services (AWS)",
+                "company": {
+                    "name": "Amazon Web Services (AWS)",
+                    "universalName": "amazon-web-services",
+                    "logo": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_200_200/0/1670264051233/amazon_web_services_logo?e=1721865600&v=beta&t=WqEHowlYzCrWgdlce4q-m7yj70cwfVb4cGT9aeH4t3k",
+                    "staffCountRange": {},
+                    "headquarter": {}
+                },
+                "timePeriod": {
+                    "start": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    },
+                    "end": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    }
+                }
+            },
+            {
+                "name": "Machine Learning Pipelines with Azure ML Studio",
+                "start": {
+                    "year": 2022,
+                    "month": 10,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "authority": "Coursera",
+                "company": {
+                    "name": "Coursera",
+                    "universalName": "coursera",
+                    "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_200_200/0/1630530042036/coursera_logo?e=1721865600&v=beta&t=pjsBmA2EVLQFdZf_NWfgLGH2n6U0Iet19h_TW_Jd1ss",
+                    "staffCountRange": {},
+                    "headquarter": {}
+                },
+                "timePeriod": {
+                    "start": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    },
+                    "end": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    }
+                }
+            },
+            {
+                "name": " Tweet Emotion Recognition with TensorFlow",
+                "start": {
+                    "year": 2022,
+                    "month": 9,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "authority": "Coursera",
+                "company": {
+                    "name": "Coursera",
+                    "universalName": "coursera",
+                    "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_200_200/0/1630530042036/coursera_logo?e=1721865600&v=beta&t=pjsBmA2EVLQFdZf_NWfgLGH2n6U0Iet19h_TW_Jd1ss",
+                    "staffCountRange": {},
+                    "headquarter": {}
+                },
+                "timePeriod": {
+                    "start": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    },
+                    "end": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    }
+                }
+            },
+            {
+                "name": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+                "start": {
+                    "year": 2022,
+                    "month": 4,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "authority": "DeepLearning.AI",
+                "company": {
+                    "name": "DeepLearning.AI",
+                    "universalName": "deeplearningai",
+                    "logo": "https://media.licdn.com/dms/image/C560BAQEHKffoI8RwIQ/company-logo_200_200/0/1630672537710/deeplearningai_logo?e=1721865600&v=beta&t=TPFINk_fPkIXHWmGo6w1faWyXKLyh8vV7859CTXo4PI",
+                    "staffCountRange": {},
+                    "headquarter": {}
+                },
+                "timePeriod": {
+                    "start": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    },
+                    "end": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    }
+                }
+            },
+            {
+                "name": "Launching into Machine Learning",
+                "start": {
+                    "year": 2020,
+                    "month": 5,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "authority": "Google Cloud Training Online",
+                "company": {
+                    "name": "Google Cloud Training Online",
+                    "universalName": "google-cloud-training-online",
+                    "logo": "https://media.licdn.com/dms/image/C4D0BAQHTIj3QmQ5N0A/company-logo_200_200/0/1656443889325?e=1721865600&v=beta&t=OBslQGciZ0l8iCSUHQRBVE4Tihq460IPPkp9t0IXQWg",
+                    "staffCountRange": {},
+                    "headquarter": {}
+                },
+                "timePeriod": {
+                    "start": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    },
+                    "end": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    }
+                }
+            },
+            {
+                "name": "Complete Machine Learning with R Studio - ML for 2020",
+                "start": {
+                    "year": 2020,
+                    "month": 4,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "authority": "Udemy",
+                "company": {
+                    "name": "Udemy",
+                    "universalName": "udemy",
+                    "logo": "https://media.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_200_200/0/1630536914848/udemy_logo?e=1721865600&v=beta&t=mTtCS6qYW98frjn69N19qocl7HvgMKAbRXMUTOIeVxY",
+                    "staffCountRange": {},
+                    "headquarter": {}
+                },
+                "timePeriod": {
+                    "start": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    },
+                    "end": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    }
+                }
+            }
+        ],
+        "honors": null,
+        "volunteering": [
+            {
+                "title": "President",
+                "start": {
+                    "year": 2020,
+                    "month": 10,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 0
+                },
+                "companyName": "ISG Google Club",
+                "CompanyId": "19037451",
+                "companyUrl": "https://www.linkedin.com/company/19037451",
+                "companyLogo": "https://media.licdn.com/dms/image/C560BAQE2PP4CB-NIUQ/company-logo_400_400/0/1630583560751?e=1721865600&v=beta&t=Z6rZG6xYzlp9OJ7QF-4m0OEAxWbUfDDZulfy9fNNqdQ"
+            },
+            {
+                "title": "Vice President",
+                "start": {
+                    "year": 2021,
+                    "month": 2,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 9,
+                    "day": 0
+                },
+                "companyName": "AIESEC in Tunisia",
+                "CompanyId": "2693689",
+                "companyUrl": "https://www.linkedin.com/company/2693689",
+                "companyLogo": "https://media.licdn.com/dms/image/D4E0BAQHEMid4dDzlWA/company-logo_400_400/0/1701742159175/aiesec_tunisia_logo?e=1721865600&v=beta&t=MPYYDFTBWR5XHLjn6VCeQiw2j0rkNQci6SYDU-9b_xk"
+            },
+            {
+                "title": "Head Of Finance",
+                "start": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2020,
+                    "month": 10,
+                    "day": 0
+                },
+                "companyName": "ISG Google Club",
+                "CompanyId": "19037451",
+                "companyUrl": "https://www.linkedin.com/company/19037451",
+                "companyLogo": "https://media.licdn.com/dms/image/C560BAQE2PP4CB-NIUQ/company-logo_400_400/0/1630583560751?e=1721865600&v=beta&t=Z6rZG6xYzlp9OJ7QF-4m0OEAxWbUfDDZulfy9fNNqdQ"
+            },
+            {
+                "title": "Team Leader",
+                "start": {
+                    "year": 2020,
+                    "month": 2,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 1,
+                    "day": 0
+                },
+                "companyName": "AIESEC in Tunisia",
+                "CompanyId": "2693689",
+                "companyUrl": "https://www.linkedin.com/company/2693689",
+                "companyLogo": "https://media.licdn.com/dms/image/D4E0BAQHEMid4dDzlWA/company-logo_400_400/0/1701742159175/aiesec_tunisia_logo?e=1721865600&v=beta&t=MPYYDFTBWR5XHLjn6VCeQiw2j0rkNQci6SYDU-9b_xk"
+            },
+            {
+                "title": "Sales Team Member",
+                "start": {
+                    "year": 2019,
+                    "month": 2,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2019,
+                    "month": 9,
+                    "day": 0
+                },
+                "companyName": "ISG Google Club",
+                "CompanyId": "19037451",
+                "companyUrl": "https://www.linkedin.com/company/19037451",
+                "companyLogo": "https://media.licdn.com/dms/image/C560BAQE2PP4CB-NIUQ/company-logo_400_400/0/1630583560751?e=1721865600&v=beta&t=Z6rZG6xYzlp9OJ7QF-4m0OEAxWbUfDDZulfy9fNNqdQ"
+            },
+            {
+                "title": "English Teacher",
+                "start": {
+                    "year": 2019,
+                    "month": 7,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2019,
+                    "month": 8,
+                    "day": 0
+                },
+                "companyName": "AIESEC",
+                "CompanyId": "2034",
+                "companyUrl": "https://www.linkedin.com/company/2034",
+                "companyLogo": "https://media.licdn.com/dms/image/C4E0BAQFNIFKL5h461A/company-logo_400_400/0/1630645686877/aiesec_logo?e=1721865600&v=beta&t=O_-UOtkwp9yWZ8z4RwMPWxJhru49vDfboRGbPmaUwfY"
+            },
+            {
+                "title": "Operations Team Member",
+                "start": {
+                    "year": 2019,
+                    "month": 3,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2020,
+                    "month": 2,
+                    "day": 0
+                },
+                "companyName": "AIESEC in Tunisia",
+                "CompanyId": "2693689",
+                "companyUrl": "https://www.linkedin.com/company/2693689",
+                "companyLogo": "https://media.licdn.com/dms/image/D4E0BAQHEMid4dDzlWA/company-logo_400_400/0/1701742159175/aiesec_tunisia_logo?e=1721865600&v=beta&t=MPYYDFTBWR5XHLjn6VCeQiw2j0rkNQci6SYDU-9b_xk"
+            }
+        ],
+        "supportedLocales": [
+            {
+                "country": "FR",
+                "language": "fr"
+            }
+        ],
+        "multiLocaleFirstName": {
+            "fr": "Jawher"
+        },
+        "multiLocaleLastName": {
+            "fr": "Jabri"
+        },
+        "multiLocaleHeadline": {
+            "fr": "AI Research Engineer @InstaDeep Ltd"
+        }
+    },
+    "follower": 2036
+}
