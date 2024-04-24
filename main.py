@@ -1,7 +1,9 @@
 import json
 import logging
 import os
+
 from linkedin.linkedin_scraper import DataExtractor
+from linkedin_google_search import get_first_google_search_url,find_organization_by_email
 from linkedin_to_cb_tc import scrape_and_summarize_techcrunch, scrape_linkedin, scrape_crunchbase_organization, extract_crunchbase_username
 import behance_to_linkedin
 from github.github_scraper import load_github_data, extract_linkedin_username_from_github
@@ -62,6 +64,35 @@ def extract_username_from_alternate_sources(user_info, logger):
 
 def process_user(user_info, logger):
     linkedin_username = user_info.get('linkedin_username') or extract_username_from_alternate_sources(user_info, logger)
+    full_name = f"{user_info.get('first_name')} {user_info.get('last_name')}"
+    email = user_info.get('email')
+    company_name = user_info.get('company_name')
+
+    if email:
+        if not company_name:
+            logger.info("Extracting company name from email.")
+            company_name = find_organization_by_email(email)
+            if company_name in ["Failed to retrieve information.", "No data found for this domain.", "Organization information not available."]:
+                logger.error(f"Could not extract company name from email: {company_name}")
+                return
+    else:
+        logger.warning("Email not provided; limited functionality for organization extraction.")
+
+    if not user_info.get('linkedin_username') and company_name:
+        logger.info(f"Attempting to find LinkedIn username for: {full_name}")
+        search_query = f'"{full_name}" "{company_name}" site:linkedin.com/in OR site:linkedin.com/pub'
+        linkedin_username = get_first_google_search_url(search_query)
+        if linkedin_username and linkedin_username != "Username not found in URL":
+            user_info['linkedin_username'] = linkedin_username
+            logger.info(f"Found LinkedIn Username: {linkedin_username}")
+        else:
+            logger.error("No LinkedIn Username found.")
+            return
+    elif not company_name:
+        logger.warning("No company name provided; cannot perform LinkedIn search.")
+
+    
+
     if linkedin_username:
         logger.info(f"Scraping LinkedIn for user: {linkedin_username}")
         linkedin_data_directory = scrape_linkedin(linkedin_username, os.getenv('LINKEDIN_API_KEY'), os.getenv('LINKEDIN_API_HOST'), os.getenv('PROSPEO_API_KEY'))

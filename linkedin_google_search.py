@@ -17,10 +17,10 @@ def remove_digits_from_string(input_string):
     # Remove digits from the string using a regular expression
     return re.sub(r'\d+', '', input_string).strip()
 
-def find_organization_by_email(email, api_key):
+def find_organization_by_email(email):
     # Extract the domain from the email address
     domain = email.split('@')[-1]
-    
+    api_key= os.getenv("HUNTER_API_KEY")
     # Hunter API endpoint for domain search
     url = f"https://api.hunter.io/v2/domain-search?domain={domain}&api_key={api_key}"
     
@@ -92,17 +92,4 @@ def extract_linkedin_username(url):
         return "Username not found in URL."
 
 
-# Example usage:
-email = "m@yoteqi.com"  # Replace with the email you want to use
-api_key = os.getenv("HUNTER_API_KEY")  # Retrieve Hunter API key from environment variable
-company_name = find_organization_by_email(email, api_key)
-if company_name not in ["Failed to retrieve information.", "No data found for this domain.", "Organization information not available."]:
-    full_name = "Mohamed Khedher"  # Replace with the full name associated with the email
-    search_query = f'"{full_name}" "{company_name}" site:linkedin.com/in OR site:linkedin.com/pub'
-    linkedin_username = get_first_google_search_url(search_query)
-    if linkedin_username:
-        print("LinkedIn Username:", linkedin_username)
-    else:
-        print("No LinkedIn Username found.")
-else:
-    print(company_name)
+
