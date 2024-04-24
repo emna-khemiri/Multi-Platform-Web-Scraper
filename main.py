@@ -76,7 +76,7 @@ def process_user(user_info, logger):
                     crunchbase_username = extract_crunchbase_username(company_name)
                     if crunchbase_username:
                         logger.info(f"Crunchbase username: {crunchbase_username}")
-                        scrape_crunchbase_organization(linkedin_username, crunchbase_username)
+                        scrape_crunchbase_organization(crunchbase_username)
                     scrape_and_summarize_techcrunch(linkedin_username, company_name)
                 else:
                     logger.info("Company name could not be extracted from LinkedIn data.")

@@ -67,28 +67,40 @@ def scrape_linkedin(username, api_key, api_host, email_api_key):
         print(f"No data received for user: {username}")
         return None
 
-def scrape_crunchbase_organization(username, company_username):
+def scrape_crunchbase_organization(company_username):
+
     api_token = os.getenv("APIFY_API_TOKEN")
     if not api_token:
         print("APIFY_API_TOKEN not found in environment variables.")
-        return None
-
+        return
     client = ApifyClient(api_token)
+    
+    # Construct the full Crunchbase URL for the organization
+    company_url = f"https://www.crunchbase.com/organization/{company_username}"
+
+    # Prepare the Actor input
     run_input = {
-        "scrapeCompanyUrls.urls": [f"https://www.crunchbase.com/organization/{company_username}"],
-        "proxy": {"useApifyProxy": True, "apifyProxyGroups": ["RESIDENTIAL"]}
+        "urls": [{"url": company_url}],
+        "cleanedData": True,
     }
-    try:
-        run = client.actor("BBfgvSNWcySEk1jQO").call(run_input=run_input)
-        items = list(client.dataset(run["defaultDatasetId"]).iterate_items())
-        crunchbase_directory = os.path.join("Data", "Crunchbase")
-        os.makedirs(crunchbase_directory, exist_ok=True)
-        filename = os.path.join(crunchbase_directory, f"{company_username}_cb_data.json")
-        with open(filename, 'w', encoding='utf-8') as outfile:
-            json.dump(items, outfile, indent=4)
-    except Exception as e:
-        print(f"Failed to scrape Crunchbase data for {company_username}: {e}")
-        return None
+
+    # Run the Actor and wait for it to finish
+    run = client.actor("qF73sh5AdGdFBxetv").call(run_input=run_input)
+
+    # Fetch Actor results from the run's dataset
+    items = list(client.dataset(run["defaultDatasetId"]).iterate_items())
+
+    # Define your JSON file name
+    filename = f"{company_username}_cb_data.json"
+
+    # Save the data to the file
+    crunchbase_directory = os.path.join("Data", "Crunchbase")
+    os.makedirs(crunchbase_directory, exist_ok=True)
+    filepath = os.path.join(crunchbase_directory, filename)
+    with open(filepath, 'w', encoding='utf-8') as outfile:
+        json.dump(items, outfile, indent=4)
+
+    print(f"Data saved to {filepath}")
 
 def scrape_and_summarize_techcrunch(username, company_name):
     search_url = "https://techcrunch.com/search/"

@@ -30,7 +30,7 @@ def scrape_crunchbase(username, is_organization=True):
         run_input["scrapeProfileUrls"] = {"urls": [full_url]}
 
     # Run the Actor and wait for it to finish
-    run = client.actor("BBfgvSNWcySEk1jQO").call(run_input=run_input)
+    run = client.actor("qF73sh5AdGdFBxetv").call(run_input=run_input)
 
     # Fetch Actor results from the run's dataset
     items = list(client.dataset(run["defaultDatasetId"]).iterate_items())
