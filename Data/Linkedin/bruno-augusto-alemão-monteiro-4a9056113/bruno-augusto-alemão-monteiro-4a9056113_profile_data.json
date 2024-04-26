@@ -1,0 +1,957 @@
+{
+    "connection": 979,
+    "data": {
+        "urn": "ACoAABxOMEEBw08v6wJR6Mom_EWRBiF0LE1emJU",
+        "username": "brunoaugustoam",
+        "firstName": "Bruno Augusto",
+        "lastName": "Alemão Monteiro",
+        "isOpenToWork": false,
+        "isHiring": false,
+        "profilePicture": "https://media.licdn.com/dms/image/C4D03AQF0eg7mksJiQw/profile-displayphoto-shrink_800_800/0/1578061091534?e=1719446400&v=beta&t=RPHWMwYinahGu-qD8ehQr6Ur4fHnyI8rUf1LBaxSwfQ",
+        "summary": "Geologist and Msc. Computer Science. Service provider for Petrobras - Machine Learning applied to Geological Processing.",
+        "headline": "Geologist | Msc. Computer Science - Service Provider for Petrobras",
+        "geo": {
+            "country": "Brazil",
+            "city": "Belo Horizonte, Minas Gerais",
+            "full": "Belo Horizonte, Minas Gerais, Brazil"
+        },
+        "languages": null,
+        "educations": [
+            {
+                "start": {
+                    "year": 2021,
+                    "month": 3,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2023,
+                    "month": 7,
+                    "day": 0
+                },
+                "fieldOfStudy": "Computer Science",
+                "degree": "Master's degree",
+                "grade": "90",
+                "schoolName": "UFMG",
+                "description": "",
+                "activities": "",
+                "url": "https://www.linkedin.com/school/ufmg/",
+                "schoolId": "15171"
+            },
+            {
+                "start": {
+                    "year": 2014,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2019,
+                    "month": 0,
+                    "day": 0
+                },
+                "fieldOfStudy": "Geologia e Ciências da Terra/Geociências",
+                "degree": "Bacharelado",
+                "grade": "",
+                "schoolName": "Universidade Federal de Minas Gerais",
+                "description": "",
+                "activities": "",
+                "url": "https://www.linkedin.com/school/ufmg/",
+                "schoolId": "15171"
+            },
+            {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "fieldOfStudy": "Master Geowissenschaft Studienfach Geotektonik",
+                "degree": "Master's degree",
+                "grade": "08/2017-07/2018 - Programa de Intercâmbio",
+                "schoolName": "TU Bergakademie Freiberg",
+                "description": "",
+                "activities": "",
+                "url": "https://www.linkedin.com/school/tu-freiberg.de/",
+                "schoolId": "412321"
+            },
+            {
+                "start": {
+                    "year": 2011,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2013,
+                    "month": 0,
+                    "day": 0
+                },
+                "fieldOfStudy": "Meio Ambiente",
+                "degree": "Curso Técnico",
+                "grade": "",
+                "schoolName": "Centro Federal de Educação Tecnológica de Minas Gerais",
+                "description": "Curso técnico em meio ambiente integrado ao Ensino Médio.",
+                "activities": "",
+                "url": "https://www.linkedin.com/school/centro-federal-de-educa%C3%A7%C3%A3o-tecnol%C3%B3gica-de-minas-gerais/",
+                "schoolId": "15092393"
+            }
+        ],
+        "position": [
+            {
+                "companyName": "Fundação Christiano Ottoni",
+                "companyUsername": "fundacaochristianoottoni",
+                "companyURL": "https://www.linkedin.com/company/fundacaochristianoottoni/",
+                "companyLogo": "https://media.licdn.com/dms/image/D4D0BAQEelDT1Nnc9qg/company-logo_400_400/0/1699639564800/fundacaochristianoottoni_logo?e=1722470400&v=beta&t=kuyqRQZS7pWwM7WNo-njpg_btknf6Q0sY8VejoPedG0",
+                "companyIndustry": "Non-profit Organization Management",
+                "companyStaffCountRange": "51 - 200",
+                "title": "Geólogo Pleno",
+                "multiLocaleTitle": {
+                    "pt_BR": "Geólogo Pleno"
+                },
+                "multiLocaleCompanyName": {
+                    "pt_BR": "Fundação Christiano Ottoni"
+                },
+                "location": "Belo Horizonte, Minas Gerais, Brazil",
+                "description": "Pesquisador Geólogo, Projeto 1926 - Aprendizado de Máquina aplicado ao Processamento Geológico em parceria com a Petrobras Petróleo Brasileiro",
+                "employmentType": "Full-time",
+                "start": {
+                    "year": 2022,
+                    "month": 9,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Pattern Recognition and Earth Observation Laboratory",
+                "companyUsername": "patreolab",
+                "companyURL": "https://www.linkedin.com/company/patreolab/",
+                "companyLogo": "https://media.licdn.com/dms/image/C4E0BAQHcbZzvqV1b0g/company-logo_400_400/0/1630598434646/patreolab_logo?e=1722470400&v=beta&t=H7ryS1vlY2tHKL8ebmAcpQuJOrPmUXfsT2EAFTc-qUM",
+                "companyIndustry": "Research",
+                "companyStaffCountRange": "2 - 10",
+                "title": "Research Staff Member",
+                "multiLocaleTitle": {
+                    "pt_BR": "Research Staff Member"
+                },
+                "multiLocaleCompanyName": {
+                    "pt_BR": "Pattern Recognition and Earth Observation Laboratory"
+                },
+                "location": "Belo Horizonte, Minas Gerais, Brazil",
+                "description": "",
+                "employmentType": "Part-time",
+                "start": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2023,
+                    "month": 7,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "BVP Engenharia",
+                "companyUsername": "geotecniabvpengenhariaprojetos",
+                "companyURL": "https://www.linkedin.com/company/geotecniabvpengenhariaprojetos/",
+                "companyLogo": "https://media.licdn.com/dms/image/D4D0BAQEU3E5ERTA1lg/company-logo_400_400/0/1666989273903/geotecniabvpengenhariaprojetos_logo?e=1722470400&v=beta&t=Gn4_vaRvjRQw34L-mTGJSm3oOgsYaIh6eG2Az9fd0RU",
+                "companyIndustry": "Mining & Metals",
+                "companyStaffCountRange": "201 - 500",
+                "title": "Geólogo júnior",
+                "multiLocaleTitle": {
+                    "pt_BR": "Geólogo júnior"
+                },
+                "multiLocaleCompanyName": {
+                    "pt_BR": "BVP Engenharia"
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "Full-time",
+                "start": {
+                    "year": 2020,
+                    "month": 5,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "BVP Engenharia",
+                "companyUsername": "geotecniabvpengenhariaprojetos",
+                "companyURL": "https://www.linkedin.com/company/geotecniabvpengenhariaprojetos/",
+                "companyLogo": "https://media.licdn.com/dms/image/D4D0BAQEU3E5ERTA1lg/company-logo_400_400/0/1666989273903/geotecniabvpengenhariaprojetos_logo?e=1722470400&v=beta&t=Gn4_vaRvjRQw34L-mTGJSm3oOgsYaIh6eG2Az9fd0RU",
+                "companyIndustry": "Mining & Metals",
+                "companyStaffCountRange": "201 - 500",
+                "title": "Assistente de Geologia",
+                "multiLocaleTitle": {
+                    "pt_BR": "Assistente de Geologia"
+                },
+                "multiLocaleCompanyName": {
+                    "pt_BR": "BVP Engenharia"
+                },
+                "location": "Belo Horizonte e Região, Brasil",
+                "description": "",
+                "employmentType": "Full-time",
+                "start": {
+                    "year": 2020,
+                    "month": 1,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2020,
+                    "month": 5,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "BVP Engenharia e Projetos Ltda",
+                "companyUsername": "geotecniabvpengenhariaprojetos",
+                "companyURL": "https://www.linkedin.com/company/geotecniabvpengenhariaprojetos/",
+                "companyLogo": "https://media.licdn.com/dms/image/D4D0BAQEU3E5ERTA1lg/company-logo_400_400/0/1666989273903/geotecniabvpengenhariaprojetos_logo?e=1722470400&v=beta&t=Gn4_vaRvjRQw34L-mTGJSm3oOgsYaIh6eG2Az9fd0RU",
+                "companyIndustry": "Mining & Metals",
+                "companyStaffCountRange": "201 - 500",
+                "title": "Estagiário de Geologia",
+                "multiLocaleTitle": {
+                    "pt_BR": "Estagiário de Geologia"
+                },
+                "multiLocaleCompanyName": {
+                    "pt_BR": "BVP Engenharia e Projetos Ltda"
+                },
+                "location": "Belo Horizonte e Região, Brasil",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2018,
+                    "month": 8,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2019,
+                    "month": 12,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "terra mineralia",
+                "companyUsername": "terra-mineralia",
+                "companyURL": "https://www.linkedin.com/company/terra-mineralia/",
+                "companyLogo": "",
+                "companyIndustry": "Museums & Institutions",
+                "companyStaffCountRange": "2 - 10",
+                "title": "Guia de museu",
+                "multiLocaleTitle": {
+                    "pt_BR": "Guia de museu"
+                },
+                "multiLocaleCompanyName": {
+                    "pt_BR": "terra mineralia"
+                },
+                "location": "Alemanha",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2018,
+                    "month": 5,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2018,
+                    "month": 7,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "UFMG",
+                "companyUsername": "ufmg_2",
+                "companyURL": "https://www.linkedin.com/company/ufmg_2/",
+                "companyLogo": "https://media.licdn.com/dms/image/C4E0BAQFXYhdDDLyU6A/company-logo_400_400/0/1631356953015?e=1722470400&v=beta&t=Ts81I4T--KHxuPY57y3IPoy9PGl2bC6bEP9T-0u6eA0",
+                "companyIndustry": "Higher Education",
+                "companyStaffCountRange": "1001 - 5000",
+                "title": "Monitor Mineralogia e Petrologia",
+                "multiLocaleTitle": {
+                    "pt_BR": "Monitor Mineralogia e Petrologia"
+                },
+                "multiLocaleCompanyName": {
+                    "pt_BR": "UFMG"
+                },
+                "location": "Belo Horizonte e Região, Brasil",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2016,
+                    "month": 4,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2016,
+                    "month": 12,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Núcleo de Geoquímica Ambiental (NGqA) - IGC -UFMG",
+                "companyUsername": "",
+                "companyURL": "",
+                "companyLogo": "",
+                "companyIndustry": "",
+                "companyStaffCountRange": "",
+                "title": "Bolsista de iniciação científica",
+                "multiLocaleTitle": {
+                    "pt_BR": "Bolsista de iniciação científica"
+                },
+                "multiLocaleCompanyName": {
+                    "pt_BR": "Núcleo de Geoquímica Ambiental (NGqA) - IGC -UFMG"
+                },
+                "location": "Belo Horizonte e Região, Brasil",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2015,
+                    "month": 8,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2016,
+                    "month": 3,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Núcleo de Geoquímica Ambiental (NGqA) - IGC -UFMG",
+                "companyUsername": "",
+                "companyURL": "",
+                "companyLogo": "",
+                "companyIndustry": "",
+                "companyStaffCountRange": "",
+                "title": "Bolsista de Iniciação científica voluntária ",
+                "multiLocaleTitle": {
+                    "pt_BR": "Bolsista de Iniciação científica voluntária "
+                },
+                "multiLocaleCompanyName": {
+                    "pt_BR": "Núcleo de Geoquímica Ambiental (NGqA) - IGC -UFMG"
+                },
+                "location": "Belo Horizonte e Região, Brasil",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2014,
+                    "month": 4,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2015,
+                    "month": 8,
+                    "day": 0
+                }
+            }
+        ],
+        "fullPositions": [
+            {
+                "companyName": "Fundação Christiano Ottoni",
+                "companyUsername": "fundacaochristianoottoni",
+                "companyURL": "https://www.linkedin.com/company/fundacaochristianoottoni/",
+                "companyLogo": "https://media.licdn.com/dms/image/D4D0BAQEelDT1Nnc9qg/company-logo_400_400/0/1699639564800/fundacaochristianoottoni_logo?e=1722470400&v=beta&t=kuyqRQZS7pWwM7WNo-njpg_btknf6Q0sY8VejoPedG0",
+                "companyIndustry": "Non-profit Organization Management",
+                "companyStaffCountRange": "51 - 200",
+                "title": "Geólogo Pleno",
+                "multiLocaleTitle": {
+                    "pt_BR": "Geólogo Pleno"
+                },
+                "multiLocaleCompanyName": {
+                    "pt_BR": "Fundação Christiano Ottoni"
+                },
+                "location": "Belo Horizonte, Minas Gerais, Brazil",
+                "description": "Pesquisador Geólogo, Projeto 1926 - Aprendizado de Máquina aplicado ao Processamento Geológico em parceria com a Petrobras Petróleo Brasileiro",
+                "employmentType": "Full-time",
+                "start": {
+                    "year": 2022,
+                    "month": 9,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Pattern Recognition and Earth Observation Laboratory",
+                "companyUsername": "patreolab",
+                "companyURL": "https://www.linkedin.com/company/patreolab/",
+                "companyLogo": "https://media.licdn.com/dms/image/C4E0BAQHcbZzvqV1b0g/company-logo_400_400/0/1630598434646/patreolab_logo?e=1722470400&v=beta&t=H7ryS1vlY2tHKL8ebmAcpQuJOrPmUXfsT2EAFTc-qUM",
+                "companyIndustry": "Research",
+                "companyStaffCountRange": "2 - 10",
+                "title": "Research Staff Member",
+                "multiLocaleTitle": {
+                    "pt_BR": "Research Staff Member"
+                },
+                "multiLocaleCompanyName": {
+                    "pt_BR": "Pattern Recognition and Earth Observation Laboratory"
+                },
+                "location": "Belo Horizonte, Minas Gerais, Brazil",
+                "description": "",
+                "employmentType": "Part-time",
+                "start": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2023,
+                    "month": 7,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "BVP Engenharia",
+                "companyUsername": "geotecniabvpengenhariaprojetos",
+                "companyURL": "https://www.linkedin.com/company/geotecniabvpengenhariaprojetos/",
+                "companyLogo": "https://media.licdn.com/dms/image/D4D0BAQEU3E5ERTA1lg/company-logo_400_400/0/1666989273903/geotecniabvpengenhariaprojetos_logo?e=1722470400&v=beta&t=Gn4_vaRvjRQw34L-mTGJSm3oOgsYaIh6eG2Az9fd0RU",
+                "companyIndustry": "Mining & Metals",
+                "companyStaffCountRange": "201 - 500",
+                "title": "Geólogo júnior",
+                "multiLocaleTitle": {
+                    "pt_BR": "Geólogo júnior"
+                },
+                "multiLocaleCompanyName": {
+                    "pt_BR": "BVP Engenharia"
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "Full-time",
+                "start": {
+                    "year": 2020,
+                    "month": 5,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "BVP Engenharia",
+                "companyUsername": "geotecniabvpengenhariaprojetos",
+                "companyURL": "https://www.linkedin.com/company/geotecniabvpengenhariaprojetos/",
+                "companyLogo": "https://media.licdn.com/dms/image/D4D0BAQEU3E5ERTA1lg/company-logo_400_400/0/1666989273903/geotecniabvpengenhariaprojetos_logo?e=1722470400&v=beta&t=Gn4_vaRvjRQw34L-mTGJSm3oOgsYaIh6eG2Az9fd0RU",
+                "companyIndustry": "Mining & Metals",
+                "companyStaffCountRange": "201 - 500",
+                "title": "Assistente de Geologia",
+                "multiLocaleTitle": {
+                    "pt_BR": "Assistente de Geologia"
+                },
+                "multiLocaleCompanyName": {
+                    "pt_BR": "BVP Engenharia"
+                },
+                "location": "Belo Horizonte e Região, Brasil",
+                "description": "",
+                "employmentType": "Full-time",
+                "start": {
+                    "year": 2020,
+                    "month": 1,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2020,
+                    "month": 5,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "BVP Engenharia e Projetos Ltda",
+                "companyUsername": "geotecniabvpengenhariaprojetos",
+                "companyURL": "https://www.linkedin.com/company/geotecniabvpengenhariaprojetos/",
+                "companyLogo": "https://media.licdn.com/dms/image/D4D0BAQEU3E5ERTA1lg/company-logo_400_400/0/1666989273903/geotecniabvpengenhariaprojetos_logo?e=1722470400&v=beta&t=Gn4_vaRvjRQw34L-mTGJSm3oOgsYaIh6eG2Az9fd0RU",
+                "companyIndustry": "Mining & Metals",
+                "companyStaffCountRange": "201 - 500",
+                "title": "Estagiário de Geologia",
+                "multiLocaleTitle": {
+                    "pt_BR": "Estagiário de Geologia"
+                },
+                "multiLocaleCompanyName": {
+                    "pt_BR": "BVP Engenharia e Projetos Ltda"
+                },
+                "location": "Belo Horizonte e Região, Brasil",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2018,
+                    "month": 8,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2019,
+                    "month": 12,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "terra mineralia",
+                "companyUsername": "terra-mineralia",
+                "companyURL": "https://www.linkedin.com/company/terra-mineralia/",
+                "companyLogo": "",
+                "companyIndustry": "Museums & Institutions",
+                "companyStaffCountRange": "2 - 10",
+                "title": "Guia de museu",
+                "multiLocaleTitle": {
+                    "pt_BR": "Guia de museu"
+                },
+                "multiLocaleCompanyName": {
+                    "pt_BR": "terra mineralia"
+                },
+                "location": "Alemanha",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2018,
+                    "month": 5,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2018,
+                    "month": 7,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "UFMG",
+                "companyUsername": "ufmg_2",
+                "companyURL": "https://www.linkedin.com/company/ufmg_2/",
+                "companyLogo": "https://media.licdn.com/dms/image/C4E0BAQFXYhdDDLyU6A/company-logo_400_400/0/1631356953015?e=1722470400&v=beta&t=Ts81I4T--KHxuPY57y3IPoy9PGl2bC6bEP9T-0u6eA0",
+                "companyIndustry": "Higher Education",
+                "companyStaffCountRange": "1001 - 5000",
+                "title": "Monitor Mineralogia e Petrologia",
+                "multiLocaleTitle": {
+                    "pt_BR": "Monitor Mineralogia e Petrologia"
+                },
+                "multiLocaleCompanyName": {
+                    "pt_BR": "UFMG"
+                },
+                "location": "Belo Horizonte e Região, Brasil",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2016,
+                    "month": 4,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2016,
+                    "month": 12,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Núcleo de Geoquímica Ambiental (NGqA) - IGC -UFMG",
+                "companyUsername": "",
+                "companyURL": "",
+                "companyLogo": "",
+                "companyIndustry": "",
+                "companyStaffCountRange": "",
+                "title": "Bolsista de iniciação científica",
+                "multiLocaleTitle": {
+                    "pt_BR": "Bolsista de iniciação científica"
+                },
+                "multiLocaleCompanyName": {
+                    "pt_BR": "Núcleo de Geoquímica Ambiental (NGqA) - IGC -UFMG"
+                },
+                "location": "Belo Horizonte e Região, Brasil",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2015,
+                    "month": 8,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2016,
+                    "month": 3,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Núcleo de Geoquímica Ambiental (NGqA) - IGC -UFMG",
+                "companyUsername": "",
+                "companyURL": "",
+                "companyLogo": "",
+                "companyIndustry": "",
+                "companyStaffCountRange": "",
+                "title": "Bolsista de Iniciação científica voluntária ",
+                "multiLocaleTitle": {
+                    "pt_BR": "Bolsista de Iniciação científica voluntária "
+                },
+                "multiLocaleCompanyName": {
+                    "pt_BR": "Núcleo de Geoquímica Ambiental (NGqA) - IGC -UFMG"
+                },
+                "location": "Belo Horizonte e Região, Brasil",
+                "description": "",
+                "employmentType": "",
+                "start": {
+                    "year": 2014,
+                    "month": 4,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2015,
+                    "month": 8,
+                    "day": 0
+                }
+            }
+        ],
+        "skills": [
+            {
+                "name": "Statistical Packages",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Data Quality Assurance",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Problem Solving",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Data Quality",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Business Insights",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Presentations",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Data Analysis",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Planejamento de testes",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Garantia de qualidade",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Comunicação",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Algoritmos",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Self-supervised learning",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "English as a Second Language (ESL)",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "PyTorch",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Research and Development (R&D)",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Article Writing",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Artificial Intelligence (AI)",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "OpenCV",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Keras",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Computer Vision",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Image Processing",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Data Science",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Deep Learning",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Mining",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "LaTeX",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Microsoft Office",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 2
+            },
+            {
+                "name": "Machine Learning",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Inglês",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 3
+            },
+            {
+                "name": "Alemão",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 4
+            },
+            {
+                "name": "Microsoft Word",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Microsoft Excel",
+                "passedSkillAssessment": true
+            },
+            {
+                "name": "Microsoft PowerPoint",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Pesquisa",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "ArcGIS",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Geologia",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Petrografia",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Petrologia",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Python",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Leapfrog",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "AutoCAD",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Geological Mapping",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Remote Sensing",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Mineralogy",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Structural Geology",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Neural Networks",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "QGIs",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "3D Modeling",
+                "passedSkillAssessment": false
+            }
+        ],
+        "givenRecommendation": null,
+        "givenRecommendationCount": 0,
+        "receivedRecommendation": null,
+        "receivedRecommendationCount": 0,
+        "courses": null,
+        "certifications": [
+            {
+                "name": "IELTS Academic 7.5",
+                "start": {
+                    "year": 2023,
+                    "month": 4,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2025,
+                    "month": 4,
+                    "day": 0
+                },
+                "authority": "IELTS Official",
+                "company": {
+                    "name": "IELTS Official",
+                    "universalName": "ielts-official",
+                    "logo": "https://media.licdn.com/dms/image/C4E0BAQEs97UO-cXCvw/company-logo_200_200/0/1670511657079/ielts_official_logo?e=1722470400&v=beta&t=SqQEpQjohrC8zL9quXLjA6J8b_wb4XctZxU4KvhmClw",
+                    "staffCountRange": {},
+                    "headquarter": {}
+                },
+                "timePeriod": {
+                    "start": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    },
+                    "end": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    }
+                }
+            },
+            {
+                "name": "Neural Networks and Deep Learning",
+                "start": {
+                    "year": 2021,
+                    "month": 5,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "authority": "Coursera",
+                "company": {
+                    "staffCountRange": {},
+                    "headquarter": {}
+                },
+                "timePeriod": {
+                    "start": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    },
+                    "end": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    }
+                }
+            },
+            {
+                "name": "Cursos de Tecnologia, Inovação, Análise e Ciência dos Dados, Machine Learning e Deep Learning",
+                "start": {
+                    "year": 2021,
+                    "month": 2,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "authority": "Alura",
+                "company": {
+                    "name": "Alura",
+                    "universalName": "aluracursos",
+                    "logo": "https://media.licdn.com/dms/image/D4D0BAQEZkMsv5FwbDA/company-logo_200_200/0/1710187635900/aluracursos_logo?e=1722470400&v=beta&t=_yGAGyoIYJtzw6NEmUx_9ChBtXIAtr-hUJh_s54tqLY",
+                    "staffCountRange": {},
+                    "headquarter": {}
+                },
+                "timePeriod": {
+                    "start": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    },
+                    "end": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    }
+                }
+            },
+            {
+                "name": "Seismic Attributes for the Environment of Deposition",
+                "start": {
+                    "year": 2020,
+                    "month": 5,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "authority": "Geophysical Insights",
+                "company": {
+                    "name": "Geophysical Insights",
+                    "universalName": "geophysical-insights",
+                    "logo": "https://media.licdn.com/dms/image/C560BAQELo0LQC-3uRQ/company-logo_200_200/0/1653602618749/geophysical_insights_logo?e=1722470400&v=beta&t=rqNsQlDrquG17Wwg424p_IJNH6kpki65CcJrYWWMn8c",
+                    "staffCountRange": {},
+                    "headquarter": {}
+                },
+                "timePeriod": {
+                    "start": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    },
+                    "end": {
+                        "year": 0,
+                        "month": 0,
+                        "day": 0
+                    }
+                }
+            }
+        ],
+        "honors": null,
+        "volunteering": null,
+        "supportedLocales": [
+            {
+                "country": "BR",
+                "language": "pt"
+            }
+        ],
+        "multiLocaleFirstName": {
+            "pt": "Bruno Augusto"
+        },
+        "multiLocaleLastName": {
+            "pt": "Alemão Monteiro"
+        },
+        "multiLocaleHeadline": {
+            "pt": "Geologist | Msc. Computer Science - Service Provider for Petrobras"
+        }
+    },
+    "follower": 977
+}

@@ -1,9 +1,5 @@
-import json
-import re
-
-# Sample JSON string from GitHub scraping
-github_json_str = '''
 {
+    "linkedin_username": "bruno-augusto-alemão-monteiro-4a9056113",
     "user_info": {
         "login": "brunoaugustoam",
         "id": 42394219,
@@ -33,28 +29,58 @@ github_json_str = '''
         "twitter_username": null,
         "public_repos": 8,
         "public_gists": 0,
-        "followers": 5,
+        "followers": 8,
         "following": 7,
         "created_at": "2018-08-15T00:03:10Z",
-        "updated_at": "2023-10-19T16:43:41Z"
-    }
+        "updated_at": "2024-04-24T13:19:40Z"
+    },
+    "repositories": [
+        {
+            "name": "brunoaugustoam",
+            "description": null,
+            "primary_language": null
+        },
+        {
+            "name": "brunoaugustoam.github.io",
+            "description": null,
+            "primary_language": "CSS"
+        },
+        {
+            "name": "Deep-Learning-Seismic-Images-Papers",
+            "description": "A curated list of deep learning material on Seismic Images",
+            "primary_language": null
+        },
+        {
+            "name": "GeoPythonScripts",
+            "description": null,
+            "primary_language": "Jupyter Notebook"
+        },
+        {
+            "name": "GitPortifolio",
+            "description": null,
+            "primary_language": null
+        },
+        {
+            "name": "MLExercises",
+            "description": "Machine Learning Projects developed for training",
+            "primary_language": "Jupyter Notebook"
+        },
+        {
+            "name": "mplstereonet",
+            "description": "Stereonets for matplotlib",
+            "primary_language": null
+        },
+        {
+            "name": "SSL_Seismic_Images",
+            "description": "Master Project",
+            "primary_language": "Python"
+        }
+    ],
+    "skills": {
+        "CSS": 1,
+        "Jupyter Notebook": 2,
+        "Python": 1
+    },
+    "organizations": [],
+    "gists": []
 }
-'''
-
-# Parse the JSON string
-data = json.loads(github_json_str)
-
-# Extract the blog URL
-blog_url = data.get("user_info", {}).get("blog", "")
-
-# Preprocess and extract the LinkedIn username
-linkedin_username = None
-if "linkedin.com/in" in blog_url:
-    # Normalize the URL if it contains redundant parts
-    cleaned_url = re.sub(r'^https?:\/\/(www\.)?linkedin\.com\/in\/', '', blog_url)
-    # Normalize any trailing slashes or query parameters
-    cleaned_url = re.sub(r'\/.*', '', cleaned_url)
-    linkedin_username = cleaned_url
-
-# Print the LinkedIn username
-print(f"LinkedIn Username: {linkedin_username}")

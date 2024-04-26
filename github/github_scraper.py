@@ -73,7 +73,15 @@ def load_github_data(github_username):
     scraped_data['gists'] = [{'id': gist['id'], 'html_url': gist['html_url'], 'description': gist.get('description')} for gist in gists]
 
     # Save the scraped data to a JSON file
-    file_name = f'{github_username}_github_data.json'
+    github_directory = 'Data/Github'
+
+    # Create the directory if it does not exist
+    if not os.path.exists(github_directory):
+        os.makedirs(github_directory)
+
+    # Define the file path
+    file_name = os.path.join(github_directory, f'{github_username}_github_data.json')
+    
     with open(file_name, 'w', encoding='utf-8')  as file:
         json.dump(scraped_data, file, indent=4,ensure_ascii=False)
 

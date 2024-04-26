@@ -1,0 +1,146 @@
+{
+    "linkedin_username": "rupesh-raj-karn-51614417",
+    "user_info": {
+        "login": "rkarn",
+        "id": 20768904,
+        "node_id": "MDQ6VXNlcjIwNzY4OTA0",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20768904?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rkarn",
+        "html_url": "https://github.com/rkarn",
+        "followers_url": "https://api.github.com/users/rkarn/followers",
+        "following_url": "https://api.github.com/users/rkarn/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rkarn/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rkarn/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rkarn/subscriptions",
+        "organizations_url": "https://api.github.com/users/rkarn/orgs",
+        "repos_url": "https://api.github.com/users/rkarn/repos",
+        "events_url": "https://api.github.com/users/rkarn/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rkarn/received_events",
+        "type": "User",
+        "site_admin": false,
+        "name": "Rupesh Raj Karn",
+        "company": "New York University",
+        "blog": "https://www.linkedin.com/in/rupesh-raj-karn-51614417/",
+        "location": "Abu Dhabi ",
+        "email": "rupesh.k@nyu.edu",
+        "hireable": null,
+        "bio": "Post Doctoral Associate",
+        "twitter_username": null,
+        "public_repos": 20,
+        "public_gists": 0,
+        "followers": 0,
+        "following": 1,
+        "created_at": "2016-08-01T08:58:42Z",
+        "updated_at": "2024-03-14T15:36:02Z"
+    },
+    "repositories": [
+        {
+            "name": "automated-testing-resciliency",
+            "description": null,
+            "primary_language": null
+        },
+        {
+            "name": "Autoscaling-of-Cores-and-Virtual-Memory",
+            "description": null,
+            "primary_language": null
+        },
+        {
+            "name": "AWS-F1-Instance",
+            "description": null,
+            "primary_language": null
+        },
+        {
+            "name": "Congestion-Detection-Progressive-Learning",
+            "description": null,
+            "primary_language": "Jupyter Notebook"
+        },
+        {
+            "name": "Constrained-Neural-Network",
+            "description": null,
+            "primary_language": "Jupyter Notebook"
+        },
+        {
+            "name": "Container-Classification",
+            "description": null,
+            "primary_language": "Jupyter Notebook"
+        },
+        {
+            "name": "Cryptomining-Detection-Kubernetes-ExplainableAI",
+            "description": null,
+            "primary_language": "Jupyter Notebook"
+        },
+        {
+            "name": "Deeplearning--Keras-UNSWDataset",
+            "description": null,
+            "primary_language": "Jupyter Notebook"
+        },
+        {
+            "name": "Dynamic-Model-Autoselection-Autotuning",
+            "description": null,
+            "primary_language": "Python"
+        },
+        {
+            "name": "Dynamically-Generated-Progressive-Neural-Network",
+            "description": null,
+            "primary_language": "Jupyter Notebook"
+        },
+        {
+            "name": "Evolutionary-Architecture-Learning",
+            "description": null,
+            "primary_language": "Jupyter Notebook"
+        },
+        {
+            "name": "Extended-Featureset-Adaptation-PCA",
+            "description": null,
+            "primary_language": "Jupyter Notebook"
+        },
+        {
+            "name": "Instadeep-rkarn",
+            "description": null,
+            "primary_language": "Python"
+        },
+        {
+            "name": "Learning-Without-Forgetting",
+            "description": "# Congestion Detection in Progressive Learning for Cyber Security",
+            "primary_language": "Jupyter Notebook"
+        },
+        {
+            "name": "MCEliece-HQC-Random-Forest",
+            "description": "Encrypted random forest by McEliece and HQC post quatum cryptosystem and its implementation on FPGA through high-level synthesis.",
+            "primary_language": "C++"
+        },
+        {
+            "name": "ntru",
+            "description": "NTRU Python Library with Application to Encrypted Domain",
+            "primary_language": null
+        },
+        {
+            "name": "ProgressiveLearningRNN",
+            "description": null,
+            "primary_language": "Jupyter Notebook"
+        },
+        {
+            "name": "Raytune-Progressive-Learning",
+            "description": null,
+            "primary_language": "Jupyter Notebook"
+        },
+        {
+            "name": "research-exercise",
+            "description": null,
+            "primary_language": "Jupyter Notebook"
+        },
+        {
+            "name": "Spiking-Neural-Network-Security",
+            "description": "Spiking Neural Network Security & Challenges for FPGA Implementation",
+            "primary_language": null
+        }
+    ],
+    "skills": {
+        "Jupyter Notebook": 12,
+        "Python": 2,
+        "C++": 1
+    },
+    "organizations": [],
+    "gists": []
+}
