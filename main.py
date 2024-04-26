@@ -2,7 +2,7 @@ import json
 import logging
 import os
 
-from linkedin.linkedin_scraper import DataExtractor
+from linkedin.linkedin_scraper import CompanyDetailsModule, DataExtractor
 from linkedin_google_search import get_first_google_search_url,find_organization_by_email
 from linkedin_to_cb_tc import scrape_and_summarize_techcrunch, scrape_linkedin, scrape_crunchbase_organization, extract_crunchbase_username
 import behance_to_linkedin
@@ -100,8 +100,21 @@ def process_user(user_info, logger):
         if linkedin_data_directory:
             data_extractor = DataExtractor(f"{linkedin_data_directory}/{linkedin_username}_profile_data.json")
             try:
+                
+                company_username=data_extractor.get_company_username()
+                
+                if company_username:
+                    logger.info(f"Extracted company username: {company_username}")
+                    company_module = CompanyDetailsModule(os.getenv('LINKEDIN_API_KEY'), os.getenv('LINKEDIN_API_HOST'))
+                    company_details = company_module.get_company_details(company_username)
+                    if company_details:
+                        company_module.save_data_to_file(company_details, company_username)
+                    else:
+                        logger.error("Failed to scrape company details.")
+            except Exception as e:
+                logger.error(f"Error extracting company details: {e}")
+            try:
                 company_name = data_extractor.get_company_name()
-                print(company_name)
                 if company_name:
                     logger.info(f"Extracted company name: {company_name}")
                     crunchbase_username = extract_crunchbase_username(company_name)

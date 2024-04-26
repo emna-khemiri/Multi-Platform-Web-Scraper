@@ -1,0 +1,72 @@
+{
+    "success": true,
+    "message": "",
+    "data": {
+        "id": "100422282",
+        "name": "Wonviz Corporation",
+        "universalName": "wonviz",
+        "tagline": "Empowering tomorrow through visionary technology",
+        "description": "Welcome to Wonviz Corporation, where innovation becomes an experience and opportunities transform into reality. Founded in late 2021, our journey from a Tunis-based startup to a tech powerhouse specializing in full-stack development, consulting, and venture building has been defined by a commitment to excellence and transformative solutions.",
+        "type": "Privately Held",
+        "phone": "",
+        "Images": {
+            "logo": "https://media.licdn.com/dms/image/D4E0BAQGHIZtMdgoB3g/company-logo_400_400/0/1701022747289?e=1722470400&v=beta&t=12whjYFw76hI31jMXgwrt6WXbIN5xJtl4G97ozrWMsY",
+            "cover": "https://media.licdn.com/dms/image/D4E3DAQHE3S29L9F_dw/image-scale_127_750/0/1701023113193/wonviz_corporation_cover?e=1714701600&v=beta&t=Bs0TwJzZ9j9kuGcZlXv7GV269SYWyYK9GGYlJpNyXp4"
+        },
+        "backgroundCoverImages": [
+            {
+                "url": "https://media.licdn.com/dms/image/D4E3DAQHE3S29L9F_dw/image-scale_127_750/0/1701023113193/wonviz_corporation_cover?e=1714701600&v=beta&t=Bs0TwJzZ9j9kuGcZlXv7GV269SYWyYK9GGYlJpNyXp4",
+                "width": 750,
+                "height": 126
+            },
+            {
+                "url": "https://media.licdn.com/dms/image/D4E3DAQHE3S29L9F_dw/image-scale_108_640/0/1701023113193/wonviz_corporation_cover?e=1714701600&v=beta&t=jABwlPpmXQTP9KPHsaLXJPgRFiNF6TQmw2-ZRFHFloQ",
+                "width": 108,
+                "height": 18
+            },
+            {
+                "url": "https://media.licdn.com/dms/image/D4E3DAQHE3S29L9F_dw/image-scale_191_1128/0/1701023113194/wonviz_corporation_cover?e=1714701600&v=beta&t=6Rujy1tAazx6kPwl8GCqc8W42oq5kHEK6_ER6lftv80",
+                "width": 1128,
+                "height": 191
+            }
+        ],
+        "logos": [
+            {
+                "url": "https://media.licdn.com/dms/image/D4E0BAQGHIZtMdgoB3g/company-logo_200_200/0/1701022747289?e=1722470400&v=beta&t=626T1iLsDa-VfgpaY0dVswKCTCIUhy5fqeH3nYgYTCo",
+                "width": 200,
+                "height": 200
+            },
+            {
+                "url": "https://media.licdn.com/dms/image/D4E0BAQGHIZtMdgoB3g/company-logo_100_100/0/1701022747289?e=1722470400&v=beta&t=FjRRthyMTr1Wx_0EhhOjz0im2a4GEI5D4wBmHbX9yH4",
+                "width": 100,
+                "height": 100
+            },
+            {
+                "url": "https://media.licdn.com/dms/image/D4E0BAQGHIZtMdgoB3g/company-logo_400_400/0/1701022747289?e=1722470400&v=beta&t=12whjYFw76hI31jMXgwrt6WXbIN5xJtl4G97ozrWMsY",
+                "width": 400,
+                "height": 400
+            }
+        ],
+        "staffCount": 2,
+        "headquarter": null,
+        "locations": [],
+        "industries": [
+            "IT Services and IT Consulting"
+        ],
+        "specialities": [],
+        "website": "http://www.wonvizcorp.com",
+        "founded": null,
+        "callToAction": {
+            "callToActionType": "VIEW_WEBSITE",
+            "visible": true,
+            "callToActionMessage": {
+                "textDirection": "USER_LOCALE",
+                "text": "Visit website"
+            },
+            "url": "http://www.wonvizcorp.com"
+        },
+        "followerCount": 18,
+        "staffCountRange": "2 - 10",
+        "crunchbaseUrl": ""
+    }
+}

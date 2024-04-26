@@ -71,6 +71,37 @@ class ProfileDataModule(APIHandler):
     def save_data_to_file(self, data, filename="profile_data.json"):
         with open(filename, "w", encoding="utf-8") as file:
             json.dump(data, file, ensure_ascii=False, indent=4)
+            
+
+class CompanyDetailsModule(APIHandler):
+    def get_company_details(self, company_username):
+        endpoint = "/get-company-details"
+        querystring = {"username": company_username}
+        response = self.send_request(endpoint, querystring)
+        if response.status_code == 200:
+            return response.json()
+        else:
+            logging.error(f"Error fetching company details: {response.status_code}")
+            return None
+
+    def save_data_to_file(self, data, company_username):
+        base_directory = os.path.join("Data", "LinkedIn")
+        company_directory = os.path.join(base_directory, company_username)
+        os.makedirs(company_directory, exist_ok=True)
+        filename = f"{company_username}_linkedin_details.json"
+        file_path = os.path.join(company_directory, filename)
+        
+        if data:
+            with open(file_path, "w", encoding='utf-8') as file:
+                json.dump(data, file, ensure_ascii=False, indent=4)
+            logging.info(f"Company details saved to {file_path}")
+        else:
+            logging.error("No data to save for company details.")
+
+
+
+
+
 
 
 class EmailFinderModule:
@@ -96,6 +127,9 @@ class EmailFinderModule:
             json.dump(data, file, ensure_ascii=False, indent=4)
 
 
+
+
+
 class DataExtractor:
     def __init__(self, profile_data_file):
         self.profile_data_file = profile_data_file
@@ -111,6 +145,19 @@ class DataExtractor:
             return "No positions found."
         except Exception as e:
             logging.error(f"Failed to extract company name: {e}")
+            return None
+
+    def get_company_username(self):
+        try:
+            with open(self.profile_data_file, 'r') as input_file:
+                data = json.load(input_file)
+            # Directly navigate through the nested dictionary
+            positions = data.get('data', {}).get('position', [])
+            if positions:
+                return positions[0].get('companyUsername', 'Company username not specified')
+            return "No positions found."
+        except Exception as e:
+            logging.error(f"Failed to extract company username: {e}")
             return None
 
     def get_current_position(self):
