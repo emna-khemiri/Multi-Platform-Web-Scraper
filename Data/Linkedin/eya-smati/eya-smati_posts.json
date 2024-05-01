@@ -1,0 +1,900 @@
+{
+    "success": true,
+    "message": "",
+    "data": [
+        {
+            "text": "Reflecting on my journey, I want to emphasize the power that lies within every woman to achieve anything and everything. If someone had told me at the start of the year that I'd conquer my first race by March, I would've laughed it off but the laughter that once greeted the idea is now a celebration of the journey. Every stride, every milestone, is a testament to the incredible potential within us. Let's celebrate our achievements, big and small, and inspire others to reach for their own goals.\nHappy International Women's Day! ✨\n#21KmDeBlagnac\n#InternationalWomensDay",
+            "totalReactionCount": 48,
+            "likeCount": 9,
+            "appreciationCount": 1,
+            "empathyCount": 15,
+            "praiseCount": 23,
+            "commentsCount": 4,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7171906165742682112/",
+            "postedAt": "2w",
+            "urn": "7171906165742682112",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/D4D22AQEhkopDLQz9tQ/feedshare-shrink_2048_1536/0/1709915676074?e=1714608000&v=beta&t=NGFHkutJuOw3Di-pLJrZE2awRruCjT75L_j0cLes054"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "🚀 Exciting News for Python Enthusiasts! 🐍\n📣 I'm thrilled to announce our comprehensive Python Intermediate Course ( also available in a pack from beginner to expert ) , tailored to propel your Python skills to the next level! 🌟\n🔍 Course Overview 🔍\n🔸 Module Breakdown:\n1️⃣ Sequences in Python (Lists, Strings, and Tuples)\n2️⃣ Dictionaries and Sets in Python\n3️⃣ Functions in Python\n4️⃣ Working with Files in Python\n5️⃣ Arrays in NumPy\n6️⃣ Graphing with Matplotlib\n7️⃣ Advanced Object-Oriented Programming\n8️⃣ Practical Project: Application Development\n🎯 Why Join? 🎯\n🔹 Master sequences, functions, files, arrays, and advanced Python concepts.\n🔹 Dive deep into practical projects integrating course teachings.\n🔹 Embrace a hands-on approach to reinforce newfound skills.\n📌 Enrollment Open Now! 📌\nJoin us in embracing the power of Python in a practical and immersive learning environment. 🚀\nReady to take your Python expertise to new heights? Dive into the New Year with enhanced coding skills! 🎉💻\nUse this link https://lnkd.in/ecAdPFr2 or DM for enrollment details. Let's code our way into an amazing year ahead! 🌟\n#PythonProgramming #NewYearNewSkills #CodingCommunity #LearnPython",
+            "totalReactionCount": 31,
+            "likeCount": 11,
+            "appreciationCount": 2,
+            "empathyCount": 2,
+            "praiseCount": 16,
+            "commentsCount": 2,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7147912594715004930/",
+            "postedAt": "3mo",
+            "urn": "7147912594715004930",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "company": {},
+            "article": {
+                "title": "Programmation Python Intermédiaire",
+                "subtitle": "fluctuationit.com • 1 min read",
+                "link": "https://www.fluctuationit.com/python_adv"
+            }
+        },
+        {
+            "text": "Looking for datasets (beyond Kaggle) ? \nHere's a curated list to guide you:\n\n1) Learn web scraping, and create your own data! i do this for personal projects even though it might be difficult to start, it's just that much rewarding!\nlibraries you might need : selenium/ beautifulsoup/ scrapy. Learn some xpath, css selectors and basic html too!\n2) google it - this might seem obvious, but learn to search properly and you might actually find very useful things\n3) there's a github repo with a LOT of datasets, link https://lnkd.in/eqiZWZNE\n4) a website called components has good datasets too:\nhttps://lnkd.in/e6ACGPAs\n5) kdnuggets:\nhttps://lnkd.in/eibhGzuC\n6) open data inception:\nhttps://lnkd.in/eCP_P2xK\n7) opendatasoft:\nhttps://lnkd.in/eMRbxM3U\n8) databar\nhttps://databar.ai/\n9) gov data websites:\nhttps://us.gov/\nhttps://data.gov.in/\n10) google's search engine for datasets https://lnkd.in/er_NUXW6 \n11) reddit has some datasets too!\nhttps://lnkd.in/eCZci-Nh - check the\n\"data\" section of the sidebar\n12)OSF HOME:\nhttps://osf.io/\n13) an article on links to good datasets ( health DataSets)\nhttps://lnkd.in/etwU3THG\n14) research papers!\nwhen i wanted some aero data I typed on google scholar « Aero data ». I then went onto relevant papers, and typed things like \"data collection\",\"data source\", \"repository\" etc. this gave me an idea on how other people were collecting data, and i was so happy to find alternate sources/ways of collecting data.\n15) UCI's machine learning repository:\nhttps://lnkd.in/eDgWAyBW\n16) Similar to the above link, many research labs keep working on datasets. Stanford, for example has : \nhttps://lnkd.in/es57yC5Y\n17) make your own dataset using faker's library\nhttps://lnkd.in/e9bs26c7\n18) Hugging face:\nThis has great datasets to work with as well.\nhttps://lnkd.in/e7Ry_jJS\n19) adding json to any subreddit will display the data on it. This is something I just found about, and it absolutely blew me away.\n20) Academic Torrents:\nhttps://lnkd.in/e7FDedk9\n21) YouTube-8M Segments Dataset\nhttps://lnkd.in/ec3KW2b8\n22) Open Street Map!\nhttps://lnkd.in/eeqe8pug\nI hope this served you well!\n#datasets #data #datascience #machinelearning #artificialintelligence #kaggle #github",
+            "totalReactionCount": 27,
+            "likeCount": 25,
+            "appreciationCount": 1,
+            "InterestCount": 1,
+            "commentsCount": 1,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7130864255171485696/",
+            "postedAt": "4mo",
+            "urn": "7130864255171485696",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "company": {},
+            "article": {
+                "title": "GitHub - awesomedata/awesome-public-datasets: A topic-centric list of HQ open datasets.",
+                "subtitle": "github.com • 1 min read",
+                "link": "https://github.com/awesomedata/awesome-public-datasets"
+            }
+        },
+        {
+            "resharedPost": {
+                "text": "🚀 Le 7 novembre dernier a marqué le lancement de la troisième édition du programme MENTOR’IA.\n\n🟣 Cette année la \"promo\" s'agrandit avec 20 étudiantes en licence et/ou master qui vont pouvoir bénéficier d’un accompagnement personnalisé avec un ou une professionnel.le de l’IA, issu(e) des mondes académique ou industriel.\n\n🟣 Le mentorat leur permettra d’obtenir des conseils pour démarrer une carrière dans le numérique, et se créer un réseau qui les accompagnera pour leur entrée sur le marché du travail.\n\n💬 \"Depuis plusieurs années dans les programmes stratégiques utilisant l'IA et plus généralement dans les projets de Recherche et Développement, il apparait clairement que la sous-représentativité des femmes en science constitue un frein à l'applicabilité et à l'utilisation pleine et entière de l'IA. ANITI est pour moi un écosystème privilégié et reconnu pour apporter un soutien aux futures générations de scientifiques et notamment encourager et supporter les membres féminines qui souhaitent embrasser une trajectoire IA\" - Carine AMELINE, PhD - Mentor\n\n#ANITI I #IA I #Mentorat I Marjorie Allain-Moulet I Corinne Joffre I Dennis G Wilson ",
+                "author": {},
+                "image": [
+                    {
+                        "url": "https://media.licdn.com/dms/image/D4E22AQEJj4zIT44L-A/feedshare-shrink_2048_1536/0/1699969797100?e=1714608000&v=beta&t=owIXdtl4YfbeiTT9AuyZyHchbZnD09CYjceB_6TVgrQ"
+                    },
+                    {
+                        "url": "https://media.licdn.com/dms/image/D4E22AQHYEhE7eRdjSQ/feedshare-shrink_2048_1536/0/1699969797929?e=1714608000&v=beta&t=4lZU8hfIBITazvcBJzClKTUi0p55Q7czGLZd7JBTCdc"
+                    },
+                    {
+                        "url": "https://media.licdn.com/dms/image/D4E22AQGaY61G9RHCcg/feedshare-shrink_2048_1536/0/1699969797808?e=1714608000&v=beta&t=OrMZHRLFjdCVVjIFTnl8igTXNAEG44Cuhyjtsum6Rxw"
+                    }
+                ],
+                "company": {},
+                "article": {}
+            },
+            "text": "Ravie de faire partie du programme Mentor’IA en tant que mentor au sein de ANITI Toulouse  (Artificial Natural Intelligence Toulouse Institut).\nC’est une expérience incroyable de partager mon réseau et d'échanger avec des individus aux horizons et métiers variés dans le domaine de l'IA, en particulier avec des étudiants passionnés et intéressés par l'IA sous tous ses aspects, légaux, techniques, etc.\n\nDelighted to be part of the Mentor’IA program as a mentor within ANITI Toulouse (Artificial Natural Intelligence Toulouse Institut).\nIt's an incredible experience to share my network and interact with individuals with different backgrounds and professions in AI, in particular with students who are passionate and interested in AI in all its aspects, legal, technical, etc.\n#AI ",
+            "totalReactionCount": 23,
+            "likeCount": 11,
+            "empathyCount": 4,
+            "praiseCount": 8,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7130208050874834946/",
+            "postedAt": "4mo",
+            "reposted": true,
+            "urn": "7130208050874834946",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "🐍 Thrilled to introduce my course: \"Python Fundamentals\"! We've designed it to be easy to grasp and implement, so you'll be mastering Python in no time! Here's a sneak peek into what we'll cover:\n1️⃣ Easy-Peasy Python Kickstart:\nIntroduction to Python\nWhy Python is your new best friend\nSetting up Python on your computer\nGrasping the basics: Syntax and Data Types\nPlaying with Variables, Assignments, Numbers, and Strings\nString Operations and Type Conversions\nNavigating Control Structures: if-else and loops (for, while)\nExercise: Practice loops (while / for)\n2️⃣ Data Structures :\nLists: Crafting and Manipulating (slicing, adding)\nDictionaries: Crafting key-value magic\nTuples: Crafting and manipulating with ease\nExercice :Inventory Management with Lists, Tuples, and Dictionaries\n3️⃣ Functions and Modules :\nFunctions: From A to Z (Definition, Parameters, Return Values)\nModules: Your toolkit - Importing and Mastering built-in libraries (e.g., random, math)\nError Handling: Using try-except blocks\n4️⃣ Object-Oriented Python :\nIntroduction to OOP - Your pass to Classes, Objects, Attributes, and Methods\nInheritance and Overloading - Level up your coding game!\nSmall Project: Creating a Python Quiz Game \n5️⃣  Advanced Topics:\nLet's go deep! Explore advanced Python concepts\nFinal thoughts, resources, and your next steps\nDon't let this chance to dive into the Python world pass you by! Join us here: https://lnkd.in/eZfKN9Sm  #PythonJourney #LearnWithEase #PythonFundamentals #Python #Programming",
+            "totalReactionCount": 57,
+            "likeCount": 29,
+            "appreciationCount": 5,
+            "empathyCount": 15,
+            "praiseCount": 8,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7127266179324227584/",
+            "postedAt": "5mo",
+            "urn": "7127266179324227584",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "company": {},
+            "article": {
+                "title": "Python pour les débutants",
+                "subtitle": "fluctuationit.com • 1 min read",
+                "link": "https://www.fluctuationit.com/pythonde#PythonCourse"
+            }
+        },
+        {
+            "text": "Pursuing AI\n\nHey Now that I'm done with my master's degree (Yes! graduated with high honors) and staying at home, I've got some extra time. I want to talk about something I really care about: Artificial Intelligence.\nAs I'm looking for jobs, I've noticed more and more people getting into AI (300+ candidates for every job offer ) just because it's popular or for the money (data scientist being the sexiest job of the 21st century) , without really loving the subject. So, here's my simple advice:\nIf you don't truly love AI, if you don't feel really excited about it about new technologies and new advancements, maybe think about your choice. If you're only after money ( that doesn't mean work for free don't get me wrong!), you might end up unhappy because the field is getting really crowded. Ask yourself, would you still do it for fun if you didn't get paid? Your answer matters.\n\nRemember why you started this journey and find joy in it\n\n\n\n#ArtificialIntelligence #TechnologyForGood #ContinuousLearning",
+            "totalReactionCount": 26,
+            "likeCount": 15,
+            "appreciationCount": 1,
+            "empathyCount": 9,
+            "InterestCount": 1,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7118526283344396288/",
+            "postedAt": "5mo",
+            "urn": "7118526283344396288",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/D4E22AQEHKEqkMw6sEw/feedshare-shrink_2048_1536/0/1697188921974?e=1714608000&v=beta&t=Bdxrf-axqMEXpljgFHpmsz0_goOIWyNS_6kv639jWj4"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "Join the CHATGPT Course ! A Comprehensive Guide! Dive into the world of ChatGPT. From understanding its general operation to mastering the art of crafting effective prompts. Explore the many features of ChatGPT plus by learn how to speed up your email writing with AutoGPT and get more done using the Zapier Plugin\n🌟 Course Highlights 🌟\nWhat is ChatGPT?: Get the basics down.\nWhy ChatGPT Matters: Learn its impact and everyday uses.\nDeep Dive into Operations: Explore how ChatGPT generates text and understands context.\nPrompt Mastery: Tips and exercises to get the best responses.\nPractical Uses: Content creation, personal assistance, customer support, and even coding!\nTop 10 Plugins: A special section on the best plugins to enhance your ChatGPT experience.\nEthical Considerations: Navigate the challenges and biases.\nTroubleshooting: How to report issues effectively.\nFuture of ChatGPT: Where is it headed? How can society and tech shape its evolution?\n\n#AI #ChatGPT #ComprehensiveGuide #EffectivePrompts #PracticalUses #EthicalChallenges #FutureDevelopments #Top10Plugins #AutoGPT #Productivity #Automation\n\nSee you in the course! LINK : https://lnkd.in/e9Z9dAF8 \n(ENGLISH VERSION WILL BE SOON AVAILABLE ) ",
+            "totalReactionCount": 25,
+            "likeCount": 16,
+            "empathyCount": 2,
+            "praiseCount": 7,
+            "commentsCount": 2,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7105117607615188992/",
+            "postedAt": "7mo",
+            "urn": "7105117607615188992",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/D4E22AQGfzQBqnMx-JQ/feedshare-shrink_2048_1536/0/1693992044023?e=1714608000&v=beta&t=rJRlbBrcZRfiHnfPIScyKhlPZGOeMhLCfWQX0OHLhCk"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "resharedPost": {
+                "text": "Fluctuationit.com\n\nNotre dernière formatrice (Eya) sur dev avec IA et ML. Elle aide les entreprises a utiliser les API de chatGPT pour apporter de l'IA générative .. Consultante depuis 5 ans, elle va booster l'activité consulting de fluctuationit V2. Merci Eya pour ton excellent support auprès de nos clients ..\n\nVous avez des projets . Contactez nous !\n",
+                "author": {
+                    "firstName": "fabrice",
+                    "lastName": "chrzanowski",
+                    "username": "fabrice-chrzanowski",
+                    "url": "https://www.linkedin.com/in/fabrice-chrzanowski"
+                },
+                "image": [
+                    {
+                        "url": "https://media.licdn.com/dms/image/D4E22AQFJXNIv_o6fng/feedshare-shrink_2048_1536/0/1690570313647?e=1714608000&v=beta&t=ybdjB1ahVMciqPZTXP6gTmoU1odRnYY4TLta2-CTkU0"
+                    }
+                ],
+                "company": {},
+                "article": {}
+            },
+            "text": "",
+            "totalReactionCount": 17,
+            "likeCount": 5,
+            "empathyCount": 4,
+            "praiseCount": 8,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7092152958053711872/",
+            "postedAt": "8mo",
+            "reposted": true,
+            "urn": "7092152958053711872",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "company": {},
+            "article": {}
+        },
+        {
+            "resharedPost": {
+                "text": "https://lnkd.in/erDkgAB6\n\n👩‍💻 Nous sommes ravis d'annoncer le lancement de notre nouvelle formation en ligne, animée par notre experte Eya : \"ChatGPT Comprendre et Utiliser l'IA pour Transformer Votre Communication Digitale\".\n\nCe cours est conçu pour vous aider à démystifier les rouages de ChatGPT, une puissante intelligence artificielle, et vous fournir des conseils précis pour en tirer le meilleur parti. Que vous soyez simplement curieux d'explorer ChatGPT pour la génération de texte et l'interaction conversationnelle, ou que vous soyez un créateur de contenu, un professionnel du service client, un développeur, ce cours est fait pour vous.\nObjectifs du cours :\n1️⃣ Comprendre le fonctionnement général de ChatGPT et le concept de token.\n2️⃣ Savoir interagir efficacement avec ChatGPT en formulant des prompts appropriés.\n3️⃣ Appliquer ChatGPT pour la création de contenu, l'assistance personnelle, le support client et la programmation. Découvrez chatGPT 4 et les plugins\n4️⃣ Reconnaître les défis éthiques liés à l'utilisation de ChatGPT et savoir comment signaler des problèmes.\n5️⃣ Envisager les développements futurs et l'impact de la technologie sur ChatGPT et la société.\nAucune connaissance préalable en intelligence artificielle ou en programmation n'est nécessaire. Une familiarité avec l'utilisation de logiciels et d'outils en ligne est un avantage.\nPour plus d'informations et pour vous inscrire, suivez ce lien https://lnkd.in/erDkgAB6.\n\n📚 Rejoignez-nous et transformez votre communication digitale avec l'IA !\n\n#formation #IA #communicationdigitale  #ChatGPT #intelligenceartificielle #formationenligne ",
+                "author": {
+                    "firstName": "fabrice",
+                    "lastName": "chrzanowski",
+                    "username": "fabrice-chrzanowski",
+                    "url": "https://www.linkedin.com/in/fabrice-chrzanowski"
+                },
+                "company": {},
+                "article": {}
+            },
+            "text": "New Course Available! Join the exciting new course on #ChatGPT to learn about it and to explore tools for building ChatGPT and master the crafting of effective prompts using tips and tricks. Discover the vast capabilities of ChatGPT and its plugins, including ChatGPT Plus (the paid version), while leveraging the power of autoGPT to automate email writing tasks and boost your productivity using Zapier Plugin. Don't miss this opportunity to expand your knowledge and enhance your AI interaction skills. See you there!\n#AI #ChatGPT #LanguageModels #ChatGPTPlus #AutoGPT #AgentGPT #Automation ",
+            "totalReactionCount": 3,
+            "likeCount": 3,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7092152408021073920/",
+            "postedAt": "8mo",
+            "reposted": true,
+            "urn": "7092152408021073920",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "Together, let's forge a tech world that is truly inclusive and embraces diversity! If you have any projects or a desire to learn something new, don't hesitate to reach out to me within the scope of #Google's #WomenTechmakers. I'm here to support and collaborate with you on your journey in tech! Let's work together to create a more inclusive and diverse tech community. Feel free to connect with me for guidance, mentorship, or just to share ideas. #WomenTechmakers #TechCommunity #InclusiveTech #LearningTogether #SupportInTech #WTMAmbassador #mentorship",
+            "totalReactionCount": 23,
+            "likeCount": 9,
+            "empathyCount": 5,
+            "praiseCount": 9,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7092148294683930624/",
+            "postedAt": "8mo",
+            "urn": "7092148294683930624",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/D5622AQHVxSh7gqNoNw/feedshare-shrink_2048_1536/0/1690899917528?e=1714608000&v=beta&t=eKEpFSNymkgtORUQaGQKMgP9-bmEBeCuQva90xRfAc8"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "Kicking off the week with some exciting news, I am now officially part of Google's Women Techmakers Ambassador program! This incredible opportunity allows me to continue my mission of empowering and uplifting women in STEM and advocating for Equitable Tech Access for All\n#WTMAmbassador #WomeninSTEM #TechAdvocacy ",
+            "totalReactionCount": 39,
+            "likeCount": 7,
+            "appreciationCount": 1,
+            "empathyCount": 9,
+            "praiseCount": 22,
+            "commentsCount": 3,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7092146593335836672/",
+            "postedAt": "8mo",
+            "urn": "7092146593335836672",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/D5622AQHzkVUe6lQMIw/feedshare-shrink_2048_1536/0/1690899512885?e=1714608000&v=beta&t=qrabix9dJYCdL9Ec_ywwR7JYQDBb_TaAkynA7PO0V1A"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "I am incredibly excited to be a part of the IEEE Women in Engineering Day event, where I will be hosting a workshop focused on \"ML Applications in Climate Change.\" As a passionate advocate for women in engineering and deeply concerned about climate change, I was more than happy to accept the invitation.\nDuring this workshop, we will delve into the intersection of artificial intelligence (AI) and climate change, with a specific focus on creating a model to predict future CO2 emissions in the atmosphere and monitoring the use case of CO2 removal technologies.\nThis workshop will offer a comprehensive introduction to AI and its applications in addressing climate change challenges. We will also engage in a discussion on the relationship between AI and climate change.\nDon't miss this opportunity! Register now using the following form: https://lnkd.in/euP4FMbN\n#WomenInEngineering #IEEEWomenInEngineering #WomenInSTEM #WomenInTech #ClimateChange #AIforClimate\n",
+            "totalReactionCount": 20,
+            "likeCount": 7,
+            "appreciationCount": 1,
+            "empathyCount": 3,
+            "praiseCount": 9,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7088929605159395328/",
+            "postedAt": "8mo",
+            "urn": "7088929605159395328",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/D4E22AQFBM3yeuZGhaQ/feedshare-shrink_2048_1536/0/1690132522718?e=1714608000&v=beta&t=rZheR1p8kUAaWcvoiU6bezDv39lana7zxqxaWBNcptU"
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/D4E22AQGGRg3-VHMaLg/feedshare-shrink_2048_1536/0/1690132519800?e=1714608000&v=beta&t=O_B2uGPbpn5L4zvvdWZF7HB7_dKdSrHLehxs5KtxdeQ"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "The AI gold rush is sweeping the business world, as enterprises scramble to adopt AI solutions in a race for competitive advantage. However, the hasty integration of AI can lead to disastrous outcomes if robust considerations are overlooked. Building a strong data infrastructure and addressing ethical and regulatory compliance are often sacrificed in the quest for quick implementation. Without ensuring model interpretability and continuous monitoring, the black box nature of AI algorithms can undermine transparency and accountability. Neglecting skill development and collaboration further exacerbates the problem. Only by adopting a thoughtful and robust approach can enterprises truly harness the potential of AI to drive sustainable growth and success, avoiding the pitfalls that lie within the AI frenzy.\n#ThoughtfulAIIntegration #EthicalAI #ContinuousMonitoring\n#AIRegulatoryCompliance",
+            "totalReactionCount": 6,
+            "InterestCount": 6,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7087350387401207808/",
+            "postedAt": "9mo",
+            "urn": "7087350387401207808",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "While being away from my family on this special day of Eid (Eid Mubarak! 🎉 everyone celebrating), I find solace in pursuing what I love.\nToday, I am thrilled to announce my comprehensive course, \"Advanced AI Accessible to All: Exploration and Simplified Explanation.\" This program is designed to provide you with accessibility and flexibility, allowing you to explore various AI subjects giving you the material needed to start the journey and dive deeper into your areas of interest.\n\nCourse Highlights:\n🔹 Advanced Machine Learning: Tackle deep feedforward networks (#DNN), convolutional neural networks (#CNN), recurrent neural networks (#RNN/LSTM), and more. Gain a broad understanding of advanced ML techniques.\n🔹 Deep Learning Python Libraries/Frameworks: Explore #TensorFlow and #PyTorch, two leading frameworks in the field. Get hands-on experience and discover the unique capabilities of each framework and their differences.\n🔹 Natural Language Processing (#NLP): Dive into the world of #TextPreprocessing, #WordEmbeddings, #SentimentAnalysis, #TopicModeling, and more. Discover the power of #NLP and its applications.\n🔹 #ComputerVision: Unleash the potential of computer vision with topics like generative adversarial networks (#GANs) and #TransferLearning. Explore the realm of visual data processing and its wide-ranging applications.\n🔹 Advanced Topics: Gain insights into #AdversarialAttacksAndDefenses, unravel the mysteries of #autoencoders, and explore explainable AI (#XAI) techniques. Understand the #ethical considerations surrounding AI.\n\nAt the heart of our course is accessibility and customization. We believe in empowering learners to tailor their AI learning experience without necessarily having any mathematical knowledge . You have the opportunity to explore various subjects and discover the aspects that intrigue you the most. Want to dive deeper into a specific topic? Simply send us a message, and we'll provide you with more in-depth course options on that subject.\n\nJoin us on this enlightening journey and unlock the power of deep learning. Enroll today to gain a comprehensive understanding of AI while having the flexibility to explore different subjects at your own pace.\n\n🔗 Enroll now: https://lnkd.in/eEdG__y6\n\n#AI #MachineLearning #DeepLearning #DemystifyingAI #Education #Accessibility #computervision #nlp #python #tensorflow #data #learning ",
+            "totalReactionCount": 34,
+            "likeCount": 14,
+            "appreciationCount": 1,
+            "empathyCount": 14,
+            "praiseCount": 5,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7079738308137738240/",
+            "postedAt": "9mo",
+            "urn": "7079738308137738240",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "company": {},
+            "article": {
+                "title": "IA Avancée Accessible à Tous",
+                "subtitle": "fluctuationit.com • 1 min read",
+                "link": "https://www.fluctuationit.com/ia_advanced"
+            }
+        },
+        {
+            "text": "Today especially with the High school graduation results in Tunisia (Le fameux Bac) and people asking me about careers after high school (Est-ce que choisir l'informatique est une décision judicieuse si je n'aime pas vraiment ça / J'ai peur de faire le mauvais choix... ) , I want to address a topic that many of us, especially young professionals, grapple with: the pressure to have our lives figured out at a young age. \n\nSociety bombards us with expectations, suggesting that we should have a clear career path, a solid plan, and all the answers by the time we reach our twenties. But here's the truth: life is a beautiful, messy, and unpredictable journey, and it's okay not to have it all figured out. Even if it seems that everybody got everything figured out .\n\nI speak from personal experience who has felt the weight of these expectations. However, I have come to realize that embracing the journey and allowing ourselves the space to explore, grow, and make mistakes is an invaluable part of our personal and professional development. It’s not a problem if you do not like the job you’ve been dying to have you still have plenty of time to change and restart again.\n\nWe need to shift the narrative and acknowledge that finding our purpose and carving our path is a process that unfolds over time. It's about embracing the uncertainties, taking risks, and being open to new opportunities that may lead us in unexpected and fulfilling directions. Instead of succumbing to the pressure, let's cultivate resilience and adaptability. let's remember that success is subjective and unique to each individual. It's not defined by a predetermined timeline or societal expectations. It's about finding fulfillment and happiness in the journey, rather than reaching a specific destination.\n\nSo, to all the young professionals out there feeling the weight of the world's expectations, I encourage you to embrace the uncertainty, trust the process, and be kind to yourself. You are not alone in this journey, and it's okay not to have all the answers right now. Allow yourself the freedom to explore, experiment, and discover your true passions. There is no Timeline for that .\n\nTogether, let's redefine success and support one another as we navigate the beautiful chaos of life. Let's celebrate the small victories, embrace the detours, and remind ourselves that the journey is just as important as the destination if not BETTER.\n#EmbraceTheJourney #ThrivingYoungProfessionals #SuccessIsAJourney #ai #success #job #career #opportunities ",
+            "totalReactionCount": 19,
+            "likeCount": 5,
+            "appreciationCount": 1,
+            "empathyCount": 10,
+            "praiseCount": 3,
+            "commentsCount": 2,
+            "repostsCount": 1,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7079011323623165952/",
+            "postedAt": "9mo",
+            "urn": "7079011323623165952",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/D4E22AQGXN_ZFAPlqcA/feedshare-shrink_2048_1536/0/1687767819716?e=1714608000&v=beta&t=096qoXtSU3CDDlRccHeXZIWta82HTPp9qWZm9qXlzCI"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "Microsoft Flight Simulator 2024 was recently announced confirmed by Microsoft to be a BRAND NEW SEQUEL (Its not an update) . I couldn't resist the urge to revisit the game and test the latest version. Having not touched it since my childhood, I was eager to see how far it had come, particularly in terms of AI integration. And let me tell you, I was absolutely blown away.\n\nOne aspect that truly astonished me was the seamless integration of the Air Traffic Control (ATC) system. The AI-controlled ATC controllers demonstrated remarkable precision and accuracy, effortlessly adapting to changing weather conditions, intricate flight plans, complex airspaces, and even aircraft condition. It was truly impressive to witness the AI's ability to provide realistic and responsive guidance to players. Achieving such accuracy is undoubtedly challenging, and I am keen to learn more about the underlying architecture behind the ATC system. I wonder if it leverages the power of data, incorporates an exceptional optimization algorithm, or employs a hybrid approach.\n\nFurthermore, I must acknowledge the significant role of Azure's integration in enhancing the overall experience. The use of AI Speech Generation technology for the flight controller voices resulted in human-like voices that made me question whether voice actors were involved at all.\n\nI can't contain my excitement for the release of Microsoft Flight Simulator 2024. The opportunity to explore the vast skies, with the game's emphasis on different aviation professions and its ability to construct a detailed and realistic representation of our planet by processing an impressive 2.5 petabytes of Bing Maps satellite photo data through Azure machine learning, is something I eagerly anticipate.\n\n#MicrosoftFlightSimulator2024 #AIIntegration #AviationProfessions #ATCIntegration #ImmersiveGaming #aviation #machinelearning #ai #azure",
+            "totalReactionCount": 8,
+            "likeCount": 5,
+            "empathyCount": 3,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7075007146865643520/",
+            "postedAt": "10mo",
+            "urn": "7075007146865643520",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "What is Adversarial Validation In Machine Learning? \n\nThis year as part of a class we had to compete at the Defi-IA , a prominent French competition, presented an exciting challenge that went beyond the creation of AI models. Participants had the  opportunity to work with an API designed for this challenge for data retrieval, considering various strategies and addressing potential biases. The Defi-IA experience emphasized the significance of addressing biases and distributional differences when working with external data sources .It was an exhilarating journey that ultimately led us to the utilization of adversarial validation. \n\nSo, what exactly is adversarial validation? Inspired by FastML's concept, it revolves around assessing the similarity between training and test data in terms of feature distribution. By validating the degree of similarity, we can uncover potential discrepancies and avoid overfitting, ultimately improving our model's performance. It's a simple yet powerful approach to understand the variables that influence our dataset. \n\nWhile initially faced with challenges in aligning the API data with the test dataset and securing higher leaderboard positions, adversarial validation emerged as a turning point in our journey. It bridged the gap between our model's performance and the test dataset, offering valuable insights and enabling us to refine our approaches. However, we acknowledge that the effectiveness of adversarial validation in competition settings may differ when applied to real-life datasets, necessitating careful consideration.  \n\nIt's rather essential to recognize the limitations of adversarial validation, particularly its potential to overfit to the adversarial data and compromise generalization capabilities. Striking the right balance between addressing biases and maintaining model performance on real-world data remains crucial for data scientists. \n\nLet's engage in meaningful discussions about the merits and limitations of adversarial validation if you did use it before, both in competition settings and real-life datasets, to uncover new strategies and push the boundaries of what's possible. \n\n#AdversarialValidation #KaggleCompetitions #DataScience #MachineLearning #BiasInData #RealLifeDatasets #DefiIA #Insights #Collaboration\n",
+            "totalReactionCount": 13,
+            "likeCount": 10,
+            "InterestCount": 3,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7072486038274756608/",
+            "postedAt": "10mo",
+            "urn": "7072486038274756608",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/D4E22AQFpBE53BwEYfA/feedshare-shrink_2048_1536/0/1686212071199?e=1714608000&v=beta&t=aUJx8vXtzTSdsu1dJaoNHrSJ2wtrxBsH74IcxWsj0fg"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "resharedPost": {
+                "text": "🎉 Nous sommes ravis d'annoncer l'arrivée d'Eya Smati dans notre équipe chez FluctuationIT.com ! 🎉\n\nEya apporte avec elle une expertise précieuse dans le domaine de l'Intelligence Artificielle et nous sommes impatients de voir comment elle va contribuer à notre mission de fournir des solutions technologiques innovantes.\nDe plus, Eya a créé une formation de pointe sur l'IA que nous sommes ravis de partager avec vous (https://lnkd.in/eRtUx8VX). \nCette formation est une excellente opportunité pour ceux qui cherchent à approfondir leurs connaissances dans ce domaine passionnant.\nRejoignez-nous pour souhaiter la bienvenue à Eya et restez à l'écoute pour plus d'informations sur sa formation sur l'IA !\n#Bienvenue #Equipe #IntelligenceArtificielle #Formation",
+                "author": {
+                    "firstName": "fabrice",
+                    "lastName": "chrzanowski",
+                    "username": "fabrice-chrzanowski",
+                    "url": "https://www.linkedin.com/in/fabrice-chrzanowski"
+                },
+                "video": [
+                    {
+                        "url": "https://dms.licdn.com/playlist/vid/D4E05AQEjhoR4GdlDZw/mp4-720p-30fp-crf28/0/1685465375520?e=1712199600&v=beta&t=lvRvQJYg__YAqsr5tCsXNMog9jBdQk9h4R1cDNjeiqQ",
+                        "poster": "high/0/1685465333069?e=1712199600&v=beta&t=T28siRE-wVAR3w6pr1bmxAd4MiFWbRs9ABP6xZshIpo",
+                        "duration": 173266
+                    }
+                ],
+                "company": {},
+                "article": {}
+            },
+            "text": "Glad to contribute to the advancement of IT solutions on FluctuationsIT and contribute to the AI community.",
+            "totalReactionCount": 18,
+            "likeCount": 1,
+            "appreciationCount": 1,
+            "empathyCount": 10,
+            "praiseCount": 6,
+            "commentsCount": 2,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7069556617385549824/",
+            "postedAt": "10mo",
+            "reposted": true,
+            "urn": "7069556617385549824",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "Exciting Announcement! I am delighted to share that I've joined FluctuationIT as an AI Specialist, where my focus will be on creating comprehensive courses in Artificial Intelligence. If you're interested in AI and looking for guidance on where to begin or how to dive deeper into the field, join me on an incredible learning journey as we explore the fascinating world of AI from all perspectives.\n\nWe are working on a #AI #Specialization and I'm thrilled to announce that the first course is now available: \"Introduction to ML and AI.\" In this engaging course, we'll delve into the fundamental concepts of AI and Machine Learning while discussing the ethics and societal impact. You'll gain hands-on experience by working with the #ChatGPT API and experimenting with #AgentGPT (Having an AI Assistant is much easier than you might think). We'll also review key ML concepts and techniques. Throughout the course, you'll build small classifiers and regression models, evaluate their performance, and gain valuable insights using real-life data. Feel free to subscribe to the course using the following link : https://lnkd.in/emcdGdFz\n\nStay tuned for the upcoming \"#Advanced #MachineLearning #Course\" currently in development. This course will cover advanced topics, including #NLP use cases like #textClassification (including sentiment analysis) and #topicmodeling, as well as computer vision techniques such as generative adversarial networks (#GANs) and #transferlearning. Additionally, we'll explore exciting labs and demos focused on #NLP and computer vision. Expect to dive into cutting-edge subjects like adversarial attacks and defenses, #autoencoders, #explainableAI (#XAI) with methods like SHAPE for #interpretability, and #AISafety with a focus on uncovering biases in datasets for #responsibleAI, among many others.\n\nDon't miss out on the chance to explore AI, engage with practical exercises, and unravel its mysteries! Subscribe now and become part of our AI community. If you have any course ideas or specific topics you'd like to see covered, please don't hesitate to reach out and send me a message. Feel free to ask any questions you may have.\n\nI extend my sincere gratitude to FluctuationIT for granting me the opportunity to share my ideas and knowledge with aspiring AI enthusiasts like yourself. Let's embark on this exciting journey together!\n\n#AI #MachineLearning #ArtificialIntelligence #Education #CareerDevelopment",
+            "totalReactionCount": 66,
+            "likeCount": 27,
+            "appreciationCount": 1,
+            "empathyCount": 11,
+            "praiseCount": 27,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7069219880985600000/",
+            "postedAt": "10mo",
+            "urn": "7069219880985600000",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/D4E22AQGErdDGDBirHw/feedshare-shrink_2048_1536/0/1685433357568?e=1714608000&v=beta&t=rbnOadOwbjfdClOGj-kO6y-TlQ-NZMkS5OlbXazvKNI"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "Defending Machine Learning Models Against Adversarial Attacks: Safeguarding in the Cyber Age \n\nIn today's technology-driven world, machine learning models have become integral to various domains. However, these models are not immune to manipulation. Adversarial attacks have emerged as a significant concern, exploiting vulnerabilities in machine learning systems. Let's explore the realm of adversarial attacks and defenses, shedding light on these concepts and strategies to safeguard our models. 🛡️\n\nAdversarial attacks involve intentional manipulation of input data to deceive machine learning models. Crafted with precision, adversarial examples mislead models into making incorrect predictions. These examples closely resemble legitimate data but contain carefully engineered perturbations. Adversarial attacks pose a threat to the security and integrity of machine learning systems, necessitating the need for robust defenses.\nTo counter this rising threat, researchers have been actively developing defense strategies. Here are some prominent approaches:\n\n1️⃣ Adversarial Training: Augmenting the training dataset with adversarial examples, models are exposed to manipulated data during training. This process enables them to recognize and counter such attacks, enhancing their robustness and generalization to unseen adversarial examples.\n2️⃣ Defensive Distillation: Instead of hard labels, models are trained using soft labels—probabilities assigned to different classes. This nuanced understanding of data makes models more resilient to adversarial perturbations, making it difficult for attackers to exploit vulnerabilities.\n3️⃣ Input Preprocessing: Employing various preprocessing techniques, such as filtering out high-frequency noise or utilizing denoising algorithms, helps detect and remove adversarial perturbations. These methods aid in cleaning input data and reducing the impact of manipulative attacks.\n\nAs machine learning models continue to play a significant role in our lives, addressing their vulnerabilities to adversarial attacks is crucial. Such attacks undermine trust, reliability, and security. By implementing defense mechanisms we can enhance the resilience of machine learning models against adversaries.\nThe field of adversarial attacks and defenses is continuously evolving, and researchers are actively exploring new techniques. Protecting machine learning models from adversarial attacks remains an ongoing challenge in the cybersecurity domain. Let's stay vigilant, advance research, and implement robust defense mechanisms to pave the way for safer and more secure machine learning systems in the cyber age. 🌐\n#MachineLearning #Cybersecurity #AdversarialAttacks #DefenseStrategies #DataSecurity",
+            "totalReactionCount": 11,
+            "likeCount": 6,
+            "appreciationCount": 1,
+            "InterestCount": 4,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7067413349759635457/",
+            "postedAt": "10mo",
+            "urn": "7067413349759635457",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/D4E22AQGaYdHhO5EEfA/feedshare-shrink_2048_1536/0/1685002647526?e=1714608000&v=beta&t=YSOGE8iG9YIgWcJG-3fPt-nBCvKtvNajdB7V_AFt-dc"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "Beyond the Binary: Being Both a Musician and an Engineer \n\nWhen I stepped into the engineering world, people assumed that music was just a hobby for me—a mere escape from the logical confines of science .Similarly, when I immersed myself in the music world from a professional point of view, pursuing my passion for Music, no one believed that I was also a passionate AI practitioner. The surprise on their faces when they discovered my deep love for engineering and artificial intelligence was palpable. I found myself constantly categorized, with questions like, \"Are you more of a musician or an engineer?\"\n\nBut life doesn't have to be a choice between one path or the other. It doesn't mean that all I will ever do is build AI models. Someday, I may find myself at the very center of a music career. For years until now all I do is try to juggle both worlds.\n\nPeople tend to give you dedicated roles, labeling science as your \"work\" and music as your \"passion.\" But to me, this differentiation between science and arts has always seemed absurd. I found rigor and discipline in the arts, while my scientific pursuits sparked imagination and creativity. Science and art were interwoven, complementary forces in my life The two realms coexist and thrive within me.\n\nIf you find  yourself straddling multiple paths, whether it's sketching alongside your engineering career or pursuing sports while nurturing another passion, I encourage you to embrace both. You are not simply an engineer or a painter, a musician or a doctor. You are BOTH You are a multi-faceted individual with diverse talents and passions. Each aspect of your identity is valid and impressive. Do not let the pressure of societal expectations force you to choose one over the other.\n\nThere is a prevailing notion that academia discourages pursuing side interests, arguing that one should focus solely on studying to secure a \"real\" job. But in my eyes, that perspective is nothing more than misguided. I firmly believe that you should do both—pursue your passions alongside your academic pursuits. If it weren't for music, I wouldn't be as proficient in my engineering career and studies. And if it weren't for my engineering endeavors, my musical abilities would not have reached their fullest potential.\n\nSo, let go of the notion that you have to fit into a single mold. Embrace the fusion of your passions. Break the barriers between science and art. Explore the uncharted territories where music and AI converge. Allow your diverse interests to shape and amplify your journey. By integrating your passions, you will discover a profound sense of fulfillment and unleash your true potential. \nEmbrace your multifaceted identity, and don't let anyone diminish the significance of either realm. You are both —an embodiment of the powerful synergy between science and art.\n\n#MusicAndAI #PassionAndInnovation #ScienceAndArt #EmbraceYourPassions #artificialintelligence #work #engineering #art #career",
+            "totalReactionCount": 70,
+            "likeCount": 18,
+            "appreciationCount": 3,
+            "empathyCount": 31,
+            "praiseCount": 18,
+            "commentsCount": 5,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7066325762341003265/",
+            "postedAt": "11mo",
+            "urn": "7066325762341003265",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/D4E22AQHItUauBqjGdQ/feedshare-shrink_2048_1536/0/1684743345839?e=1714608000&v=beta&t=-kl7BAYnBNGyE6hNeJXWd9kUuBuOJIks5YKBBDjqt9U"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "Physical Informed Neural Networks (#PINNs): Uniting Machine Learning and Physics Bridging the Gap Between Theory and Real-World Applications\n\nAs a researcher or engineer, you are likely familiar with the challenges of solving complex physical problems that require knowledge of underlying physical phenomena. Traditional numerical methods can be computationally expensive and may not be suitable for problems with limited data or poorly understood physics. However, Physical Informed #NeuralNetworks (#PINNs) provide a novel approach to differential equation solving that offers significant advantages over traditional methods. It might not always work but it’s also worth the try . \n#PINNs use deep neural networks to approximate the solution of differential equations. The neural network architecture is designed to incorporate physical knowledge and constraints, enabling it to generalize well to new data and handle noisy or incomplete information.#PINNs can also reduce computational costs by learning to solve the differential equations directly, without requiring a discretization of the domain. \nTo improve the performance of #PINNs, here are some hints and tricks to keep in mind:\n1-Choose the right #network architecture: The choice of network architecture can have a significant impact on the performance of PINNs. For example, residual networks can help avoid vanishing gradients, while attention-based networks can help focus on important regions of the input.\n2-Incorporate #physics-informed loss functions: PINNs can benefit from incorporating physical knowledge into the loss function. This can be achieved by adding penalty terms that enforce conservation laws or other constraints that are known to hold in the problem domain.\n3-Use adaptive learning rates: PINNs can be sensitive to the choice of learning rate. Using adaptive learning rate algorithms such as Adam or Adagrad can help improve convergence and avoid overfitting.\nRegularize the network: PINNs can be prone to overfitting, especially when working with limited data. Regularization techniques such as dropout or weight decay can help improve generalization and prevent overfitting.\n\nIf you are interested in PINN’s and want to delve in the subject send me a message and I can send you some ressources and Jupiter notebooks to begin with ! #machinelearning #data #physics #modeling ",
+            "totalReactionCount": 10,
+            "likeCount": 7,
+            "InterestCount": 3,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7061975812064862209/",
+            "postedAt": "11mo",
+            "urn": "7061975812064862209",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/D4E22AQF_A5Jw_68R8g/feedshare-shrink_2048_1536/0/1683706236988?e=1714608000&v=beta&t=TnW4U5PHkyLp7UpYzi5O9mot3Kp-JRWhr9s6255I0sE"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "The Secrets Behind Impressive Flight Tracking Patterns - #Traffic Library!\n\nI have always been fascinated by the intricate flight patterns created by #aircraft. These patterns not only showcase the capabilities of modern aviation but also demonstrate the incredible skill of #pilots. During my #research, I was thrilled to discover the Traffic library in #Python, which allowed me to delve deeper into these patterns and gain a greater understanding of the factors that influence them.\n\nIf you're interested in exploring some fun #flight #patterns, you should check out the #Airbus \"Christmas Tree\" flight in 2019 that was designed to test the capabilities of their new #A380 aircraft. The flight path, which resembled a Christmas tree on the map, covered a distance of over 3,000 kilometers. By using the Traffic library and searching for the callsign AIB232E and aircraft 3807fa, you can explore this flight trajectory in great detail, analyzing factors such as altitude, speed, and direction to gain insights into the precision required to create such a complex flight pattern.\nAnother impressive flight tracking pattern was created by Air Malta during a special occasion when two of their employees were married. An #airplane was used to draw two hearts in the #sky, a beautiful and unique gesture that delighted many.\n\nThe Traffic library is a fantastic find for anyone interested in #Aviation. It provides the ability to find #flight phases on a trajectory, all the airspaces crossed by a trajectory, select go-arounds or runway changes from a set of #trajectories, compute the top of climb/top of descent of a trajectory, infer a #flight #plan from a trajectory, estimate the fuel burnt by an aircraft,among other features So if you are interested don’t hesitate to play with it . \n\nBy using this library, you can gain a deeper understanding of the modern #aviation industry's capabilities, the skill of pilots, and appreciate the beauty of flight patterns in a whole new way. So go ahead and give it a try!\n\nIf you're ready to get started, head to https://lnkd.in/ddgEGRcy #aviationindustry ",
+            "totalReactionCount": 30,
+            "likeCount": 22,
+            "appreciationCount": 1,
+            "empathyCount": 1,
+            "InterestCount": 6,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7059433852515065856/",
+            "postedAt": "11mo",
+            "urn": "7059433852515065856",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/D4D22AQFZNxBA0HiQlA/feedshare-shrink_2048_1536/0/1683100187791?e=1714608000&v=beta&t=2gTp6C4E2esPIDD0Mj1AzRnsklyrGDQfc2Io6Wg5Qns"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "Embrace your Geekiness: Why Girls Should Consider STEM Careers\n\nSTEM (science, technology, engineering, and math) fields offer some of the most exciting and impactful areas of work in our society today. However, despite the many benefits of #STEM careers, women are still significantly underrepresented in these fields. As someone who has worked in STEM fields, I can attest to the incredible contributions that women can make in these areas. But I've also seen the barriers that can make it difficult for #girls and #women to pursue STEM careers, from gender stereotypes and biased educational practices to a lack of role models. In some cases, individuals may dismiss females in STEM if they do not display a certain type of personality that is commonly associated with success in these fields. This can be particularly challenging for women who have worked hard to earn their place in the industry, but who may not conform to traditional stereotypes or expectations.\n\nHowever, these barriers are not insurmountable. In fact, by breaking down these barriers and encouraging more girls to pursue STEM careers, we can create a better future for everyone. Here are just a few reasons why girls should consider a career in STEM:\n\n1- You can make a real difference in the world: STEM fields offer endless opportunities to make a positive impact on the world around us. Whether you're working on developing new technologies to fight disease, finding ways to mitigate the effects of climate change, or creating innovative solutions to social problems, STEM careers are all about making a difference in the world.\n\n2- You'll be part of a community: The STEM community is a supportive and collaborative one. You'll have the opportunity to work with and learn from a diverse group of people who share your passion for #science and #technology. Plus, you'll be part of a movement to break down gender and racial barriers in these fields and create a more diverse and inclusive industry.\n\n3- You'll be challenged: #STEM careers offer constant challenges and opportunities for growth. You'll never stop learning and developing new skills, which will keep your work exciting and fulfilling.\n\nAnd let's not forget the fun factor! Working with boys in STEM fields can also be a blast. Sure, you may have to put up with a few Dad jokes, but you'll also have access to endless puns, memes that pop up from nowhere in your group chat that will keep your workday entertaining. Plus, as the STEM community becomes more inclusive, there's never been a better time for girls to break down barriers and make their mark in this exciting and rewarding field. So, embrace your geekiness and pursue your passion for science and technology - the world needs more girls like you!\n#GirlsInTech #EmbraceYourGeekiness #scienceandtechnology",
+            "totalReactionCount": 12,
+            "likeCount": 4,
+            "appreciationCount": 1,
+            "empathyCount": 5,
+            "InterestCount": 1,
+            "praiseCount": 1,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7057268643968991232/",
+            "postedAt": "11mo",
+            "urn": "7057268643968991232",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/D4D22AQGrD8Ub48pZnA/feedshare-shrink_2048_1536/0/1682583960281?e=1714608000&v=beta&t=fh79sr-C1dPutD2I3Iaf-ixDmVHr0dsCJs8RRKIrvMg"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "Laughing My Way to Conquering Imposter Syndrome\n\nYou know the feeling that you're not good enough or that you don't belong? Yep, that's Imposter Syndrome, and let me tell you, it's a doozy. \n\nBut here's the thing, acknowledging the fact that everyone, even the ones you admire, has self-doubts can help you conquer it. And one way to do that is by laughing at yourself.\nI used to think I was an imposter too, until I learned to laugh it up whenever I felt that way. By taking a step back and finding the humor in my self-doubts, I was able to realize that it's all just a part of the process.\nAnd then I started to approach everything I did as a passion. Whether it was my #work, my #hobbies, or my relationships, I found something to be passionate about and dove in headfirst. This included my approach to school as well, although it might be controversial to say that I didn't take it as seriously as some people did.\n\nWhen I started pursuing what I wanted to do in life. I thought to myself as a 16 years old , \"Who am I to pursue this? I don't have the qualifications or experience that other people in the field have.\" But then I realized that what I lacked in qualifications, I made up for in #passion and if it didn’t work at least I made it fun.\n\nNow, I'm not saying that #ImposterSyndrome magically disappeared overnight. But I've learned to embrace it, to laugh at its ridiculousness, and to use it as fuel to propel me forward.\n\nBy shifting my vision and approaching everything as a passion, I was able to get out of the imposter mood that every student goes through, especially in university. I gave up on competition and started focusing on my personal growth, and the results were amazing. I found myself succeeding more and more, and enjoying (most of the time) the journey.\n\nSo, let's all take a deep breath and acknowledge the fact that we are all works in progress. Imposter Syndrome is something that we all go through, but by laughing at ourselves and approaching everything with passion, we can conquer it.\nHave you ever felt Imposter Syndrome ? Share your experience and let's demistify it \n#ImposterSyndrome #ConquerTheWorld #LaughAtYourself #ApproachWithPassion",
+            "totalReactionCount": 25,
+            "likeCount": 11,
+            "empathyCount": 8,
+            "InterestCount": 3,
+            "praiseCount": 3,
+            "commentsCount": 6,
+            "repostsCount": 1,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7056204985457364993/",
+            "postedAt": "1yr",
+            "urn": "7056204985457364993",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/D4E22AQF28JpU_-rLxg/feedshare-shrink_2048_1536/0/1682330365447?e=1714608000&v=beta&t=bWubwCGweUm6-yhN6zsjLQBwsdqFT8BZlHDQ3ONJ6Uc"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "\"Flying High with Preference Learning: The Art of Predicting Choices\"\n\nHave you ever considered the complexity of decision-making and its impact on our lives, from choosing what to eat for lunch (It's like a never-ending game of \"What's for lunch?\" .Shoutout to all moms when they used to make that choice for us) to the significant choices affecting our careers, relationships, and health? Decision-making is a critical aspect of our daily lives and can be influenced by personal preferences, past experiences, societal norms, and emotions. Making informed decisions based on objective criteria rather than biases is essential to our well-being, especially in sensitive fields. This is where preference learning comes into play.\n\nPreference learning is a process that predicts the choices individuals make based on their preferences. I have been exploring this approach in the aviation and space industry, and it has the potential to revolutionize decision-making. By analyzing the preferences of pilots, astronauts, and passengers, we can gain insights into their decision-making and make more informed choices.\nHowever, preference learning is not without its controversies. First question Raised is how accurately could it be predicting human preferences on data that may be inherently biased. Additionally, it may lead to a lack of transparency and accountability, making it challenging to understand how decisions are being made especially in very stressful situations and emergencies in cockpits for example.\n\nPreference learning is a fascinating and technical approach, I’ve been exploring it a bit lately using preference statements integrated in decision trees such as Constraint-based decision tree In this approach, the preference statements are used as constraints to restrict the decision tree from making certain decisions that are not preferred. For example, if the preference statement is that a decision should not exceed a certain cost or time limit, then the decision tree algorithm can be modified to exclude decision paths that violate this constraint or Penalty-based decision tree In this approach, the preference statements are used as penalties to discourage the decision tree from making certain decisions that are not preferred. For example, if the preference statement is that a decision should minimize a certain cost or maximize a certain benefit, then the decision tree algorithm can be modified to penalize decision paths that do not satisfy this preference.\n\nLet's dive into the #technical and especially the #ethical aspects of #PreferenceLearning and discuss its potential as a #gamechanger for decision-making in fields like aviation and space industry. But also, let's not forget the concerns about #bias and lack of #transparency and #accountability. Join the conversation! #DecisionMaking #DataScience #AI #MachineLearning #preferencelearning",
+            "totalReactionCount": 15,
+            "likeCount": 14,
+            "empathyCount": 1,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7054747269174063104/",
+            "postedAt": "1yr",
+            "urn": "7054747269174063104",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/D4E22AQGIC2_ZUo37Vw/feedshare-shrink_2048_1536/0/1681982817963?e=1714608000&v=beta&t=-_DcZhD8NODn_Yxx4xnI8Xm5fYj-OtpNxkRVDe2sGvo"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "Is Data-Driven AI Overrated? Are We Forgetting Something? \n\nAfter reflecting on my experience as an #AI practitioner over the past few months, I have gained a deeper understanding of the significant role that model-driven AI plays in building successful AI #systems. This realization is particularly important in industries such as #aerospace, where #safety is of utmost importance, and model #explainability is a critical aspect of the #work. \n\nWhile the industry has made great strides in #data-driven AI due to advancements in neural net algorithms, data storage, and fast processors, it's essential not to overlook the benefits of #model-driven AI. Symbolic AI attempts to capture knowledge and derive decisions through explicit representation and rules, making it ideal for highly codified domains where knowledge can be captured in a model.\n\nThe question, therefore, is whether there are situations that are a good fit for explicit models and whether we can have systems that are purely model or data-driven or whether we gain more from combining the two. It is essential to appreciate what a structured AI model brings to the table to effectively combine different AI tools. Without a software engineering paradigm specifically focused on AI #software, we risk missing out on useful tooling and reinventing the wheel repeatedly.\n\nSo how can we effectively combine different AI tools to achieve the best results? The answer lies in the combination of data-driven and model-driven AI. By appreciating what a structured AI model brings to the table, we can integrate it with the latest data-driven AI techniques and tools to create more effective and impactful AI solutions.\n\nBy integrating the best of both worlds, we can leverage the power of data-driven AI techniques to extract value from vast amounts of data and combine it with model-driven AI to capture explicit knowledge and derive decisions through explicit representation and rules.\n\nOne of the benefits of a hybrid model in AI is improved accuracy and explainability. While data-driven AI techniques can provide accurate predictions and insights, they often lack #transparency . Model-driven AI, on the other hand, provides a transparent and interpretable framework for #decision  making, allowing us to understand how decisions are made and why certain actions were taken. By combining the two approaches, we can achieve both #accuracy and #transparency, making it easier to understand and interpret the #results .\nAlso by incorporating model-driven AI, we can reduce the amount of irrelevant information and false positives, resulting in a more efficient and effective system.\n\nTo do so, we need to have a software engineering paradigm that's specifically focused on AI #software. By building a strong foundation for #AI #development and deployment, we can ensure that we're leveraging AI in the best possible way.\n\nTo all the #AI #practitioners out there share your #thoughts and #experiences in the comments below.\n",
+            "totalReactionCount": 19,
+            "likeCount": 9,
+            "empathyCount": 8,
+            "InterestCount": 1,
+            "praiseCount": 1,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7053641330836537345/",
+            "postedAt": "1yr",
+            "urn": "7053641330836537345",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/D4D22AQHw0Iv-ruzhUg/feedshare-shrink_2048_1536/0/1681719143011?e=1714608000&v=beta&t=NjFhMVJVPj8C25yfqhN8JqGtoJt-QcmhnNf7OZ3aRss"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "My first step working in #artificialintelligence in the Aeronautical world as a #datascientist intern at #airbus , working on future technologies and concepts in the #cockpit of #NewGeneration #Aircrafts.\n\nBeing able to work on #aeronautics decision making (ADM) and to play a part in its development is amazing. It is truly exciting to be part of a project that has the potential to revolutionize the way #pilots interact with the #cockpit plus I get to hangout with #planes and try #simulators so WIN WIN.\n\nAs someone who has always been fascinated by #airplanes and #aviation, and happily waited as kid for planes to go above my head I couldn't think of a more perfect compromise between #work and #passion I enjoy spending my days surrounded by #planes, learning about the latest #technology from my amazing team and supervisor, and being part of a team that is shaping the future of #aviation and is also fun to be around.\n\nHopefully, I'll be able to share my insights and experiences with you all along the way on the unique challenges and rewards that come with integrating #AI into aircraft #design and #operations. Stay tuned!",
+            "totalReactionCount": 102,
+            "likeCount": 22,
+            "appreciationCount": 2,
+            "empathyCount": 23,
+            "praiseCount": 55,
+            "commentsCount": 20,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7051906501891743744/",
+            "postedAt": "1yr",
+            "urn": "7051906501891743744",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/D4E22AQHL2aTgjq2KpA/feedshare-shrink_2048_1536/0/1681305527212?e=1714608000&v=beta&t=IM7IrxI9MdJzNDSEtxcr3YQ2cqKJY2ygNCrzKi7zfHc"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "One of the worst feelings as a #developer especially a Beginner is not being able to work on what you set out to do. And that is Actually PROGRAMMING Instead, you spent the entire day setting up the repository on your local system. And what’s worse? It’s the first week of your new job or your new courses and you’re already struggling, hastily googling the errors thrown by the terminal and running random commands from #StackOverflow and This is not entirely your fault. Instruction unclear, fried the system. If you  don’t want to lose time on basic annoying stuff join my Series on #Coursera Installing and Setting up Your #VScode I am going to share a curated list of #VSCode extensions that will supercharge your productivity and make you more effective as a developer. We will dive into what these extensions do, how they work, and why they make coding more effortless.\n \nSetting up your Environment for #Python #Programming \nhttps://lnkd.in/eZBRsSc8\n\nSetting up your Environment for #C #Programming \nhttps://lnkd.in/eppyyYaj\n\nSetting up your Environment for #java  #Programming \nhttps://lnkd.in/eS_SWeer",
+            "totalReactionCount": 35,
+            "likeCount": 14,
+            "appreciationCount": 3,
+            "empathyCount": 5,
+            "praiseCount": 13,
+            "commentsCount": 2,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6982649998781857792/",
+            "postedAt": "1yr",
+            "urn": "6982649998781857792",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/C4E22AQGp1uFFsQguzw/feedshare-shrink_2048_1536/0/1664793486820?e=1714608000&v=beta&t=F6QXJuhnq0ruIQJvTa6r4QxWJf4cLrW0t9belO_Ufy4"
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/C4E22AQFTue6aYe-qWQ/feedshare-shrink_2048_1536/0/1664793487028?e=1714608000&v=beta&t=C2kk9t9cMWRkeJJIHxj1-niStS4lmG_G_vUd6bEDaG8"
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/C4E22AQHB0AtiLzPnqQ/feedshare-shrink_2048_1536/0/1664793487011?e=1714608000&v=beta&t=CZ-mAkia_o4sKZhBdee9PLzqssfiXA7LiUv7ceJfcIE"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "[Affaire à suivre] Force de poursuivre mon parcours dans les moments difficiles ..j'ai intégré l’Institut national des Sciences appliquées de Toulouse et l’ENSEEIHT de Toulouse INP - Institut National Polytechnique de Toulouse pour continuer mon cursus académique et professionnel pour ma dernière année académique en double diplôme cycle Ingénieur Informatique option Data Science à Ecole Supérieure Privée d'Ingénierie et de Technologies - ESPRIT  et un Mastere spécialisé en #intelligenceartificielle et #optimisation sur des données massives entre ENSEEIHT et Institut national des Sciences appliquées de Toulouse une formation pointue qui regroupe théorie et pratique afin de spécialiser et parfaire mes connaissances dans le monde des chercheurs et des entreprises.",
+            "totalReactionCount": 66,
+            "likeCount": 18,
+            "appreciationCount": 3,
+            "empathyCount": 14,
+            "praiseCount": 31,
+            "commentsCount": 14,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6981635052648415232/",
+            "postedAt": "1yr",
+            "urn": "6981635052648415232",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/C4E22AQFS5qwIPSUXMQ/feedshare-shrink_2048_1536/0/1664551506161?e=1714608000&v=beta&t=8d32risZ8bp32CsQnazFpuTx6VDGxhQIfhrjel_T2sQ"
+                },
+                {
+                    "url": "https://media.licdn.com/dms/image/C4E22AQGl-1vlE8ZwCw/feedshare-shrink_2048_1536/0/1664551505447?e=1714608000&v=beta&t=MdByN6WuqXjuB_sD_7YBlfxY1gD06IDCeAw7T3NYMaQ"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "Rejoignez moi demain à SupCom pour une discussion et un workshop autour de L’IA dans la Lutte contre le Réchauffement climatique  .",
+            "totalReactionCount": 50,
+            "likeCount": 19,
+            "appreciationCount": 2,
+            "empathyCount": 17,
+            "praiseCount": 12,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6866475036241379328/",
+            "postedAt": "2yr",
+            "urn": "6866475036241379328",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/C4E22AQF39FVigR52UA/feedshare-shrink_2048_1536/0/1637095221010?e=1714608000&v=beta&t=f55s1Jn3QPbHyymHo5s_Fn0myq-gf4IuY86TDK_lFro"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "If you want to learn more about the how where and why of Lambda functions and dive more into the different tips and tricks working with Lambda Function.\nJoin My Guided Project and Work on Hands on With me \nhttps://lnkd.in/eYEkEPgC",
+            "totalReactionCount": 29,
+            "likeCount": 11,
+            "appreciationCount": 1,
+            "empathyCount": 8,
+            "praiseCount": 9,
+            "repostsCount": 1,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6862120272636522496/",
+            "postedAt": "2yr",
+            "urn": "6862120272636522496",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/C4E22AQHQtrhmzZt54Q/feedshare-shrink_2048_1536/0/1636056964234?e=1714608000&v=beta&t=QI1EgaX_E9nmtXqwLqjx7NRivZ3yIHDapqBgF4-cYsE"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "text": "Happy To Share My First Guided Project Coursera  https://lnkd.in/epmPUAbe",
+            "totalReactionCount": 46,
+            "likeCount": 9,
+            "empathyCount": 11,
+            "praiseCount": 26,
+            "commentsCount": 5,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6856603386754732032/",
+            "postedAt": "2yr",
+            "urn": "6856603386754732032",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "image": [
+                {
+                    "url": "https://media.licdn.com/dms/image/C4E22AQFboosgfalc9w/feedshare-shrink_2048_1536/0/1634741635695?e=1714608000&v=beta&t=T7qdr3c7KSU25SpxjVJHr5W6J5zl0a9NWVdjX7xomsw"
+                }
+            ],
+            "company": {},
+            "article": {}
+        },
+        {
+            "resharedPost": {
+                "text": "[POW'HER IN TECH WEEK TUNISIA] \nHT’AIME’ELLE, des interviews de femmes qui s’épanouissent actuellement dans les métiers du secteur technologique -\nEya Smati, Instructrice en intelligence artificielle chez Go My Code.\n\nGo My Code est une plateforme éducative panafricaine qui forme aux nouvelles technologies et connecte ses apprenants à des projets digitaux dans le monde entier.\n\nPOW’HER IN TECH est un programme porté par INCO soutenu par la Fondation CHANEL.\n\nCette édition 2020 est organisée en Tunisie par l’incubateur Minassa منصة en partenariat avec Empowered By VERMEG, Orange Tunisie, Go My Code, Simplon Tunis , TACT TUNISIA , Wimbee, Holberton School Tunis, Maison de l'Image , Institut français de Tunisie , ThenextwomenTunisie , Women Techmakers Carthage , She Starts Africa, Kollab Agency Dabchy\n\nVidéo : Maison de l'Image\nArt Direction Nyzar Trabxlsi",
+                "author": {},
+                "video": [
+                    {
+                        "url": "https://dms.licdn.com/playlist/vid/C4D05AQGWWW2KamG0-A/mp4-720p-30fp-crf28/0/1607502848601?e=1712199600&v=beta&t=wl7_E4aPd7yyAgLj44jyrYJJq-Mq1SCHZSVBZA89TPw",
+                        "poster": "https://media.licdn.com/dms/image/C4D05AQGWWW2KamG0-A/feedshare-thumbnail_720_1280/0/1607502757146?e=1712199600&v=beta&t=vXlFHGlG2iY9xsxPw3SaEQdDqJJOcsYKDriqzmvgZzk",
+                        "duration": 220300
+                    }
+                ],
+                "company": {
+                    "name": "Minassa منصة",
+                    "url": "https://www.linkedin.com/company/minassa/",
+                    "urn": "urn:li:fsd_company:40773037"
+                },
+                "article": {}
+            },
+            "text": "POW’HER IN TECH TUNISIA\n\nPow’her In Tech est un programme porté par INCO et soutenu par la Fondation Chanel.\n\nLancé en 2018, Pow’Her in Tech souhaite promouvoir l'égalité des genres au sein du secteur des nouvelles technologies. \n\n#WomenInTech❤️\n#BeTheChange\n#EmbraceYourGeekiness",
+            "totalReactionCount": 13,
+            "empathyCount": 7,
+            "praiseCount": 6,
+            "commentsCount": 2,
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6742508156657696768/",
+            "postedAt": "3yr",
+            "reposted": true,
+            "urn": "6742508156657696768",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "company": {},
+            "article": {}
+        },
+        {
+            "resharedPost": {
+                "text": "Cette semaine on part à la rencontre de notre instructrice en Intelligence Artificielle Eya Smati.😀\n\"J'ai découvert que je n'étais pas juste la fille Geek qui écoute à longueur de journée de la musique classique et qui s’intéresse aux nouvelles technologies et aux jeux vidéos, mais bien plus que ça\" 👉 https://hubs.ly/H0qWq6p0\n#GoMyCode #Team #Instructor #Education #MachineLearning #Workshop #Free",
+                "author": {},
+                "company": {
+                    "name": "GOMYCODE",
+                    "url": "https://www.linkedin.com/school/gomycode/",
+                    "urn": "urn:li:fsd_company:10862694"
+                },
+                "article": {}
+            },
+            "text": "\"J'ai découvert que je n'étais pas juste la fille Geek qui écoute à longueur de journée de la musique classique et qui s’intéresse aux nouvelles technologies et aux jeux vidéos, mais bien plus que ça\" \n#ArtificialIntelligence #MachineLearning #DataScience",
+            "postUrl": "https://www.linkedin.com/feed/update/urn:li:activity:6715919723290263552/",
+            "postedAt": "3yr",
+            "reposted": true,
+            "urn": "6715919723290263552",
+            "author": {
+                "firstName": "Eya",
+                "lastName": "Smati",
+                "username": "eya-smati",
+                "url": "https://www.linkedin.com/in/eya-smati"
+            },
+            "company": {},
+            "article": {}
+        }
+    ],
+    "paginationToken": "dXJuOmxpOmFjdGl2aXR5OjY3MTU5MTk3MjMyOTAyNjM1NTItMTYwMTIwMDAzNzc4NA=="
+}

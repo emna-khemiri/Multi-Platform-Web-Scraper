@@ -305,7 +305,7 @@
             "industry": "Software Development",
             "founded_in": 2014,
             "description": "InstaDeep is a leading global technology company offering a range of AI solutions, ranging from optimized pattern-recognition, GPU-accelerated insights, to self-learning decision making systems.\n-Decision-making systems: Life and business are all about decisions. InstaDeep harnesses the power of reinforcement learning to create systems that can make decisions on their own, based on their own autonomous training. Many fields can benefit greatly from this technology, be it robotics, mobility, logistics, finance or healthcare.\n-GPU-accelerated insights: When you try to deploy AI in your business, compute power is key.\n A Multi-GPU setup can be messy and complicated. With Nvidia’s DGX-1 (one of the most \n powerful AI machines on the market), InstaDeep can help you achieve insane computing power to solve even the most intensive AI problems.\n-Optimized Deep Learning: Deep Learning delivers high-performance AI for pattern recognition yet is notoriously time-consuming to fine-tune. InstaDeep boosts this process to save you time and money on your computer vision, natural language processing or predictive analytics project.",
-            "total_emails": 140,
+            "total_emails": 153,
             "location": {
                 "country": "United Kingdom",
                 "country_code": "GB",

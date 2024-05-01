@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Scraper</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        h2 {
+            text-align: center;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        form {
+            margin-top: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            color: #333;
+        }
+        input[type="text"],
+        input[type="email"] {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        }
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Scraper</h1>
+        <h2>Please enter user information:</h2>
+        <form action="/process" method="post">
+            <label for="first_name">First Name:</label>
+            <input type="text" id="first_name" name="first_name"><br>
+            <label for="last_name">Last Name:</label>
+            <input type="text" id="last_name" name="last_name"><br>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email"><br>
+            <label for="company_name">Company Name:</label>
+            <input type="text" id="company_name" name="company_name"><br>
+            <label for="linkedin_username">LinkedIn Username:</label>
+            <input type="text" id="linkedin_username" name="linkedin_username"><br>
+            <label for="behance_username">Behance Username:</label>
+            <input type="text" id="behance_username" name="behance_username"><br>
+            <label for="github_username">GitHub Username:</label>
+            <input type="text" id="github_username" name="github_username"><br>
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+</body>
+</html>

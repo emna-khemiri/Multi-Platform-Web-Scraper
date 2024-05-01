@@ -10,7 +10,7 @@
                 "last_funding_type": "series_b",
                 "ipo_status": "private",
                 "website": "http://www.instadeep.com",
-                "rank_org_company": 41876
+                "rank_org_company": 40872
             },
             "highlights": {
                 "company_overview_highlights": {
@@ -248,8 +248,8 @@
             },
             "technology_highlights": {
                 "builtwith_num_technologies_used": 11,
-                "semrush_visits_latest_month": 10253,
-                "semrush_visits_mom_pct": 0.09739912233757894,
+                "semrush_visits_latest_month": 4358,
+                "semrush_visits_mom_pct": -0.5749536720959719,
                 "siftery_num_products": 13
             },
             "apptopia": {
@@ -272,27 +272,27 @@
                     {
                         "identifier": "Person Schema",
                         "technology_category": "framework",
-                        "num_companies_using": 261663
+                        "num_companies_using": 261621
                     },
                     {
                         "identifier": "Facebook Sharer",
                         "technology_category": "widgets",
-                        "num_companies_using": 204945
+                        "num_companies_using": 204934
                     },
                     {
                         "identifier": "Invalid Certificate Dates",
                         "technology_category": "ssl",
-                        "num_companies_using": 63046
+                        "num_companies_using": 63045
                     },
                     {
                         "identifier": "MediaElement.js",
                         "technology_category": "media",
-                        "num_companies_using": 61943
+                        "num_companies_using": 61941
                     },
                     {
                         "identifier": "Mobile Optimized",
                         "technology_category": "mobile",
-                        "num_companies_using": 47699
+                        "num_companies_using": 47696
                     },
                     {
                         "identifier": "MailChimp",
@@ -307,12 +307,12 @@
                     {
                         "identifier": "Cookie Consent by Osano",
                         "technology_category": "widgets",
-                        "num_companies_using": 21362
+                        "num_companies_using": 21360
                     },
                     {
                         "identifier": "Reddit",
                         "technology_category": "widgets",
-                        "num_companies_using": 20732
+                        "num_companies_using": 20728
                     },
                     {
                         "identifier": "iomart",
@@ -330,78 +330,73 @@
             },
             "sEMrush": {
                 "semrush_rank_headline": {
-                    "semrush_visits_latest_month": 10253,
-                    "semrush_visits_mom_pct": 0.09739912233757894
+                    "semrush_visits_latest_month": 4358,
+                    "semrush_visits_mom_pct": -0.5749536720959719
                 },
                 "semrush_summary": {
-                    "semrush_global_rank": 1902675,
-                    "semrush_visits_latest_month": 10253
+                    "semrush_global_rank": 2990758,
+                    "semrush_visits_latest_month": 4358
                 },
                 "semrush_location_list": [
                     {
-                        "location_identifiers": "South Africa, Africa",
-                        "visits_pct": 0.420754901004584,
-                        "visits_mom_pct": 42.5757575757576,
-                        "rank": 38955,
-                        "rank_mom_pct": -0.725051347745993
-                    },
-                    {
                         "location_identifiers": "Spain, Europe",
-                        "visits_pct": 0.110016580513021,
-                        "rank": 196324
-                    },
-                    {
-                        "location_identifiers": "France, Europe",
-                        "visits_pct": 0.106310348190773,
-                        "rank": 401470
+                        "visits_pct": 0.263423588802203,
+                        "visits_mom_pct": 0.0177304964539007,
+                        "rank": 233244,
+                        "rank_mom_pct": 0.188056478066869
                     },
                     {
                         "location_identifiers": "Tunisia, Africa",
-                        "visits_pct": 0.101628791573198,
-                        "visits_mom_pct": 0.165548098434004,
-                        "rank": 18717,
-                        "rank_mom_pct": -0.35748858604236
+                        "visits_pct": 0.242083524552547,
+                        "visits_mom_pct": 0.0124760076775432,
+                        "rank": 15754,
+                        "rank_mom_pct": -0.158305283966448
                     },
                     {
-                        "location_identifiers": "South Korea, Asia",
-                        "visits_pct": 0.0955817809421633,
-                        "visits_mom_pct": -0.572052401746725,
-                        "rank": 129687,
-                        "rank_mom_pct": 0.984863326088953
+                        "location_identifiers": "France, Europe",
+                        "visits_pct": 0.180587425424507,
+                        "visits_mom_pct": -0.277981651376147,
+                        "rank": 536335,
+                        "rank_mom_pct": 0.335927964729619
+                    },
+                    {
+                        "location_identifiers": "Czech Republic, Europe",
+                        "visits_pct": 0.0631023405231758,
+                        "visits_mom_pct": 0.0185185185185185,
+                        "rank": 196701,
+                        "rank_mom_pct": 0.0798669250575066
+                    },
+                    {
+                        "location_identifiers": "United Kingdom, Europe",
+                        "visits_pct": 0.0578246902248738,
+                        "visits_mom_pct": 0.292307692307692,
+                        "rank": 669269,
+                        "rank_mom_pct": 0.0340368859107687
                     }
                 ],
-                "semrush_last_updated": "2024-03-10"
+                "semrush_last_updated": "2024-04-26"
             },
             "bombora": {
                 "bombora_summary": {},
                 "bombora_surge_list": [
                     {
-                        "topic_identifier": "Research and Development / Test",
-                        "category": "product_dev",
-                        "surge_score": 75,
-                        "surge_wow_growth": -0.0853658536585366,
-                        "weeks_surging": 2
-                    },
-                    {
-                        "topic_identifier": "Request for Proposal (RFP) Automation",
-                        "category": "sales",
-                        "surge_score": 75,
-                        "surge_wow_growth": -0.0853658536585366,
-                        "weeks_surging": 2
-                    },
-                    {
-                        "topic_identifier": "Radio",
+                        "topic_identifier": "Cause Marketing",
                         "category": "marketing",
-                        "surge_score": 75,
-                        "surge_wow_growth": -0.0853658536585366,
-                        "weeks_surging": 2
+                        "surge_score": 69,
+                        "weeks_surging": 1
                     },
                     {
                         "topic_identifier": "Google (GOOG)",
                         "category": "technology",
-                        "surge_score": 74,
-                        "surge_wow_growth": -0.0975609756097561,
-                        "weeks_surging": 2
+                        "surge_score": 69,
+                        "surge_wow_growth": -0.0675675675675676,
+                        "weeks_surging": 3
+                    },
+                    {
+                        "topic_identifier": "Business Philanthropy",
+                        "category": "business_finance",
+                        "surge_score": 69,
+                        "weeks_surging": 1
                     }
                 ]
             },
@@ -640,7 +635,7 @@
                         "last_funding_type": "series_b",
                         "ipo_status": "private",
                         "website": "http://www.instadeep.com",
-                        "rank_org_company": 41876
+                        "rank_org_company": 40872
                     },
                     "highlights": {
                         "company_overview_highlights": {
@@ -878,8 +873,8 @@
                     },
                     "technology_highlights": {
                         "builtwith_num_technologies_used": 11,
-                        "semrush_visits_latest_month": 10253,
-                        "semrush_visits_mom_pct": 0.09739912233757894,
+                        "semrush_visits_latest_month": 4358,
+                        "semrush_visits_mom_pct": -0.5749536720959719,
                         "siftery_num_products": 13
                     },
                     "apptopia": {
@@ -902,27 +897,27 @@
                             {
                                 "identifier": "Person Schema",
                                 "technology_category": "framework",
-                                "num_companies_using": 261663
+                                "num_companies_using": 261621
                             },
                             {
                                 "identifier": "Facebook Sharer",
                                 "technology_category": "widgets",
-                                "num_companies_using": 204945
+                                "num_companies_using": 204934
                             },
                             {
                                 "identifier": "Invalid Certificate Dates",
                                 "technology_category": "ssl",
-                                "num_companies_using": 63046
+                                "num_companies_using": 63045
                             },
                             {
                                 "identifier": "MediaElement.js",
                                 "technology_category": "media",
-                                "num_companies_using": 61943
+                                "num_companies_using": 61941
                             },
                             {
                                 "identifier": "Mobile Optimized",
                                 "technology_category": "mobile",
-                                "num_companies_using": 47699
+                                "num_companies_using": 47696
                             },
                             {
                                 "identifier": "MailChimp",
@@ -937,12 +932,12 @@
                             {
                                 "identifier": "Cookie Consent by Osano",
                                 "technology_category": "widgets",
-                                "num_companies_using": 21362
+                                "num_companies_using": 21360
                             },
                             {
                                 "identifier": "Reddit",
                                 "technology_category": "widgets",
-                                "num_companies_using": 20732
+                                "num_companies_using": 20728
                             },
                             {
                                 "identifier": "iomart",
@@ -960,78 +955,73 @@
                     },
                     "sEMrush": {
                         "semrush_rank_headline": {
-                            "semrush_visits_latest_month": 10253,
-                            "semrush_visits_mom_pct": 0.09739912233757894
+                            "semrush_visits_latest_month": 4358,
+                            "semrush_visits_mom_pct": -0.5749536720959719
                         },
                         "semrush_summary": {
-                            "semrush_global_rank": 1902675,
-                            "semrush_visits_latest_month": 10253
+                            "semrush_global_rank": 2990758,
+                            "semrush_visits_latest_month": 4358
                         },
                         "semrush_location_list": [
                             {
-                                "location_identifiers": "South Africa, Africa",
-                                "visits_pct": 0.420754901004584,
-                                "visits_mom_pct": 42.5757575757576,
-                                "rank": 38955,
-                                "rank_mom_pct": -0.725051347745993
-                            },
-                            {
                                 "location_identifiers": "Spain, Europe",
-                                "visits_pct": 0.110016580513021,
-                                "rank": 196324
-                            },
-                            {
-                                "location_identifiers": "France, Europe",
-                                "visits_pct": 0.106310348190773,
-                                "rank": 401470
+                                "visits_pct": 0.263423588802203,
+                                "visits_mom_pct": 0.0177304964539007,
+                                "rank": 233244,
+                                "rank_mom_pct": 0.188056478066869
                             },
                             {
                                 "location_identifiers": "Tunisia, Africa",
-                                "visits_pct": 0.101628791573198,
-                                "visits_mom_pct": 0.165548098434004,
-                                "rank": 18717,
-                                "rank_mom_pct": -0.35748858604236
+                                "visits_pct": 0.242083524552547,
+                                "visits_mom_pct": 0.0124760076775432,
+                                "rank": 15754,
+                                "rank_mom_pct": -0.158305283966448
                             },
                             {
-                                "location_identifiers": "South Korea, Asia",
-                                "visits_pct": 0.0955817809421633,
-                                "visits_mom_pct": -0.572052401746725,
-                                "rank": 129687,
-                                "rank_mom_pct": 0.984863326088953
+                                "location_identifiers": "France, Europe",
+                                "visits_pct": 0.180587425424507,
+                                "visits_mom_pct": -0.277981651376147,
+                                "rank": 536335,
+                                "rank_mom_pct": 0.335927964729619
+                            },
+                            {
+                                "location_identifiers": "Czech Republic, Europe",
+                                "visits_pct": 0.0631023405231758,
+                                "visits_mom_pct": 0.0185185185185185,
+                                "rank": 196701,
+                                "rank_mom_pct": 0.0798669250575066
+                            },
+                            {
+                                "location_identifiers": "United Kingdom, Europe",
+                                "visits_pct": 0.0578246902248738,
+                                "visits_mom_pct": 0.292307692307692,
+                                "rank": 669269,
+                                "rank_mom_pct": 0.0340368859107687
                             }
                         ],
-                        "semrush_last_updated": "2024-03-10"
+                        "semrush_last_updated": "2024-04-26"
                     },
                     "bombora": {
                         "bombora_summary": {},
                         "bombora_surge_list": [
                             {
-                                "topic_identifier": "Research and Development / Test",
-                                "category": "product_dev",
-                                "surge_score": 75,
-                                "surge_wow_growth": -0.0853658536585366,
-                                "weeks_surging": 2
-                            },
-                            {
-                                "topic_identifier": "Request for Proposal (RFP) Automation",
-                                "category": "sales",
-                                "surge_score": 75,
-                                "surge_wow_growth": -0.0853658536585366,
-                                "weeks_surging": 2
-                            },
-                            {
-                                "topic_identifier": "Radio",
+                                "topic_identifier": "Cause Marketing",
                                 "category": "marketing",
-                                "surge_score": 75,
-                                "surge_wow_growth": -0.0853658536585366,
-                                "weeks_surging": 2
+                                "surge_score": 69,
+                                "weeks_surging": 1
                             },
                             {
                                 "topic_identifier": "Google (GOOG)",
                                 "category": "technology",
-                                "surge_score": 74,
-                                "surge_wow_growth": -0.0975609756097561,
-                                "weeks_surging": 2
+                                "surge_score": 69,
+                                "surge_wow_growth": -0.0675675675675676,
+                                "weeks_surging": 3
+                            },
+                            {
+                                "topic_identifier": "Business Philanthropy",
+                                "category": "business_finance",
+                                "surge_score": 69,
+                                "weeks_surging": 1
                             }
                         ]
                     },

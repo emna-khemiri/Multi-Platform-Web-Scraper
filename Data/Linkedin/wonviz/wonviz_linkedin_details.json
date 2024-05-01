@@ -11,21 +11,21 @@
         "phone": "",
         "Images": {
             "logo": "https://media.licdn.com/dms/image/D4E0BAQGHIZtMdgoB3g/company-logo_400_400/0/1701022747289?e=1722470400&v=beta&t=12whjYFw76hI31jMXgwrt6WXbIN5xJtl4G97ozrWMsY",
-            "cover": "https://media.licdn.com/dms/image/D4E3DAQHE3S29L9F_dw/image-scale_127_750/0/1701023113193/wonviz_corporation_cover?e=1714701600&v=beta&t=Bs0TwJzZ9j9kuGcZlXv7GV269SYWyYK9GGYlJpNyXp4"
+            "cover": "https://media.licdn.com/dms/image/D4E3DAQHE3S29L9F_dw/image-scale_127_750/0/1701023113193/wonviz_corporation_cover?e=1715173200&v=beta&t=TtBn9bWSMeb4Dd7JGNhNBGawZI7-mmfXAF0QnanotK8"
         },
         "backgroundCoverImages": [
             {
-                "url": "https://media.licdn.com/dms/image/D4E3DAQHE3S29L9F_dw/image-scale_127_750/0/1701023113193/wonviz_corporation_cover?e=1714701600&v=beta&t=Bs0TwJzZ9j9kuGcZlXv7GV269SYWyYK9GGYlJpNyXp4",
+                "url": "https://media.licdn.com/dms/image/D4E3DAQHE3S29L9F_dw/image-scale_127_750/0/1701023113193/wonviz_corporation_cover?e=1715173200&v=beta&t=TtBn9bWSMeb4Dd7JGNhNBGawZI7-mmfXAF0QnanotK8",
                 "width": 750,
                 "height": 126
             },
             {
-                "url": "https://media.licdn.com/dms/image/D4E3DAQHE3S29L9F_dw/image-scale_108_640/0/1701023113193/wonviz_corporation_cover?e=1714701600&v=beta&t=jABwlPpmXQTP9KPHsaLXJPgRFiNF6TQmw2-ZRFHFloQ",
+                "url": "https://media.licdn.com/dms/image/D4E3DAQHE3S29L9F_dw/image-scale_108_640/0/1701023113193/wonviz_corporation_cover?e=1715173200&v=beta&t=GmZ2DabfM5Tf2ArrEoRSL8UJjUSM5-Q-IZcNjK0oPPo",
                 "width": 108,
                 "height": 18
             },
             {
-                "url": "https://media.licdn.com/dms/image/D4E3DAQHE3S29L9F_dw/image-scale_191_1128/0/1701023113194/wonviz_corporation_cover?e=1714701600&v=beta&t=6Rujy1tAazx6kPwl8GCqc8W42oq5kHEK6_ER6lftv80",
+                "url": "https://media.licdn.com/dms/image/D4E3DAQHE3S29L9F_dw/image-scale_191_1128/0/1701023113194/wonviz_corporation_cover?e=1715173200&v=beta&t=nlSQTTIxv59ogpyH8yNtP_kPrhiS3YSdYzMObLJHpN0",
                 "width": 1128,
                 "height": 191
             }
@@ -65,7 +65,7 @@
             },
             "url": "http://www.wonvizcorp.com"
         },
-        "followerCount": 18,
+        "followerCount": 19,
         "staffCountRange": "2 - 10",
         "crunchbaseUrl": ""
     }

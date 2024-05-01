@@ -1,0 +1,494 @@
+{
+    "error": false,
+    "response": {
+        "first_name": "Eya",
+        "last_name": "Smati",
+        "full_name": "Eya Smati",
+        "gender": "female",
+        "job_title": "Data Engineer @CSGroup for Aircraft Maintenance | AI Content Creator at @Coursera and @FluctuationIT | @Google's WomenTechmakers Ambassador | Mentor'IA at @ANITI  | Proficient in ML and DL modeling | Ethical AI Advocate",
+        "linkedin": "https://www.linkedin.com/in/eya-smati",
+        "summary": "Data Scientist / Engineer with four years of experience in analyzing large data sets and coming up with data-driven insights for companies. Worked in cross-functional teams ranging from 5 to 48 members. Core skills include programming, artificial intelligence, modeling and statistics. Proficient in rapid prototyping.",
+        "premium": false,
+        "skills": "Python, Machine Learning, Artificial Intelligence, Data Analysis, NLP, XIA, TensorFlow, PyTorch, Data Science, Computer Vision, Scikit-learn, R, R , Streamlit, Google Cloud Platform (GCP), Apache Spark, Project Management, Decision Making, Agile Methodology, Hybrid Modeling",
+        "work_experience": [
+            {
+                "company": {
+                    "id": 163287,
+                    "name": "CS GROUP",
+                    "logo": "https://media.licdn.com/dms/image/D4E0BAQGZ-BR2dnqRtQ/company-logo_400_400/0/1693811772770/cs_group_logo?e=1719446400&v=beta&t=NSuxM863twDqDLkPO4rfcSbimaYHmDXzuH9JbIFxSwQ",
+                    "url": "https://www.linkedin.com/company/cs-sopra-steria-company/",
+                    "employees": {
+                        "start": 5001,
+                        "end": 10000
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 1,
+                        "day": null,
+                        "year": 2024
+                    },
+                    "end": {
+                        "month": null,
+                        "day": null,
+                        "year": null
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": "Toulouse, Occitanie, France",
+                        "date": {
+                            "start": {
+                                "month": 1,
+                                "day": null,
+                                "year": 2024
+                            },
+                            "end": {
+                                "month": null,
+                                "day": null,
+                                "year": null
+                            }
+                        },
+                        "company": "CS GROUP",
+                        "description": null,
+                        "title": "Data Engineer for Aircraft Maintenance",
+                        "employment_type": "Permanent"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": 69623069,
+                    "name": "FluctuationIT",
+                    "logo": "https://media.licdn.com/dms/image/C560BAQE_TvnMa-Cgkw/company-logo_400_400/0/1630636879169?e=1719446400&v=beta&t=CnAtPUeL5srZEBtD58-uIGM-reyQEN1wI0jAVSOl4XY",
+                    "url": "https://www.linkedin.com/company/fluctuationit/",
+                    "employees": {
+                        "start": 0,
+                        "end": 1
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 5,
+                        "day": null,
+                        "year": 2023
+                    },
+                    "end": {
+                        "month": null,
+                        "day": null,
+                        "year": null
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": null,
+                        "date": {
+                            "start": {
+                                "month": 5,
+                                "day": null,
+                                "year": 2023
+                            },
+                            "end": {
+                                "month": null,
+                                "day": null,
+                                "year": null
+                            }
+                        },
+                        "company": "FluctuationIT",
+                        "description": "- Utilize advanced Natural Language Processing (NLP) techniques to enhance FluctuationIT's website engagement.\n- Creating content within the AI domain, prioritizing education and helping companies integrate AI into their workflows.",
+                        "title": "Artificial Intelligence Specialist and Content Creator ",
+                        "employment_type": "Freelance"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": 2734,
+                    "name": "Airbus",
+                    "logo": "https://media.licdn.com/dms/image/C4D0BAQF2j_LDG_TOzg/company-logo_400_400/0/1631375371457/airbusgroup_logo?e=1719446400&v=beta&t=HuYwCEa4aNdPFGiT8N1gOCdqlsbh54dz_V1y9mbgCPQ",
+                    "url": "https://www.linkedin.com/company/airbusgroup/",
+                    "employees": {
+                        "start": 10001,
+                        "end": null
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 4,
+                        "day": null,
+                        "year": 2023
+                    },
+                    "end": {
+                        "month": 9,
+                        "day": null,
+                        "year": 2023
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": "Toulouse, Occitanie, France",
+                        "date": {
+                            "start": {
+                                "month": 4,
+                                "day": null,
+                                "year": 2023
+                            },
+                            "end": {
+                                "month": 9,
+                                "day": null,
+                                "year": 2023
+                            }
+                        },
+                        "company": "Airbus",
+                        "description": "Engineered a Hybrid Modeling-based AI technique to create a virtual pilot assistant for cockpit functions, enabling autonomous agent capabilities for next-generation aircraft.",
+                        "title": "Hybrid Modeling Data Scientist   ",
+                        "employment_type": "Internship"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": 2453129,
+                    "name": "Coursera",
+                    "logo": "https://media.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_400_400/0/1630530042036/coursera_logo?e=1719446400&v=beta&t=Ge7GMhF4pA8_aPqatSershgPEk1XrgMEcqZ1sq9aev0",
+                    "url": "https://www.linkedin.com/company/coursera/",
+                    "employees": {
+                        "start": 1001,
+                        "end": 5000
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 9,
+                        "day": null,
+                        "year": 2021
+                    },
+                    "end": {
+                        "month": 4,
+                        "day": null,
+                        "year": 2023
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": null,
+                        "date": {
+                            "start": {
+                                "month": 9,
+                                "day": null,
+                                "year": 2021
+                            },
+                            "end": {
+                                "month": 4,
+                                "day": null,
+                                "year": 2023
+                            }
+                        },
+                        "company": "Coursera",
+                        "description": "-Crafted comprehensive project-based learning experiences in Python programming (Data Structures), AI ( Supervised and Unsupervised Learning ), and data visualization ( Matplotlib / Seaborn / Plotly / Ggplot / Folium / Altair..)\n- Achieved a high student satisfaction rate and more than 1000 + subscriptions combined.\n-Collaborated with other trainers and subject matter experts to continuously stay up-to-date with the latest trends and developments to improve the projects.",
+                        "title": "Data Science Project Instructor and Content Creator",
+                        "employment_type": null
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": 10862694,
+                    "name": "Go My Code",
+                    "logo": "https://media.licdn.com/dms/image/C4D0BAQGQiRGb69VRqA/company-logo_400_400/0/1630544506185/go_my_code_logo?e=1719446400&v=beta&t=OsHrk6gt_iSYcnv9IPJzys0QgRiseEc4UIJpuBuwxO4",
+                    "url": "https://www.linkedin.com/school/gomycode/",
+                    "employees": {
+                        "start": 51,
+                        "end": 200
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 10,
+                        "day": null,
+                        "year": 2019
+                    },
+                    "end": {
+                        "month": 9,
+                        "day": null,
+                        "year": 2021
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": "Tunis, Tunisie",
+                        "date": {
+                            "start": {
+                                "month": 10,
+                                "day": null,
+                                "year": 2019
+                            },
+                            "end": {
+                                "month": 9,
+                                "day": null,
+                                "year": 2021
+                            }
+                        },
+                        "company": "GOMYCODE",
+                        "description": "-Instructed machine learning and deep learning courses emphasizing Python, NLP, TensorFlow, PyTorch, and hands-on learning.\n-Guiding students in turning their data concepts into tangible projects.",
+                        "title": "Machine Learning and Deep Learning Instructor",
+                        "employment_type": null
+                    },
+                    {
+                        "location": null,
+                        "date": {
+                            "start": {
+                                "month": 1,
+                                "day": null,
+                                "year": 2021
+                            },
+                            "end": {
+                                "month": 6,
+                                "day": null,
+                                "year": 2021
+                            }
+                        },
+                        "company": "GOMYCODE",
+                        "description": "Planning and organizing orientation programs for new instructors in Nigeria, Morocco, Ivory Coast, Senegal, and Egypt. Through effective program planning and instructor orientation, I ensure that instructors are fully equipped to deliver high-quality education and mentorship to our students across the continent.\nKey Points:\n- Planned and organized orientation programs for new instructors across five African countries\n- Developed effective onboarding strategies to streamline the process for new instructors\n- Collaborated with cross-functional teams to identify training materials and resources for instructors\n- Monitored instructor performance and provided ongoing support to ensure quality education and mentorship",
+                        "title": "Onboarding & Data Manager",
+                        "employment_type": null
+                    },
+                    {
+                        "location": null,
+                        "date": {
+                            "start": {
+                                "month": 9,
+                                "day": null,
+                                "year": 2020
+                            },
+                            "end": {
+                                "month": 1,
+                                "day": null,
+                                "year": 2021
+                            }
+                        },
+                        "company": "GOMYCODE",
+                        "description": "Engaging in the LIBREX Project creating videos on AI concepts with PyTorch, TensorFlow establishing a visual knowledge repository for convolutional Neural Networks, and NLP techniques like tokenization and pretrained model optimizations.",
+                        "title": "Content Creator",
+                        "employment_type": null
+                    },
+                    {
+                        "location": null,
+                        "date": {
+                            "start": {
+                                "month": 6,
+                                "day": null,
+                                "year": 2020
+                            },
+                            "end": {
+                                "month": 9,
+                                "day": null,
+                                "year": 2020
+                            }
+                        },
+                        "company": "GOMYCODE",
+                        "description": "Developed an assessment platform using the MERN stack (MongoDB, Express, React, Node.js)\n• Built RESTful APIs using Node.js and Express to connect the frontend and backend.\nDeveloped reusable and efficient React components and integrated them with the backend API to create a seamless user experience.\n• Designed and implemented MongoDB schemas to store and manage assessment data.\n• Developed authentication and authorization functionality using JSON Web Tokens (JWT) and implemented role-based access control (RBAC).",
+                        "title": "Full-stack Developer",
+                        "employment_type": "Internship"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": 75510871,
+                    "name": "UMANLINK DIGITAL SERVICES",
+                    "logo": "https://media.licdn.com/dms/image/C4D0BAQHDLCuapwhsRg/company-logo_400_400/0/1678701332297/digitarm_logo?e=1719446400&v=beta&t=J4Q-i8QZIRCQzij5lBkOEJoOATVyPZhpPp-HqlwMOJg",
+                    "url": "https://www.linkedin.com/company/umanlinkdigitalservices/",
+                    "employees": {
+                        "start": 51,
+                        "end": 200
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 6,
+                        "day": null,
+                        "year": 2021
+                    },
+                    "end": {
+                        "month": 8,
+                        "day": null,
+                        "year": 2021
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": null,
+                        "date": {
+                            "start": {
+                                "month": 6,
+                                "day": null,
+                                "year": 2021
+                            },
+                            "end": {
+                                "month": 8,
+                                "day": null,
+                                "year": 2021
+                            }
+                        },
+                        "company": "UMANLINK DIGITAL SERVICES",
+                        "description": "Designed and developed self-running AI software to automate predictive models for speech-to-text engines for polarity and topic detection.\n\n• Scraping Data from the Web using BeautifulSoup and Requests.\n• Integrated NLP techniques such as feature extraction, lexical analysis, and text classification to improve accuracy of polarity detection\n• Utilized Pretrained models such as camemBERT to capture contextual information in text and improve accuracy of sentiment analysis.\n• Achieved an accuracy rate of over 90% in polarity detection through iterative model tuning and optimization on the GPU Execution.\n• Developed algorithms for automatic topic detection to identify themes and categories in large datasets of unstructured text.\n• Utilized unsupervised learning techniques such as Latent Dirichlet Allocation (LDA) and Non-negative Matrix Factorization (NMF) to identify topics and their corresponding keywords\n• Achieved an accuracy rate of over 78% in topic detection through model optimization and validation against expert human annotations.",
+                        "title": "Machine Learning Engineer",
+                        "employment_type": "Internship"
+                    }
+                ]
+            }
+        ],
+        "education": [
+            {
+                "date": {
+                    "start": {
+                        "month": 9,
+                        "day": null,
+                        "year": 2022
+                    },
+                    "end": {
+                        "month": 9,
+                        "day": null,
+                        "year": 2023
+                    }
+                },
+                "school": {
+                    "name": "Institut national des Sciences appliquées de Toulouse",
+                    "logo": "https://media.licdn.com/dms/image/C510BAQG4Nq1cd5ZWFQ/company-logo_400_400/0/1631310818342?e=1719446400&v=beta&t=f6EZogwEbDTmX80NFxlUuVyHvsW32CKw2kg-VkT-EiE",
+                    "url": "https://www.linkedin.com/school/institut-national-des-sciences-appliqu%C3%A9es-de-toulouse/"
+                },
+                "degree_name": "Specialized Master's Degree in AI and Optimization for Big Data ",
+                "field_of_study": null,
+                "grade": null
+            },
+            {
+                "date": {
+                    "start": {
+                        "month": 9,
+                        "day": null,
+                        "year": 2022
+                    },
+                    "end": {
+                        "month": 9,
+                        "day": null,
+                        "year": 2023
+                    }
+                },
+                "school": {
+                    "name": "Toulouse INP",
+                    "logo": "https://media.licdn.com/dms/image/C4D0BAQFFiTCbu869UA/company-logo_400_400/0/1638951314715/toulouseinp_logo?e=1719446400&v=beta&t=b5H89bIEw_I2Q7PY_R5mykNortOh88jFSng9cKCxPpA",
+                    "url": "https://www.linkedin.com/school/toulouseinp/"
+                },
+                "degree_name": "Specialized Master's Degree in AI and Optimization for Big Data ",
+                "field_of_study": null,
+                "grade": null
+            },
+            {
+                "date": {
+                    "start": {
+                        "month": null,
+                        "day": null,
+                        "year": 2019
+                    },
+                    "end": {
+                        "month": null,
+                        "day": null,
+                        "year": 2023
+                    }
+                },
+                "school": {
+                    "name": "Ecole Supérieure Privée d'Ingénierie et de Technologies - ESPRIT",
+                    "logo": "https://media.licdn.com/dms/image/C560BAQF4r_1A8Va1yQ/company-logo_400_400/0/1631386442035?e=1719446400&v=beta&t=UpV1VhrtAtFS9-0iu08FrAIxwURw942D-xD08yky4Ew",
+                    "url": "https://www.linkedin.com/school/ecole-sup%C3%A9rieure-priv%C3%A9e-d%27ing%C3%A9nierie-et-de-technologies---esprit/"
+                },
+                "degree_name": "Computer Science Engineering Degree",
+                "field_of_study": "Sciences informatiques",
+                "grade": null
+            },
+            {
+                "date": {
+                    "start": {
+                        "month": null,
+                        "day": null,
+                        "year": null
+                    },
+                    "end": {
+                        "month": 6,
+                        "day": null,
+                        "year": 2019
+                    }
+                },
+                "school": {
+                    "name": "Conservatoire National de Tunis ",
+                    "logo": null,
+                    "url": null
+                },
+                "degree_name": "National Higher Diploma of Classical Piano ",
+                "field_of_study": null,
+                "grade": null
+            }
+        ],
+        "languages": {
+            "primary_locale": {
+                "country": "US",
+                "language": "en"
+            },
+            "supported_locales": [
+                {
+                    "country": "US",
+                    "language": "en"
+                },
+                {
+                    "country": "FR",
+                    "language": "fr"
+                }
+            ],
+            "profile_languages": []
+        },
+        "current_job_year": 2024,
+        "current_job_month": 1,
+        "entity_urn": "ACoAAC3Os68B60yElPVRolygqKdkaZhhXEKsmAg",
+        "picture": "https://assets-prospeo.s3.us-east-2.amazonaws.com/lead_CUK1A4YCS0NWFTIO162S.jpg",
+        "email": {
+            "email": "eya.smati@csgroup.eu",
+            "email_anon_id": "7U1INKHbZlYO",
+            "email_status": "VALID",
+            "email_type": "professional"
+        },
+        "company": {
+            "name": "CS GROUP",
+            "is_catch_all": true,
+            "size": "1001-5000",
+            "logo": "https://assets-prospeo.s3.us-east-2.amazonaws.com/company_60I7QYJVSAT6O4JWCR9P.jpg",
+            "linkedin": "https://www.linkedin.com/company/cs-sopra-steria-company",
+            "website": "http://www.csgroup.eu",
+            "domain": "csgroup.eu",
+            "common_email_pattern": null,
+            "industry": "IT Services and IT Consulting",
+            "founded_in": 1968,
+            "description": "Expert des systèmes critiques​\nConception, réalisation, déploiement & maintenance de systèmes critiques, basés sur des solutions et des produits innovants, garantissant l’efficacité de la conduite et de la sécurité des opérations et des missions critiques de nos clients.​",
+            "total_emails": 218,
+            "location": {
+                "country": "France",
+                "country_code": "FR",
+                "state": null,
+                "city": "Le Plessis Robinson",
+                "timezone": "Europe/Paris",
+                "timezone_offset": "1.0",
+                "postal_code": null,
+                "address": "22, avenue Galilée"
+            }
+        },
+        "location": {
+            "country": "France",
+            "country_code": null,
+            "state": "Occitanie",
+            "city": "Toulouse",
+            "timezone": null,
+            "timezone_offset": null,
+            "postal_code": null,
+            "raw": "Toulouse, Occitanie, France"
+        }
+    }
+}

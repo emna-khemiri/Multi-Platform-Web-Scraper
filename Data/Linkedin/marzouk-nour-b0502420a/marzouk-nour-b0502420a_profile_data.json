@@ -1,0 +1,794 @@
+{
+    "connection": 887,
+    "data": {
+        "urn": "ACoAADUKYzUBKaA6-TR0qRF_fMbIywe6o90Uiz0",
+        "username": "marzouk-nour",
+        "firstName": "Marzouk",
+        "lastName": "Nour",
+        "isOpenToWork": false,
+        "isHiring": false,
+        "profilePicture": "https://media.licdn.com/dms/image/D4E03AQE4xj2kGJIlPw/profile-displayphoto-shrink_800_800/0/1692407457629?e=1720051200&v=beta&t=dJdepk0cdJq-zMXbij1g51eEcbpf7moSdQYi9piLcEQ",
+        "summary": "Diplômée d'un double master en marketing digital et en management de la communication ainsi qu'une licence en design image. Je suis passionnée par la mise en place des stratégies de contenus social media et par la conception graphique des supports de communication. Je suis là pour transformer vos idées en histoires visuelles et textuelles captivantes.",
+        "headline": "Digital Marketer | Graphic Designer",
+        "geo": {
+            "country": "Tunisia",
+            "city": "Tunis",
+            "full": "Tunis, Tunisia"
+        },
+        "languages": null,
+        "educations": [
+            {
+                "start": {
+                    "year": 2022,
+                    "month": 9,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2023,
+                    "month": 9,
+                    "day": 0
+                },
+                "fieldOfStudy": "Marketing digital",
+                "degree": "Mastère manager de la communication",
+                "grade": "",
+                "schoolName": "SUP'DE COM - L'école de tous les métiers de la communication",
+                "description": "- Concevoir la stratégie de communication 360°\n- Déployer et piloter la stratégie de communication 360°\n- Conduire la stratégie de communication digitale\n- Développer et animer un réseau de partenaires\n- Manager les équipes\n- Conduire la stratégie de communication d’influence",
+                "activities": "",
+                "url": "https://www.linkedin.com/school/sup%27de-com/",
+                "schoolId": "15100314"
+            },
+            {
+                "start": {
+                    "year": 2021,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2023,
+                    "month": 9,
+                    "day": 0
+                },
+                "fieldOfStudy": "Marketing Digital",
+                "degree": "Master en marketing digital",
+                "grade": "Mention Bien",
+                "schoolName": "Esprit School of Business",
+                "description": "- Préparer les contenus de la communication\n- Concevoir et administrer une ligne éditoriale \n- Définir la politique de communication \n- Identifier les techniques et les processus d’innovation / conception.\n-Appréhender les spécificités des technologies liées au web.",
+                "activities": "Bmovie ",
+                "url": "https://www.linkedin.com/school/esprit-school-of-business-esb/",
+                "schoolId": "84964942"
+            },
+            {
+                "start": {
+                    "year": 2018,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 0,
+                    "day": 0
+                },
+                "fieldOfStudy": "Design graphique et audiovisuel",
+                "degree": "Licence en design image",
+                "grade": "Mention bien ",
+                "schoolName": "ESSTeD - Ecole Supérieure Des Sciences et Technologies du Design",
+                "description": "- création de l’identité visuelle (production de logos, chartes graphiques, etc.),\n- communication print \n- création web (conception du style graphique et le design d’applications, UX/UI, design de sites web et de produits digitaux)\n- pré-production (l’écriture cinématographique, du story-board, le découpage technique, techniques de tournage )\n- copywriting ",
+                "activities": "- Designers Junior Entreprise \n",
+                "url": "https://www.linkedin.com/school/essted/",
+                "schoolId": "18318405"
+            }
+        ],
+        "position": [
+            {
+                "companyName": "People of Growth",
+                "companyUsername": "people-of-growth",
+                "companyURL": "https://www.linkedin.com/company/people-of-growth/",
+                "companyLogo": "https://media.licdn.com/dms/image/D4D0BAQGrzkVGH7nuww/company-logo_400_400/0/1702555893301?e=1722470400&v=beta&t=JOkDphpRpvaTvCOijGEC0-wunQ_9FcFplyNnb5m4VXI",
+                "companyIndustry": "Management Consulting",
+                "companyStaffCountRange": "2 - 10",
+                "title": "Design & Content Specialist ",
+                "multiLocaleTitle": {
+                    "fr_FR": "Design & Content Specialist "
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "People of Growth"
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "Full-time",
+                "start": {
+                    "year": 2023,
+                    "month": 9,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Watto",
+                "companyUsername": "watto",
+                "companyURL": "https://www.linkedin.com/company/watto/",
+                "companyLogo": "https://media.licdn.com/dms/image/C4E0BAQGdOGfq4pattA/company-logo_400_400/0/1649494948189?e=1722470400&v=beta&t=cr_a0qD6Q8R6F04u5sJglmCx85LL2JcQ5X3cpm3Z31s",
+                "companyIndustry": "Financial Services",
+                "companyStaffCountRange": "2 - 10",
+                "title": "Digital Marketing Intern",
+                "multiLocaleTitle": {
+                    "fr_FR": "Digital Marketing Intern"
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "Watto"
+                },
+                "location": "Gouvernorat Tunis, Tunisie",
+                "description": "- Mise en place d'une stratégie de communication digital \n- Optimisation de la landing page\n- Audit SEO \n- Création de contenu",
+                "employmentType": "Internship",
+                "start": {
+                    "year": 2023,
+                    "month": 2,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2023,
+                    "month": 8,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Cosméto",
+                "companyUsername": "",
+                "companyURL": "",
+                "companyLogo": "",
+                "companyIndustry": "",
+                "companyStaffCountRange": "",
+                "title": "Social Media Manager",
+                "multiLocaleTitle": {
+                    "fr_FR": "Social Media Manager"
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "Cosméto"
+                },
+                "location": "Tunis, Tunisie",
+                "description": "- Mise en place d'une stratégie de communication \n- Mise en place d'une charte graphique \n- Création des différents supports de communication ( les bannières du site Web, Newsletter, Post Facebook et Instagram , story )\n- Analyse des résultats des différentes campagnes de publicités\n- Mise en ligne des Blog",
+                "employmentType": "Part-time",
+                "start": {
+                    "year": 2021,
+                    "month": 8,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2022,
+                    "month": 5,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Museum Lab",
+                "companyUsername": "",
+                "companyURL": "",
+                "companyLogo": "",
+                "companyIndustry": "",
+                "companyStaffCountRange": "",
+                "title": "Graphic Designer ",
+                "multiLocaleTitle": {
+                    "fr_FR": "Graphic Designer "
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "Museum Lab"
+                },
+                "location": "Tunis, Tunisie",
+                "description": "- Conception de supports de communication graphique et audiovisuelle\n- Mise en place de la charte graphique",
+                "employmentType": "Internship",
+                "start": {
+                    "year": 2021,
+                    "month": 8,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Nathalie Garçon",
+                "companyUsername": "",
+                "companyURL": "",
+                "companyLogo": "",
+                "companyIndustry": "",
+                "companyStaffCountRange": "",
+                "title": "Community Manager et photographe ",
+                "multiLocaleTitle": {
+                    "fr_FR": "Community Manager et photographe "
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "Nathalie Garçon"
+                },
+                "location": "France",
+                "description": "- Shooting photos et vidéos \n- Montage vidéos \n- Transcription des vidéos du dialecte tunisien en français \n- Alimenter les réseaux sociaux",
+                "employmentType": "Freelance",
+                "start": {
+                    "year": 2021,
+                    "month": 6,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 7,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Designers Junior Entreprise",
+                "companyUsername": "designers-junior-entreprise",
+                "companyURL": "https://www.linkedin.com/company/designers-junior-entreprise/",
+                "companyLogo": "https://media.licdn.com/dms/image/C560BAQHnQ3p2V8cyPg/company-logo_400_400/0/1630630792950?e=1722470400&v=beta&t=btOQsVlVKjTFZFaQ8a4i6SDPCSk4Ff-v28eGop9lKio",
+                "companyIndustry": "Design",
+                "companyStaffCountRange": "51 - 200",
+                "title": "Présidente",
+                "multiLocaleTitle": {
+                    "fr_FR": "Présidente"
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "Designers Junior Entreprise"
+                },
+                "location": "Tunis, Tunisie",
+                "description": "-Planification des stratégies\n-Supervision des taches\n-Etablissement d’une démarche qualité pour certification ISO 9OO1.\n-Organisation des évènements, mise en œuvre des stratégies \ncommerciales et négociation avec les partenaires",
+                "employmentType": "",
+                "start": {
+                    "year": 2020,
+                    "month": 8,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 7,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Havas Group",
+                "companyUsername": "havas",
+                "companyURL": "https://www.linkedin.com/company/havas/",
+                "companyLogo": "https://media.licdn.com/dms/image/D4E0BAQHgBSVBsdM1wg/company-logo_400_400/0/1686661160006/havas_logo?e=1722470400&v=beta&t=9c-ALJh_rZRfy1JVd1RUxFEx9hLMCoGO9yF79NP18ks",
+                "companyIndustry": "Marketing & Advertising",
+                "companyStaffCountRange": "10001 - 0",
+                "title": "Concepteur rédacteur",
+                "multiLocaleTitle": {
+                    "fr_FR": "Concepteur rédacteur"
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "Havas Group"
+                },
+                "location": "Tunis, Tunisie",
+                "description": "- Rédaction des accroches pour la communication de plusieurs \nmarques Tunisienne renommées.\n- Rédaction des spots radios.\n- Traduction publicitaire\n- Elaboration d'un brief prod shooting\n- Mettre en œuvre des stratégies d’activation.",
+                "employmentType": "Internship",
+                "start": {
+                    "year": 2021,
+                    "month": 4,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 5,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Confédération Tunisienne des Junior Entreprises",
+                "companyUsername": "jet-junior-enterprises-tunisia",
+                "companyURL": "https://www.linkedin.com/company/jet-junior-enterprises-tunisia/",
+                "companyLogo": "https://media.licdn.com/dms/image/C4D0BAQEYqTgS2BpUng/company-logo_400_400/0/1662121492251/jet_junior_enterprises_tunisia_logo?e=1722470400&v=beta&t=vQBmtZdQJAlJO6ohoDZyj_snNAAt34NLE1rH-_WwECg",
+                "companyIndustry": "Non-profit Organization Management",
+                "companyStaffCountRange": "11 - 50",
+                "title": "Oc marketing ",
+                "multiLocaleTitle": {
+                    "fr_FR": "Oc marketing "
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "Confédération Tunisienne des Junior Entreprises"
+                },
+                "location": "Tunisie",
+                "description": "- Création des supports de communication on line et off line \n- Mise en place d'une stratégie de communication d'un évènement national",
+                "employmentType": "",
+                "start": {
+                    "year": 2021,
+                    "month": 2,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 3,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "panda grafic",
+                "companyUsername": "",
+                "companyURL": "",
+                "companyLogo": "",
+                "companyIndustry": "",
+                "companyStaffCountRange": "",
+                "title": "Graphiste",
+                "multiLocaleTitle": {
+                    "fr_FR": "Graphiste"
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "panda grafic"
+                },
+                "location": "Nabeul, Tunisie",
+                "description": "- Conception et impression des supports graphiques",
+                "employmentType": "Internship",
+                "start": {
+                    "year": 2019,
+                    "month": 6,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2019,
+                    "month": 8,
+                    "day": 0
+                }
+            }
+        ],
+        "fullPositions": [
+            {
+                "companyName": "People of Growth",
+                "companyUsername": "people-of-growth",
+                "companyURL": "https://www.linkedin.com/company/people-of-growth/",
+                "companyLogo": "https://media.licdn.com/dms/image/D4D0BAQGrzkVGH7nuww/company-logo_400_400/0/1702555893301?e=1722470400&v=beta&t=JOkDphpRpvaTvCOijGEC0-wunQ_9FcFplyNnb5m4VXI",
+                "companyIndustry": "Management Consulting",
+                "companyStaffCountRange": "2 - 10",
+                "title": "Design & Content Specialist ",
+                "multiLocaleTitle": {
+                    "fr_FR": "Design & Content Specialist "
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "People of Growth"
+                },
+                "location": "",
+                "description": "",
+                "employmentType": "Full-time",
+                "start": {
+                    "year": 2023,
+                    "month": 9,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Watto",
+                "companyUsername": "watto",
+                "companyURL": "https://www.linkedin.com/company/watto/",
+                "companyLogo": "https://media.licdn.com/dms/image/C4E0BAQGdOGfq4pattA/company-logo_400_400/0/1649494948189?e=1722470400&v=beta&t=cr_a0qD6Q8R6F04u5sJglmCx85LL2JcQ5X3cpm3Z31s",
+                "companyIndustry": "Financial Services",
+                "companyStaffCountRange": "2 - 10",
+                "title": "Digital Marketing Intern",
+                "multiLocaleTitle": {
+                    "fr_FR": "Digital Marketing Intern"
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "Watto"
+                },
+                "location": "Gouvernorat Tunis, Tunisie",
+                "description": "- Mise en place d'une stratégie de communication digital \n- Optimisation de la landing page\n- Audit SEO \n- Création de contenu",
+                "employmentType": "Internship",
+                "start": {
+                    "year": 2023,
+                    "month": 2,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2023,
+                    "month": 8,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Cosméto",
+                "companyUsername": "",
+                "companyURL": "",
+                "companyLogo": "",
+                "companyIndustry": "",
+                "companyStaffCountRange": "",
+                "title": "Social Media Manager",
+                "multiLocaleTitle": {
+                    "fr_FR": "Social Media Manager"
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "Cosméto"
+                },
+                "location": "Tunis, Tunisie",
+                "description": "- Mise en place d'une stratégie de communication \n- Mise en place d'une charte graphique \n- Création des différents supports de communication ( les bannières du site Web, Newsletter, Post Facebook et Instagram , story )\n- Analyse des résultats des différentes campagnes de publicités\n- Mise en ligne des Blog",
+                "employmentType": "Part-time",
+                "start": {
+                    "year": 2021,
+                    "month": 8,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2022,
+                    "month": 5,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Museum Lab",
+                "companyUsername": "",
+                "companyURL": "",
+                "companyLogo": "",
+                "companyIndustry": "",
+                "companyStaffCountRange": "",
+                "title": "Graphic Designer ",
+                "multiLocaleTitle": {
+                    "fr_FR": "Graphic Designer "
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "Museum Lab"
+                },
+                "location": "Tunis, Tunisie",
+                "description": "- Conception de supports de communication graphique et audiovisuelle\n- Mise en place de la charte graphique",
+                "employmentType": "Internship",
+                "start": {
+                    "year": 2021,
+                    "month": 8,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 11,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Nathalie Garçon",
+                "companyUsername": "",
+                "companyURL": "",
+                "companyLogo": "",
+                "companyIndustry": "",
+                "companyStaffCountRange": "",
+                "title": "Community Manager et photographe ",
+                "multiLocaleTitle": {
+                    "fr_FR": "Community Manager et photographe "
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "Nathalie Garçon"
+                },
+                "location": "France",
+                "description": "- Shooting photos et vidéos \n- Montage vidéos \n- Transcription des vidéos du dialecte tunisien en français \n- Alimenter les réseaux sociaux",
+                "employmentType": "Freelance",
+                "start": {
+                    "year": 2021,
+                    "month": 6,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 7,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Designers Junior Entreprise",
+                "companyUsername": "designers-junior-entreprise",
+                "companyURL": "https://www.linkedin.com/company/designers-junior-entreprise/",
+                "companyLogo": "https://media.licdn.com/dms/image/C560BAQHnQ3p2V8cyPg/company-logo_400_400/0/1630630792950?e=1722470400&v=beta&t=btOQsVlVKjTFZFaQ8a4i6SDPCSk4Ff-v28eGop9lKio",
+                "companyIndustry": "Design",
+                "companyStaffCountRange": "51 - 200",
+                "title": "Présidente",
+                "multiLocaleTitle": {
+                    "fr_FR": "Présidente"
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "Designers Junior Entreprise"
+                },
+                "location": "Tunis, Tunisie",
+                "description": "-Planification des stratégies\n-Supervision des taches\n-Etablissement d’une démarche qualité pour certification ISO 9OO1.\n-Organisation des évènements, mise en œuvre des stratégies \ncommerciales et négociation avec les partenaires",
+                "employmentType": "",
+                "start": {
+                    "year": 2020,
+                    "month": 8,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 7,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Havas Group",
+                "companyUsername": "havas",
+                "companyURL": "https://www.linkedin.com/company/havas/",
+                "companyLogo": "https://media.licdn.com/dms/image/D4E0BAQHgBSVBsdM1wg/company-logo_400_400/0/1686661160006/havas_logo?e=1722470400&v=beta&t=9c-ALJh_rZRfy1JVd1RUxFEx9hLMCoGO9yF79NP18ks",
+                "companyIndustry": "Marketing & Advertising",
+                "companyStaffCountRange": "10001 - 0",
+                "title": "Concepteur rédacteur",
+                "multiLocaleTitle": {
+                    "fr_FR": "Concepteur rédacteur"
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "Havas Group"
+                },
+                "location": "Tunis, Tunisie",
+                "description": "- Rédaction des accroches pour la communication de plusieurs \nmarques Tunisienne renommées.\n- Rédaction des spots radios.\n- Traduction publicitaire\n- Elaboration d'un brief prod shooting\n- Mettre en œuvre des stratégies d’activation.",
+                "employmentType": "Internship",
+                "start": {
+                    "year": 2021,
+                    "month": 4,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 5,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "Confédération Tunisienne des Junior Entreprises",
+                "companyUsername": "jet-junior-enterprises-tunisia",
+                "companyURL": "https://www.linkedin.com/company/jet-junior-enterprises-tunisia/",
+                "companyLogo": "https://media.licdn.com/dms/image/C4D0BAQEYqTgS2BpUng/company-logo_400_400/0/1662121492251/jet_junior_enterprises_tunisia_logo?e=1722470400&v=beta&t=vQBmtZdQJAlJO6ohoDZyj_snNAAt34NLE1rH-_WwECg",
+                "companyIndustry": "Non-profit Organization Management",
+                "companyStaffCountRange": "11 - 50",
+                "title": "Oc marketing ",
+                "multiLocaleTitle": {
+                    "fr_FR": "Oc marketing "
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "Confédération Tunisienne des Junior Entreprises"
+                },
+                "location": "Tunisie",
+                "description": "- Création des supports de communication on line et off line \n- Mise en place d'une stratégie de communication d'un évènement national",
+                "employmentType": "",
+                "start": {
+                    "year": 2021,
+                    "month": 2,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 3,
+                    "day": 0
+                }
+            },
+            {
+                "companyName": "panda grafic",
+                "companyUsername": "",
+                "companyURL": "",
+                "companyLogo": "",
+                "companyIndustry": "",
+                "companyStaffCountRange": "",
+                "title": "Graphiste",
+                "multiLocaleTitle": {
+                    "fr_FR": "Graphiste"
+                },
+                "multiLocaleCompanyName": {
+                    "fr_FR": "panda grafic"
+                },
+                "location": "Nabeul, Tunisie",
+                "description": "- Conception et impression des supports graphiques",
+                "employmentType": "Internship",
+                "start": {
+                    "year": 2019,
+                    "month": 6,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2019,
+                    "month": 8,
+                    "day": 0
+                }
+            }
+        ],
+        "skills": [
+            {
+                "name": "Création de contenu pour les médias sociaux",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Copywriter",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Transcription",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Préproduction",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Conception d’infographie",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Montage vidéo",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Organisations non gouvernementales (ONG)",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Intelligence artificielle (IA)",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Communication ludique",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Communication sur les réseaux sociaux",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "SEO",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Web analytique",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "E-commerce",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Gestion de la relation client (CRM)",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Stratégie de contenu",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Présentations clients",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Résolution de problèmes",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Rédaction publicitaire",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Stratégie créative",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Marketing par des influenceurs",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Stratégie d’entreprise",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Tournage de vidéos",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Branding",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Adobe Creative Suite",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Autonomie",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "UX-UI",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Stratégie de communication numérique",
+                "passedSkillAssessment": false
+            },
+            {
+                "name": "Marketing digital",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 5
+            },
+            {
+                "name": "Marketing",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 8
+            },
+            {
+                "name": "Communication",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 8
+            },
+            {
+                "name": "Photographie",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 6
+            },
+            {
+                "name": "Design",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 10
+            },
+            {
+                "name": "Organisation d’événements",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 8
+            },
+            {
+                "name": "Design graphique",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 9
+            },
+            {
+                "name": "Réseaux sociaux",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 5
+            },
+            {
+                "name": "Management",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 5
+            },
+            {
+                "name": "Leadership",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 4
+            },
+            {
+                "name": "Gestion d’équipe",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 4
+            },
+            {
+                "name": "Gestion de projet",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 5
+            },
+            {
+                "name": "Conception d’identité visuelle",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 5
+            },
+            {
+                "name": "Normes ISO",
+                "passedSkillAssessment": false,
+                "endorsementsCount": 3
+            }
+        ],
+        "givenRecommendation": null,
+        "givenRecommendationCount": 0,
+        "receivedRecommendation": null,
+        "receivedRecommendationCount": 0,
+        "courses": null,
+        "certifications": null,
+        "honors": null,
+        "volunteering": null,
+        "supportedLocales": [
+            {
+                "country": "FR",
+                "language": "fr"
+            }
+        ],
+        "multiLocaleFirstName": {
+            "fr": "Marzouk"
+        },
+        "multiLocaleLastName": {
+            "fr": "Nour"
+        },
+        "multiLocaleHeadline": {
+            "fr": "Digital Marketer | Graphic Designer"
+        }
+    },
+    "follower": 900
+}

@@ -1,0 +1,546 @@
+{
+    "error": false,
+    "response": {
+        "first_name": "Marzouk",
+        "last_name": "Nour",
+        "full_name": "Marzouk Nour",
+        "gender": null,
+        "job_title": "Digital Marketer | Graphic Designer",
+        "linkedin": "https://www.linkedin.com/in/marzouk-nour",
+        "summary": "Diplômée d'un double master en marketing digital et en management de la communication ainsi qu'une licence en design image. Je suis passionnée par la mise en place des stratégies de contenus social media et par la conception graphique des supports de communication. Je suis là pour transformer vos idées en histoires visuelles et textuelles captivantes.",
+        "premium": false,
+        "skills": "Création de contenu pour les médias sociaux, Copywriter, Transcription, Préproduction, Conception d’infographie, Montage vidéo, Organisations non gouvernementales (ONG), Intelligence artificielle (IA), Communication ludique, Communication sur les réseaux sociaux, SEO, Web analytique, E-commerce, Gestion de la relation client (CRM), Stratégie de contenu, Présentations clients, Résolution de problèmes, Rédaction publicitaire, Stratégie créative, Marketing par des influenceurs",
+        "work_experience": [
+            {
+                "company": {
+                    "id": 101360741,
+                    "name": "People of Growth",
+                    "logo": "https://media.licdn.com/dms/image/D4D0BAQGrzkVGH7nuww/company-logo_400_400/0/1702555893301?e=1722470400&v=beta&t=JOkDphpRpvaTvCOijGEC0-wunQ_9FcFplyNnb5m4VXI",
+                    "url": "https://www.linkedin.com/company/people-of-growth/",
+                    "employees": {
+                        "start": 2,
+                        "end": 10
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 9,
+                        "day": null,
+                        "year": 2023
+                    },
+                    "end": {
+                        "month": null,
+                        "day": null,
+                        "year": null
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": null,
+                        "date": {
+                            "start": {
+                                "month": 9,
+                                "day": null,
+                                "year": 2023
+                            },
+                            "end": {
+                                "month": null,
+                                "day": null,
+                                "year": null
+                            }
+                        },
+                        "company": "People of Growth",
+                        "description": null,
+                        "title": "Design & Content Specialist ",
+                        "employment_type": "Full-time"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": 84864028,
+                    "name": "Watto",
+                    "logo": "https://media.licdn.com/dms/image/C4E0BAQGdOGfq4pattA/company-logo_400_400/0/1649494948189?e=1722470400&v=beta&t=cr_a0qD6Q8R6F04u5sJglmCx85LL2JcQ5X3cpm3Z31s",
+                    "url": "https://www.linkedin.com/company/watto/",
+                    "employees": {
+                        "start": 2,
+                        "end": 10
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 2,
+                        "day": null,
+                        "year": 2023
+                    },
+                    "end": {
+                        "month": 8,
+                        "day": null,
+                        "year": 2023
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": "Gouvernorat Tunis, Tunisie",
+                        "date": {
+                            "start": {
+                                "month": 2,
+                                "day": null,
+                                "year": 2023
+                            },
+                            "end": {
+                                "month": 8,
+                                "day": null,
+                                "year": 2023
+                            }
+                        },
+                        "company": "Watto",
+                        "description": "- Mise en place d'une stratégie de communication digital \n- Optimisation de la landing page\n- Audit SEO \n- Création de contenu",
+                        "title": "Digital Marketing Intern",
+                        "employment_type": "Internship"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": null,
+                    "name": "Cosméto",
+                    "logo": null,
+                    "url": null,
+                    "employees": {
+                        "start": null,
+                        "end": null
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 8,
+                        "day": null,
+                        "year": 2021
+                    },
+                    "end": {
+                        "month": 5,
+                        "day": null,
+                        "year": 2022
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": "Tunis, Tunisie",
+                        "date": {
+                            "start": {
+                                "month": 8,
+                                "day": null,
+                                "year": 2021
+                            },
+                            "end": {
+                                "month": 5,
+                                "day": null,
+                                "year": 2022
+                            }
+                        },
+                        "company": "Cosméto",
+                        "description": "- Mise en place d'une stratégie de communication \n- Mise en place d'une charte graphique \n- Création des différents supports de communication ( les bannières du site Web, Newsletter, Post Facebook et Instagram , story )\n- Analyse des résultats des différentes campagnes de publicités\n- Mise en ligne des Blog",
+                        "title": "Social Media Manager",
+                        "employment_type": "Part-time"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": null,
+                    "name": "Museum Lab",
+                    "logo": null,
+                    "url": null,
+                    "employees": {
+                        "start": null,
+                        "end": null
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 8,
+                        "day": null,
+                        "year": 2021
+                    },
+                    "end": {
+                        "month": 11,
+                        "day": null,
+                        "year": 2021
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": "Tunis, Tunisie",
+                        "date": {
+                            "start": {
+                                "month": 8,
+                                "day": null,
+                                "year": 2021
+                            },
+                            "end": {
+                                "month": 11,
+                                "day": null,
+                                "year": 2021
+                            }
+                        },
+                        "company": "Museum Lab",
+                        "description": "- Conception de supports de communication graphique et audiovisuelle\n- Mise en place de la charte graphique",
+                        "title": "Graphic Designer ",
+                        "employment_type": "Internship"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": null,
+                    "name": "Nathalie Garçon",
+                    "logo": null,
+                    "url": null,
+                    "employees": {
+                        "start": null,
+                        "end": null
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 6,
+                        "day": null,
+                        "year": 2021
+                    },
+                    "end": {
+                        "month": 7,
+                        "day": null,
+                        "year": 2021
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": "France",
+                        "date": {
+                            "start": {
+                                "month": 6,
+                                "day": null,
+                                "year": 2021
+                            },
+                            "end": {
+                                "month": 7,
+                                "day": null,
+                                "year": 2021
+                            }
+                        },
+                        "company": "Nathalie Garçon",
+                        "description": "- Shooting photos et vidéos \n- Montage vidéos \n- Transcription des vidéos du dialecte tunisien en français \n- Alimenter les réseaux sociaux",
+                        "title": "Community Manager et photographe ",
+                        "employment_type": "Freelance"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": 43230816,
+                    "name": "Designers Junior Entreprise",
+                    "logo": "https://media.licdn.com/dms/image/C560BAQHnQ3p2V8cyPg/company-logo_400_400/0/1630630792950?e=1722470400&v=beta&t=btOQsVlVKjTFZFaQ8a4i6SDPCSk4Ff-v28eGop9lKio",
+                    "url": "https://www.linkedin.com/company/designers-junior-entreprise/",
+                    "employees": {
+                        "start": 51,
+                        "end": 200
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 8,
+                        "day": null,
+                        "year": 2020
+                    },
+                    "end": {
+                        "month": 7,
+                        "day": null,
+                        "year": 2021
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": "Tunis, Tunisie",
+                        "date": {
+                            "start": {
+                                "month": 8,
+                                "day": null,
+                                "year": 2020
+                            },
+                            "end": {
+                                "month": 7,
+                                "day": null,
+                                "year": 2021
+                            }
+                        },
+                        "company": "Designers Junior Entreprise",
+                        "description": "-Planification des stratégies\n-Supervision des taches\n-Etablissement d’une démarche qualité pour certification ISO 9OO1.\n-Organisation des évènements, mise en œuvre des stratégies \ncommerciales et négociation avec les partenaires",
+                        "title": "Présidente",
+                        "employment_type": null
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": 157305,
+                    "name": "Havas Group",
+                    "logo": "https://media.licdn.com/dms/image/D4E0BAQHgBSVBsdM1wg/company-logo_400_400/0/1686661160006/havas_logo?e=1722470400&v=beta&t=9c-ALJh_rZRfy1JVd1RUxFEx9hLMCoGO9yF79NP18ks",
+                    "url": "https://www.linkedin.com/company/havas/",
+                    "employees": {
+                        "start": 10001,
+                        "end": null
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 4,
+                        "day": null,
+                        "year": 2021
+                    },
+                    "end": {
+                        "month": 5,
+                        "day": null,
+                        "year": 2021
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": "Tunis, Tunisie",
+                        "date": {
+                            "start": {
+                                "month": 4,
+                                "day": null,
+                                "year": 2021
+                            },
+                            "end": {
+                                "month": 5,
+                                "day": null,
+                                "year": 2021
+                            }
+                        },
+                        "company": "Havas",
+                        "description": "- Rédaction des accroches pour la communication de plusieurs \nmarques Tunisienne renommées.\n- Rédaction des spots radios.\n- Traduction publicitaire\n- Elaboration d'un brief prod shooting\n- Mettre en œuvre des stratégies d’activation.",
+                        "title": "Concepteur rédacteur",
+                        "employment_type": "Internship"
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": 14856968,
+                    "name": "Confédération Tunisienne des Junior Entreprises",
+                    "logo": "https://media.licdn.com/dms/image/C4D0BAQEYqTgS2BpUng/company-logo_400_400/0/1662121492251/jet_junior_enterprises_tunisia_logo?e=1722470400&v=beta&t=vQBmtZdQJAlJO6ohoDZyj_snNAAt34NLE1rH-_WwECg",
+                    "url": "https://www.linkedin.com/company/jet-junior-enterprises-tunisia/",
+                    "employees": {
+                        "start": 11,
+                        "end": 50
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 2,
+                        "day": null,
+                        "year": 2021
+                    },
+                    "end": {
+                        "month": 3,
+                        "day": null,
+                        "year": 2021
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": "Tunisie",
+                        "date": {
+                            "start": {
+                                "month": 2,
+                                "day": null,
+                                "year": 2021
+                            },
+                            "end": {
+                                "month": 3,
+                                "day": null,
+                                "year": 2021
+                            }
+                        },
+                        "company": "Junior Enterprises Tunisia - JET",
+                        "description": "- Création des supports de communication on line et off line \n- Mise en place d'une stratégie de communication d'un évènement national",
+                        "title": "Oc marketing ",
+                        "employment_type": null
+                    }
+                ]
+            },
+            {
+                "company": {
+                    "id": null,
+                    "name": "panda grafic",
+                    "logo": null,
+                    "url": null,
+                    "employees": {
+                        "start": null,
+                        "end": null
+                    }
+                },
+                "date": {
+                    "start": {
+                        "month": 6,
+                        "day": null,
+                        "year": 2019
+                    },
+                    "end": {
+                        "month": 8,
+                        "day": null,
+                        "year": 2019
+                    }
+                },
+                "profile_positions": [
+                    {
+                        "location": "Nabeul, Tunisie",
+                        "date": {
+                            "start": {
+                                "month": 6,
+                                "day": null,
+                                "year": 2019
+                            },
+                            "end": {
+                                "month": 8,
+                                "day": null,
+                                "year": 2019
+                            }
+                        },
+                        "company": "panda grafic",
+                        "description": "- Conception et impression des supports graphiques",
+                        "title": "Graphiste",
+                        "employment_type": "Internship"
+                    }
+                ]
+            }
+        ],
+        "education": [
+            {
+                "date": {
+                    "start": {
+                        "month": 9,
+                        "day": null,
+                        "year": 2022
+                    },
+                    "end": {
+                        "month": 9,
+                        "day": null,
+                        "year": 2023
+                    }
+                },
+                "school": {
+                    "name": "SUP'DE COM",
+                    "logo": "https://media.licdn.com/dms/image/C4E0BAQG6X8M_xJ_PyA/company-logo_400_400/0/1652962734259/supde_com_logo?e=1722470400&v=beta&t=eVcyK9kVxZMFZQwNF3aonZ3bAWWgOcySW6KpINsDSBw",
+                    "url": "https://www.linkedin.com/school/sup%27de-com/"
+                },
+                "degree_name": "Mastère manager de la communication",
+                "field_of_study": "Marketing digital",
+                "grade": null
+            },
+            {
+                "date": {
+                    "start": {
+                        "month": null,
+                        "day": null,
+                        "year": 2021
+                    },
+                    "end": {
+                        "month": 9,
+                        "day": null,
+                        "year": 2023
+                    }
+                },
+                "school": {
+                    "name": "Esprit School of Business",
+                    "logo": "https://media.licdn.com/dms/image/C4E0BAQElv8gPlEAi-w/company-logo_400_400/0/1650015579531/esprit_school_of_business_esb_logo?e=1722470400&v=beta&t=oQUd_wZwcl5g2Tg-i4Bq-ezQkXjMV0-ri5mxWWmdDe8",
+                    "url": "https://www.linkedin.com/school/esprit-school-of-business-esb/"
+                },
+                "degree_name": "Master en marketing digital",
+                "field_of_study": "Marketing Digital",
+                "grade": "Mention Bien"
+            },
+            {
+                "date": {
+                    "start": {
+                        "month": null,
+                        "day": null,
+                        "year": 2018
+                    },
+                    "end": {
+                        "month": null,
+                        "day": null,
+                        "year": 2021
+                    }
+                },
+                "school": {
+                    "name": "ESSTeD - Ecole Supérieure Des Sciences et Technologies du Design",
+                    "logo": "https://media.licdn.com/dms/image/C560BAQFG6wgUBg5k6g/company-logo_400_400/0/1631357098222?e=1722470400&v=beta&t=x5LjdL10Sa_BARIbOb3-SddOCLE34GGykVmJF933eD4",
+                    "url": "https://www.linkedin.com/school/essted/"
+                },
+                "degree_name": "Licence en design image",
+                "field_of_study": "Design graphique et audiovisuel",
+                "grade": "Mention bien "
+            }
+        ],
+        "languages": {
+            "primary_locale": {
+                "country": "FR",
+                "language": "fr"
+            },
+            "supported_locales": [
+                {
+                    "country": "FR",
+                    "language": "fr"
+                }
+            ],
+            "profile_languages": []
+        },
+        "current_job_year": 2023,
+        "current_job_month": 9,
+        "entity_urn": "ACoAADUKYzUBKaA6-TR0qRF_fMbIywe6o90Uiz0",
+        "picture": "https://assets-prospeo.s3.us-east-2.amazonaws.com/lead_Z8FN8D6PMWW1N7DUKZ03.jpg",
+        "email": {
+            "email": "nour@peopleofgrowth.io",
+            "email_anon_id": "HGi5AW58E7BU",
+            "email_status": "VALID",
+            "email_type": "professional"
+        },
+        "company": {
+            "name": "People of Growth",
+            "is_catch_all": null,
+            "size": "2-10",
+            "logo": "https://assets-prospeo.s3.us-east-2.amazonaws.com/company_GKUD2DXK242KQAA8Z32M.jpg",
+            "linkedin": "https://www.linkedin.com/company/people-of-growth",
+            "website": "https://peopleofgrowth.io/",
+            "domain": "peopleofgrowth.io",
+            "common_email_pattern": "{first}",
+            "industry": "Business Consulting and Services",
+            "founded_in": 2021,
+            "description": "People of Growth is a Go-To-Market (GTM) consulting and training firm, but we go beyond the traditional consultancy model to be your dedicated growth partner. Our mission is to empower founders and revenue teams of tech startups in EMEA with the skills and tools they need for long-term success.\n\nWith a focus on upskilling your sales, marketing, client success, and HR teams, we equip you with the necessary insights and strategies to achieve exponential growth. Our data-driven and customer-centric approach is designed to maximize traction in your target market.\n\nAt People of Growth, we specialize in three key areas:\n\n1. Growth & Traction: Achieve exponential growth with our expert guidance and data-driven strategies.\n2. New Market Entry: Enter new markets confidently and conquer new territories with the support of our experienced team.\n3. Talent management: Attract, acquire, and retain top talent to fuel your company's growth engine.\n\nOur services include:\n\n- Personalized Go-To-Market programs for startups and support organizations.\n- Training, upskilling, and coaching sessions to empower your team.\n- Access to on-demand expertise with our Consultant-as-a-Service offering.\nAnd much more!\n\nConnect with us to learn more.",
+            "total_emails": 2,
+            "location": {
+                "country": "Tunisia",
+                "country_code": "TN",
+                "state": null,
+                "city": "Berges Du Lac",
+                "timezone": "Africa/Tunis",
+                "timezone_offset": "1.0",
+                "postal_code": null,
+                "address": "Rue du Lac Winnipeg"
+            }
+        },
+        "location": {
+            "country": "Tunisia",
+            "country_code": "TN",
+            "state": "Tunis",
+            "city": null,
+            "timezone": "Africa/Tunis",
+            "timezone_offset": "1.0",
+            "postal_code": null,
+            "raw": "Tunis, Tunisia"
+        }
+    }
+}

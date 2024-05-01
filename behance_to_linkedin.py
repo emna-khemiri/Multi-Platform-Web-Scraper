@@ -24,7 +24,6 @@ def behance_linkedin(behance_username):
     profile_data["Skills"] = skills
 
     # Fetch LinkedIn username
-    # Fetch LinkedIn username
     linkedin_username = behance_scraper.get_linkedin_username(profile_data)
     if linkedin_username:
         profile_data["LinkedIn Username"] = linkedin_username

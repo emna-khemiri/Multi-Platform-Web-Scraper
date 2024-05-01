@@ -1,5 +1,5 @@
 {
-    "connection": 2467,
+    "connection": 2474,
     "data": {
         "urn": "ACoAACnva30B8ZNfFey_Yv_XfsfZLPvYxRFA2lU",
         "username": "mohamed-khedher-8a5752177",
@@ -7,7 +7,7 @@
         "lastName": "khedher",
         "isOpenToWork": false,
         "isHiring": false,
-        "profilePicture": "https://media.licdn.com/dms/image/C4E03AQHp559LrEY2og/profile-displayphoto-shrink_800_800/0/1648923063815?e=1719446400&v=beta&t=HN-7wnSJtrctA9Ur_kbPwFwWSrVdGTkraTvQFuSG-NY",
+        "profilePicture": "https://media.licdn.com/dms/image/C4E03AQHp559LrEY2og/profile-displayphoto-shrink_800_800/0/1648923063815?e=1720051200&v=beta&t=H5lE33hdS3u_wJldWOsjFLitN2WssAJhK4lhCM7vt8U",
         "summary": "I'm Mohamed Khedher, a serial tech entrepreneur with a passion for innovation. I turn disruptive ideas into thriving businesses. Let's connect and explore new opportunities together.",
         "headline": "Serial Tech Entrepreneur | Innovator | Building the future of business networking",
         "geo": {
@@ -851,5 +851,5 @@
             "en": "Serial Tech Entrepreneur | Innovator | Building the future of business networking"
         }
     },
-    "follower": 2801
+    "follower": 2805
 }

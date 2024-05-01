@@ -13,7 +13,7 @@ load_dotenv()
 
 def setup_logging():
     logger = logging.getLogger(__name__)
-    if not logger.handlers:  # Check if handlers are already added
+    if not logger.handlers:  
         logger.setLevel(logging.INFO)
         c_handler = logging.StreamHandler()
         f_handler = logging.FileHandler('logfile.log')
@@ -119,7 +119,7 @@ def process_user(user_info, logger):
                     logger.info(f"Extracted company name: {company_name}")
                     crunchbase_username = extract_crunchbase_username(company_name)
                     if crunchbase_username:
-                        logger.info(f"Crunchbase username: {crunchbase_username}")
+                        logger.info(f"Scraping Crunchbase for: {crunchbase_username}")
                         scrape_crunchbase_organization(crunchbase_username)
                     scrape_and_summarize_techcrunch(linkedin_username, company_name)
                 else:
