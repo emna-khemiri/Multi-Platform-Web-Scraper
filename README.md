@@ -12,13 +12,6 @@ This project is a robust web scraping tool designed to gather and process user a
 - **Logging**: Detailed logging to track execution and debug issues.
 - **Environment Variable Management**: Secure handling of sensitive API keys using `.env`.
 
-## Prerequisites
-
-1. Python 3.7 or higher.
-2. Required Python packages (listed in `requirements.txt`).
-3. API keys for LinkedIn, Crunchbase, and other integrated services.
-4. Access to Google Search (optional).
-
 ## Installation
 
 1. Clone this repository:
@@ -75,13 +68,6 @@ Logs are saved in `logfile.log`, with details on each step, including errors and
 
 This project is intended for educational and personal use only. Scraping data from platforms like LinkedIn and others may violate their terms of service. Use responsibly.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contributions
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ---
 
